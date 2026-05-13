@@ -1,0 +1,2602 @@
+[
+    {
+        "sentence": "A refreshingly realistic , affectation-free coming-of-age tale .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Much of the cast is stiff or just plain bad .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Do n't even bother to rent this on video .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The whole film has this sneaky feel to it -- as if the director is trying to dupe the viewer into taking it all as Very Important simply because the movie is ugly to look at and not a Hollywood product .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "As banal as the telling may be -- and at times , All My Loved Ones more than flirts with kitsch -- the tale commands attention .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It is depressing , ruthlessly pained and depraved , the movie equivalent of staring into an open wound .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The first hour is tedious though Ford and Neeson capably hold our interest , but its just not a thrilling movie .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Bogdanich is unashamedly pro-Serbian and makes little attempt to give voice to the other side .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The movie does such an excellent job of critiquing itself at every faltering half-step of its development that criticizing feels more like commiserating .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "DeMeo is not without talent ; he just needs better material .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Silly stuff , all mixed up together like a term paper from a kid who ca n't quite distinguish one sci-fi work from another .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It is not what you see , it is what you think you see .",
+        "label": "POS"
+    },
+    {
+        "sentence": "When the heroes were actually under 40 ?",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The action quickly sinks into by-the-numbers territory .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Why anyone who is not a character in this movie should care is beyond me .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "There are some laughs in this movie , but Williams ' anarchy gets tiresome , the satire is weak .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Spy-vs .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Sadly , as Blood Work proves , that was a long , long time ago .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "You can watch , giggle and get an adrenaline boost without feeling like you 've completely lowered your entertainment standards .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A wild comedy that could only spring from the demented mind of the writer of Being John Malkovich .",
+        "label": "POS"
+    },
+    {
+        "sentence": "( Leigh ) has a true talent for drawing wrenching performances from his actors ( improvised over many months ) and for conveying the way tiny acts of kindness make ordinary life survivable .",
+        "label": "POS"
+    },
+    {
+        "sentence": "There are moments of real pleasure to be found in Sara Sugarman 's whimsical comedy Very Annie-Mary but not enough to sustain the film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The script has less spice than a rat burger and The Rock 's fighting skills are more in line with Steven Seagal .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "These characters become wearisome .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Drowning 's too good for this sucker .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Although commentary on Nachtwey is provided ... it 's the image that really tells the tale .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Terminally bland , painfully slow and needlessly confusing ... The movie , shot on digital videotape rather than film , is frequently indecipherable .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "An ambitiously naturalistic , albeit half-baked , drama about an abused , inner-city autistic teen .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A preposterous , prurient whodunit .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The script falls back on too many tried-and-true shenanigans that hardly distinguish it from the next teen comedy .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A sloppy , amusing comedy that proceeds from a stunningly unoriginal premise .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It irritates and saddens me that Martin Lawrence 's latest vehicle can explode obnoxiously into 2,500 screens while something of Bubba Ho-Tep 's clearly evident quality may end up languishing on a shelf somewhere .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "I 'd rather watch a rerun of The Powerpuff Girls",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A well paced and satisfying little drama that deserved better than a ` direct-to-video ' release .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A surprisingly charming and even witty match for the best of Hollywood 's comic-book adaptations .",
+        "label": "POS"
+    },
+    {
+        "sentence": "This quiet , introspective and entertaining independent is worth seeking .",
+        "label": "POS"
+    },
+    {
+        "sentence": "In addition to the overcooked , ham-fisted direction , which has all the actors reaching for the back row , the dialogue sounds like horrible poetry .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "... is funny in the way that makes you ache with sadness ( the way Chekhov is funny ) , profound without ever being self-important , warm without ever succumbing to sentimentality .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's no lie -- Big Fat Liar is a real charmer .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's a feel-good movie about which you can actually feel good .",
+        "label": "POS"
+    },
+    {
+        "sentence": "... feels as if ( there 's ) a choke leash around your neck so director Nick Cassavetes can give it a good , hard yank whenever he wants you to feel something .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "There are laughs aplenty , and , as a bonus , viewers do n't have to worry about being subjected to farts , urine , feces , semen , or any of the other foul substances that have overrun modern-day comedies .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Whatever the movie 's sentimental , hypocritical lessons about sexism , its true colors come out in various wet T-shirt and shower scenes .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "When the screenwriter responsible for one of the worst movies of one year directs an equally miserable film the following year , you 'd have a hard time believing it was just coincidence .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This painfully unfunny farce traffics in tired stereotypes and encumbers itself with complications ... that have no bearing on the story .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The film is darkly atmospheric , with Herrmann quietly suggesting the sadness and obsession beneath Hearst 's forced avuncular chortles .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "I 'm not sure which will take longer to heal : the welt on Johnny Knoxville 's stomach from a riot-control projectile or my own tortured psyche .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Y Tu Mamá También is hilariously , gloriously alive , and quite often hotter than Georgia asphalt .",
+        "label": "POS"
+    },
+    {
+        "sentence": "What 's hard to understand is why anybody picked it up .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It may be a somewhat backhanded compliment to say that the film makes the viewer feel like the movie 's various victimized audience members after a while , but it also happens to be the movie 's most admirable quality",
+        "label": "POS"
+    },
+    {
+        "sentence": "This is a harrowing movie about how parents know where all the buttons are , and how to push them .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The film 's needlessly opaque intro takes its doe-eyed Crudup out of pre-9 \\/ 11 New York and onto a cross-country road trip of the Homeric kind .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "But Kouyate elicits strong performances from his cast , and he delivers a powerful commentary on how governments lie , no matter who runs them .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Trailer park Magnolia : too long , too cutesy , too sure of its own importance , and possessed of that peculiar tension of being too dense & about nothing at all .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "For all the time we spend with these people , we never really get inside of them .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "What a great way to spend 4 units of your day .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A clumsily manufactured exploitation flick , a style-free exercise in manipulation and mayhem .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It 's a gag that 's worn a bit thin over the years , though Do n't Ask still finds a few chuckles .",
+        "label": "POS"
+    },
+    {
+        "sentence": "... the same tired old gags , modernized for the extreme sports generation .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Hey , Happy !",
+        "label": "POS"
+    },
+    {
+        "sentence": "Using an endearing cast , writer\\/director Dover Kosashvili takes a slightly dark look at relationships , both sexual and kindred .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Rarely , a movie is more than a movie .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Not only is it hokey , manipulative and as bland as Wonder Bread dipped in milk , but it also does the absolute last thing we need Hollywood doing to us : It preaches .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A cellophane-pop remake of the punk classic Ladies and Gentlemen , The Fabulous Stains ... Crossroads is never much worse than bland or better than inconsequential .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "For almost the first two-thirds of Martin Scorsese 's 168-minute Gangs of New York , I was entranced .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Not as good as the original , but what is ...",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Chances are you wo n't , either .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The waterlogged script plumbs uncharted depths of stupidity , incoherence and sub-sophomoric sexual banter .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Really dumb but occasionally really funny .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The things this movie tries to get the audience to buy just wo n't fly with most intelligent viewers .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Imagine O. Henry 's The Gift of the Magi relocated to the scuzzy underbelly of NYC 's drug scene .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Every now and again , a movie comes along to remind us of how very bad a motion picture can truly be .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The modern master of the chase sequence returns with a chase to end all chases",
+        "label": "POS"
+    },
+    {
+        "sentence": "What saves it ... and makes it one of the better video-game-based flicks , is that the film acknowledges upfront that the plot makes no sense , such that the lack of linearity is the point of emotional and moral departure for protagonist Alice .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A meditation on faith and madness , Frailty is blood-curdling stuff .",
+        "label": "POS"
+    },
+    {
+        "sentence": "You really have to salute writer-director Haneke ( he adapted Elfriede Jelinek 's novel ) for making a film that is n't nearly as graphic but much more powerful , brutally shocking and difficult to watch .",
+        "label": "POS"
+    },
+    {
+        "sentence": "If Oscar had a category called Best Bad Film You Thought Was Going To Be Really Awful But Was n't , Guys would probably be duking it out with The Queen of the Damned for the honor .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A chilly , brooding but quietly resonant psychological study of domestic tension and unhappiness .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Even with its $ 50-million US budget , Pinocchio never quite achieves the feel of a fanciful motion picture .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "I 'd watch these two together again in a New York minute .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The AAA of action , XXX is a blast of adrenalin , rated EEE for excitement .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The movie , despite its rough edges and a tendency to sag in certain places , is wry and engrossing .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's as raw and action-packed an experience as a ringside seat at a tough-man contest .",
+        "label": "POS"
+    },
+    {
+        "sentence": "a joyous occasion",
+        "label": "POS"
+    },
+    {
+        "sentence": "Those who trek to the ` plex predisposed to like it probably will enjoy themselves .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Amidst the action , the script carries Arnold ( and the viewers ) into the forbidden zone of sympathizing with terrorist motivations by presenting the `` other side of the story . ''",
+        "label": "POS"
+    },
+    {
+        "sentence": "When it 's not wallowing in hormonal melodrama , `` Real Women Have Curves '' is a sweet , honest , and enjoyable comedy-drama about a young woman who wants many things in life , but fears she 'll become her mother before she gets to fulfill her dreams .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It all unfolds predictably , and the adventures that happen along the way seem repetitive and designed to fill time , providing no real sense of suspense .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A comedy that is warm , inviting , and surprising .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Godard uses his characters -- if that 's not too glorified a term -- as art things , mouthpieces , visual motifs , blanks .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Crummy .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The best comedy concert movie I 've seen since Cho 's previous concert comedy film , I 'm the One That I Want , in 2000 .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's a cool event for the whole family .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The journey to the secret 's eventual discovery is a separate adventure , and thrill enough .",
+        "label": "POS"
+    },
+    {
+        "sentence": "This is an extraordinary film , not least because it is Japanese and yet feels universal .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Instead of making his own style , director Marcus Adams just copies from various sources -- good sources , bad mixture",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A wonderful , ghastly film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Hart 's War seems to want to be a character study , but apparently ca n't quite decide which character .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A poky and pseudo-serious exercise in sham actor workshops and an affected malaise .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Hartley adds enough quirky and satirical touches in the screenplay to keep the film entertaining .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Insanely hilarious !",
+        "label": "POS"
+    },
+    {
+        "sentence": "Utter mush ... conceited pap .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A movie that 's just plain awful but still manages to entertain on a guilty-pleasure , so-bad-it 's - funny level .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Would be an unendurable viewing experience for this ultra-provincial New Yorker if 26-year-old Reese Witherspoon were not on hand to inject her pure fantasy character , Melanie Carmichael , with a massive infusion of old-fashioned Hollywood magic .",
+        "label": "POS"
+    },
+    {
+        "sentence": "See Clockstoppers if you have nothing better to do with 94 minutes .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The movie should jolt you out of your seat a couple of times , give you a few laughs , and leave you feeling like it was worth your seven bucks , even though it does turn out to be a bit of a cheat in the end .",
+        "label": "POS"
+    },
+    {
+        "sentence": "is a question for philosophers , not filmmakers ; all the filmmakers need to do is engage an audience .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A deliberative account of a lifestyle characterized by its surface-obsession -- one that typifies the delirium of post , pre , and extant stardom .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Lightweight but appealing .",
+        "label": "POS"
+    },
+    {
+        "sentence": "After a while , Hoffman 's quirks and mannerisms , particularly his penchant for tearing up on cue -- things that seem so real in small doses -- become annoying and artificial .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It does give a taste of the Burning Man ethos , an appealing blend of counter-cultural idealism and hedonistic creativity .",
+        "label": "POS"
+    },
+    {
+        "sentence": "As I settled into my World War II memories , I found myself strangely moved by even the corniest and most hackneyed contrivances .",
+        "label": "POS"
+    },
+    {
+        "sentence": "You walk out of The Good Girl with mixed emotions -- disapproval of Justine combined with a tinge of understanding for her actions .",
+        "label": "POS"
+    },
+    {
+        "sentence": "This is not a Jackie Chan movie .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Gay or straight , Kissing Jessica Stein is one of the greatest date movies in years .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Driven by a fantastic dual performance from Ian Holm ... the film is funny , insightfully human and a delightful lark for history buffs .",
+        "label": "POS"
+    },
+    {
+        "sentence": "I found it slow , predictable and not very amusing .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "We just do n't really care too much about this love story .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "For the rest of us , sitting through Dahmer 's two hours amounts to little more than punishment .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Flamboyant in some movies and artfully restrained in others , 65-year-old Jack Nicholson could be looking at his 12th Oscar nomination by proving that he 's now , more than ever , choosing his roles with the precision of the insurance actuary .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The comedy makes social commentary more palatable .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Suffice to say that after seeing this movie in IMAX form , you 'll be more acquainted with the tiniest details of Tom Hanks ' face than his wife is .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A delightful little film that revels in its own simplicity , Mostly Martha will leave you with a smile on your face and a grumble in your stomach .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It sticks rigidly to the paradigm , rarely permitting its characters more than two obvious dimensions and repeatedly placing them in contrived , well-worn situations .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Here is a divine monument to a single man 's struggle to regain his life , his dignity and his music .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A brisk , reverent , and subtly different sequel .",
+        "label": "POS"
+    },
+    {
+        "sentence": "This New Zealand coming-of-age movie is n't really about anything .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Culkin turns his character into what is basically an anti-Harry Potter -- right down to the Gryffindor scarf .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "My Big Fat Greek Wedding is that rare animal known as ' a perfect family film , ' because it 's about family .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It would be churlish to begrudge anyone for receiving whatever consolation that can be found in Dragonfly , yet it is impossible to find the film anything but appalling , shamelessly manipulative and contrived , and totally lacking in conviction .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The structure is simple , but in its own way , Rabbit-Proof Fence is a quest story as grand as The Lord of the Rings .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Too much of Storytelling moves away from Solondz 's social critique , casting its audience as that of intellectual lector in contemplation of the auteur 's professional injuries .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It wraps up a classic mother\\/daughter struggle in recycled paper with a shiny new bow and while the audience can tell it 's not all new , at least it looks pretty .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Would n't it be funny if a bunch of Allied soldiers went undercover as women in a German factory during World War II ?",
+        "label": "POS"
+    },
+    {
+        "sentence": "Uplifting , funny and wise .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Better than the tepid Star Trek : Insurrection ; falls short of First Contact because the villain could n't pick the lint off Borg Queen Alice Krige 's cape ; and finishes half a parsec ( a nose ) ahead of Generations .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Expanded to 65 minutes for theatrical release , it still feels somewhat unfinished .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It makes compelling , provocative and prescient viewing .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Anyone who gets chills from movies with giant plot holes will find plenty to shake and shiver about in ` The Ring . '",
+        "label": "NEG"
+    },
+    {
+        "sentence": "One of the most exciting action films to come out of China in recent years .",
+        "label": "POS"
+    },
+    {
+        "sentence": "In XXX , Diesel is that rare creature -- an action hero with table manners , and one who proves that elegance is more than tattoo deep .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Entirely suspenseful , extremely well-paced and ultimately ... dare I say , entertaining !",
+        "label": "POS"
+    },
+    {
+        "sentence": "Thanks to The Château 's balance of whimsicality , narrative discipline and serious improvisation , almost every relationship and personality in the film yields surprises .",
+        "label": "POS"
+    },
+    {
+        "sentence": "By the time the plot grinds itself out in increasingly incoherent fashion , you might be wishing for a watch that makes time go faster rather than the other way around .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "an appalling ` Ace Ventura ' rip-off that somehow manages to bring together Kevin Pollak , former wrestler Chyna and Dolly Parton .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "When compared to the usual , more somber festival entries , Davis ' highly personal brand of romantic comedy is a tart , smart breath of fresh air that stands out from the pack even if the picture itself is somewhat problematic .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Cox creates a fluid and mesmerizing sequence of images to match the words of Nijinsky 's diaries .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Serving Sara is little more than a mall movie designed to kill time .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Shiner can certainly go the distance , but is n't world championship material",
+        "label": "POS"
+    },
+    {
+        "sentence": "A poignant and gently humorous parable that loves its characters and communicates something rather beautiful about human nature .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Memorable for a peculiar malaise that renders its tension flaccid and , by extension , its surprises limp and its resolutions ritual .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It 's so tedious that it makes you forgive every fake , dishonest , entertaining and , ultimately , more perceptive moment in Bridget Jones 's Diary .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This action-thriller\\/dark comedy is one of the most repellent things to pop up in a cinematic year already littered with celluloid garbage .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It never plays as dramatic even when dramatic things happen to people .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The film is hard to dismiss -- moody , thoughtful , and lit by flashes of mordant humor .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The uneven movie does have its charms and its funny moments but not quite enough of them .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "But if you 've paid a matinee price and bought a big tub of popcorn , there 's guilty fun to be had here .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Empire ca n't make up its mind whether it wants to be a gangster flick or an art film .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "If you do n't flee , you might be seduced .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The movie is ingenious fun .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Suffers from a decided lack of creative storytelling .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The problem is that Van Wilder does little that is actually funny with the material .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A summer entertainment adults can see without feeling embarrassed , but it could have been more .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A conventional , but well-crafted film about a historic legal battle in Ireland over a man 's right to raise his own children .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Plus , like I already mentioned ... it 's Robert Duvall !",
+        "label": "POS"
+    },
+    {
+        "sentence": "A marvel of production design .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The big finish is a bit like getting all excited about a chocolate eclair and then biting into it and finding the filling missing .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "... there is enough originality in ` Life ' to distance it from the pack of paint-by-number romantic comedies that so often end up on cinema screens .",
+        "label": "POS"
+    },
+    {
+        "sentence": "At no point during K-19 : The Widowmaker did this viewer feel enveloped in a story that , though meant to be universal in its themes of loyalty , courage and dedication to a common goal , never seems to leave the lot .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Move over Bond ; this girl deserves a sequel .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Helmer Hudlin tries to make a hip comedy , but his dependence on slapstick defeats the possibility of creating a more darkly edged tome .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A 75-minute sample of puerile rubbish that is listless , witless , and devoid of anything resembling humor .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "If the film 's vision of sport as a secular religion is a bit cloying , its through-line of family and community is heartening in the same way that each season marks a new start .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Analyze That regurgitates and waters down many of the previous film 's successes , with a few new swings thrown in .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "13 Conversations may be a bit too enigmatic and overly ambitious to be fully successful , but Sprecher and her screenwriting partner and sister , Karen Sprecher , do n't seem ever to run out of ideas .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Gooding and Coburn are both Oscar winners , a fact which , as you watch them clumsily mugging their way through Snow Dogs , seems inconceivable .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Made-Up lampoons the moviemaking process itself , while shining a not particularly flattering spotlight on America 's skin-deep notions of pulchritude .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The film , while not exactly assured in its execution , is notable for its sheer audacity and openness .",
+        "label": "POS"
+    },
+    {
+        "sentence": "... standard guns versus martial arts cliche with little new added .",
+        "label": "POS"
+    },
+    {
+        "sentence": "What one is left with , even after the most awful acts are committed , is an overwhelming sadness that feels as if it has made its way into your very bloodstream .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The director , Mark Pellington , does a terrific job conjuring up a sinister , menacing atmosphere though unfortunately all the story gives us is flashing red lights , a rattling noise , and a bump on the head .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Filmmaker Tian Zhuangzhuang triumphantly returns to narrative filmmaking with a visually masterful work of quiet power .",
+        "label": "POS"
+    },
+    {
+        "sentence": "S1M0NE 's satire is not subtle , but it is effective .",
+        "label": "POS"
+    },
+    {
+        "sentence": "If you 're looking for a smart , nuanced look at de Sade and what might have happened at Picpus , Sade is your film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The best thing about the movie is its personable , amusing cast .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Wiseman reveals the victims of domestic abuse in all of their pity and terror .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A hard look at one man 's occupational angst and its subsequent reinvention , a terrifying study of bourgeois desperation worthy of Claude Chabrol .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The sort of picture in which , whenever one of the characters has some serious soul searching to do , they go to a picture-perfect beach during sunset .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Spy Kids 2 also happens to be that rarity among sequels : It actually improves upon the original hit movie .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Shamelessly resorting to pee-related sight gags that might even cause Tom Green a grimace ; still , Myer 's energy and the silliness of it all eventually prevail",
+        "label": "POS"
+    },
+    {
+        "sentence": "Ultimate X is a ride , basically the kind of greatest-hits reel that might come with a subscription to ESPN the Magazine .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The story plays out slowly , but the characters are intriguing and realistic .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Huppert and Girardot give performances of exceptional honesty .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Watching junk like this induces a kind of abstract guilt , as if you were paying dues for good books unread , fine music never heard .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "If this movie leaves you cool , it also leaves you intriguingly contemplative .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Over the years , Hollywood has crafted a solid formula for successful animated movies , and Ice Age only improves on it , with terrific computer graphics , inventive action sequences and a droll sense of humor .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A minor work yet there 's no denying the potency of Miller 's strange , fleeting brew of hopeful perseverance and hopeless closure .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Compulsively watchable , no matter how degraded things get .",
+        "label": "POS"
+    },
+    {
+        "sentence": "An energetic , violent movie with a momentum that never lets up .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The story has little wit and no surprises .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Beautifully directed and convincingly acted .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Clever but not especially compelling .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The story that emerges has elements of romance , tragedy and even silent-movie comedy .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Do n't let the subtitles fool you ; the movie only proves that Hollywood no longer has a monopoly on mindless action .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A baffling subplot involving smuggling drugs inside Danish cows falls flat , and if you 're going to alter the Bard 's ending , you 'd better have a good alternative .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The tone errs on the shrill side , tempered by a soft southern gentility that speaks of beauty , grace and a closet full of skeletons .",
+        "label": "POS"
+    },
+    {
+        "sentence": "An even more predictable , cliche-ridden endeavor than its predecessor .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Distinctly sub-par ... more likely to drown a viewer in boredom than to send any shivers down his spine .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Veers uncomfortably close to pro-Serb propaganda .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A moving story of determination and the human spirit .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The film lapses too often into sugary sentiment and withholds delivery on the pell-mell pyrotechnics its punchy style promises .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A harrowing account of a psychological breakdown .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Mostly , Shafer and co-writer Gregory Hinton lack a strong-minded viewpoint , or a sense of humor .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "As ex-Marine Walter , who may or may not have shot Kennedy , actor Raymond J. Barry is perfectly creepy and believable .",
+        "label": "POS"
+    },
+    {
+        "sentence": "( A ) satisfying niblet .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Enticing and often funny documentary .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The Paradiso 's rusted-out ruin and ultimate collapse during the film 's final ( restored ) third ... emotionally belittle a cinema classic .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Even through its flaws , Revolution # 9 proves to be a compelling , interestingly told film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's quite diverting nonsense .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "An old-fashioned drama of substance about a teacher 's slide down the slippery slope of dishonesty after an encounter with the rich and the powerful who have nothing but disdain for virtue .",
+        "label": "POS"
+    },
+    {
+        "sentence": "You get the idea , though , that Kapur intended the film to be more than that .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "As predictable as the outcome of a Globetrotters-Generals game , Juwanna Mann is even more ludicrous than you 'd expect from the guy-in-a-dress genre , and a personal low for everyone involved .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "See it .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Family fare .",
+        "label": "POS"
+    },
+    {
+        "sentence": "By and large this is Mr. Kilmer 's movie , and it 's his strongest performance since The Doors .",
+        "label": "POS"
+    },
+    {
+        "sentence": "More of an intriguing curiosity than a gripping thriller .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "One of the best films of the year with its exquisite acting , inventive screenplay , mesmerizing music , and many inimitable scenes of tenderness , loss , discontent , and yearning .",
+        "label": "POS"
+    },
+    {
+        "sentence": "One lousy movie .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Less-than-compelling documentary of a Yiddish theater clan .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "There are deeply religious and spiritual people in this world who would argue that entering a church , synagogue or temple does n't mean you have to check your brain at the door .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Psychologically savvy .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The modern-day characters are nowhere near as vivid as the 19th-century ones .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Director Uwe Boll and writer Robert Dean Klein fail to generate any interest in an unsympathetic hero caught up in an intricate plot that while cleverly worked out , can not overcome blah characters .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "( Denis ' ) bare-bones narrative more closely resembles an outline for a '70s exploitation picture than the finished product .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Too bland and fustily tasteful to be truly prurient .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The truth about Charlie is that it 's a brazenly misguided project .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Though Frodo 's quest remains unfulfilled , a hardy group of determined New Zealanders has proved its creative mettle .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Disturbing .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "You may feel compelled to watch the film twice or pick up a book on the subject .",
+        "label": "POS"
+    },
+    {
+        "sentence": "` Christian Bale 's Quinn ( is ) a leather clad grunge-pirate with a hairdo like Gandalf in a wind-tunnel and a simply astounding cor-blimey-luv-a-duck cockney accent . '",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It made me realize that we really have n't had a good cheesy B-movie playing in theaters since ... well ... since last week 's Reign of Fire .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It 's probably worth catching solely on its visual merits .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's a diverting enough hour-and-a-half for the family audience .",
+        "label": "POS"
+    },
+    {
+        "sentence": "An undeniably moving film to experience , and ultimately that 's what makes it worth a recommendation .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Stuart 's poor-me persona needs a whole bunch of Snowball 's cynicism to cut through the sugar coating .",
+        "label": "POS"
+    },
+    {
+        "sentence": "An amused indictment of Jaglom 's own profession .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A faster paced family flick .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Like Vardalos and Corbett , who play their roles with vibrant charm , the film , directed by Joel Zwick , is heartfelt and hilarious in ways you ca n't fake .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A mostly believable , refreshingly low-key and quietly inspirational little sports drama .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The story is smart and entirely charming in intent and execution .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Even if Invincible is not quite the career peak that The Pianist is for Roman Polanski , it demonstrates that Werner Herzog can still leave us with a sense of wonder at the diverse , marvelously twisted shapes history has taken .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's not like having a real film of Nijinsky , but at least it 's better than that eponymous 1980 biopic that used soap in the places where the mysteries lingered .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The movie is so resolutely cobbled together out of older movies that it even uses a totally unnecessary prologue , just because it seems obligatory .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Affectionately reminds us that , in any language , the huge stuff in life can usually be traced back to the little things .",
+        "label": "POS"
+    },
+    {
+        "sentence": "If you thought Tom Hanks was just an ordinary big-screen star , wait until you 've seen him eight stories tall .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A flick about our infantilized culture that is n't entirely infantile .",
+        "label": "POS"
+    },
+    {
+        "sentence": "All the movie 's narrative gymnastics ca n't disguise the fact that it 's inauthentic at its core and that its story just is n't worth telling .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Ryosuke has created a wry , winning , if languidly paced , meditation on the meaning and value of family .",
+        "label": "POS"
+    },
+    {
+        "sentence": "You 'll know a star when you see one .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Dripping with cliche and bypassing no opportunity to trivialize the material .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The script is a tired one , with few moments of joy rising above the stale material .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "An engrossing and infectiously enthusiastic documentary .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Gondry 's direction is adequate ... but what gives Human Nature its unique feel is Kaufman 's script .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Missteps take what was otherwise a fascinating , riveting story and send it down the path of the mundane .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The problem is that it is one that allows him to churn out one mediocre movie after another .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Performances are potent , and the women 's stories are ably intercut and involving .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The delicious trimmings ... arrive early and stay late , filling nearly every minute ... with a lighthearted glow , some impudent snickers , and a glorious dose of humankind 's liberating ability to triumph over a Scrooge or two .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The hackneyed story about an affluent damsel in distress who decides to fight her bully of a husband is simply too overdone .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "These people are really going to love The Piano Teacher .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Pacino and Williams seem to keep upping the ante on each other , just as their characters do in the film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Ah , what the hell .",
+        "label": "POS"
+    },
+    {
+        "sentence": "They are what makes it worth the trip to the theatre .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Sharp edges and a deep vein of sadness run through its otherwise comic narrative .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Jeong-Hyang Lee 's film is deceptively simple , deeply satisfying .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Plummer steals the show without resorting to camp as Nicholas ' wounded and wounding Uncle Ralph .",
+        "label": "POS"
+    },
+    {
+        "sentence": "At three hours and with very little story or character development , there is plenty of room for editing , and a much shorter cut surely would have resulted in a smoother , more focused narrative without sacrificing any of the cultural intrigue .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The filmmakers wisely decided to let Crocodile Hunter Steve Irwin do what he does best , and fashion a story around him .",
+        "label": "POS"
+    },
+    {
+        "sentence": "An inept , tedious spoof of '70s kung fu pictures , it contains almost enough chuckles for a three-minute sketch , and no more .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This is the first film I 've ever seen that had no obvious directing involved .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Ben Kingsley is truly funny , playing a kind of Ghandi gone bad .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's just too bad the screenwriters eventually shoot themselves in the feet with cop flick cliches like an oily arms dealer , squad car pile-ups and the requisite screaming captain .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A biopic about Crane 's life in the classic tradition but evolves into what has become of us all in the era of video .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Collapses after 30 minutes into a slap-happy series of adolescent violence .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This is an undeniably intriguing film from an adventurous young talent who finds his inspiration on the fringes of the American underground .",
+        "label": "POS"
+    },
+    {
+        "sentence": "In its own floundering way , it gets to you .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's not a great monster movie .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "At its best , it 's Black Hawk Down with more heart .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Everything in Maid in Manhattan is exceedingly pleasant , designed not to offend .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Moretti plays Giovanni , a psychiatrist who predictably finds it difficult to sustain interest in his profession after the family tragedy .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It 's possible that something hip and transgressive was being attempted here that stubbornly refused to gel , but the result is more puzzling than unsettling .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Gibney and Jarecki just want to string the bastard up .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Predictably melodramatic .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This is a movie so insecure about its capacity to excite that it churns up not one but two flagrantly fake thunderstorms to underscore the action .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Talkiness is n't necessarily bad , but the dialogue frequently misses the mark .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A series of immaculately composed shots of Patch Adams quietly freaking out does not make for much of a movie .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Starts out with tremendous promise , introducing an intriguing and alluring premise , only to fall prey to a boatload of screenwriting cliches that sink it faster than a leaky freighter .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This is one of the biggest disappointments of the year .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "If you recognize Zeus ( the dog from Snatch ) it will make you wish you were at home watching that movie instead of in the theater watching this one .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "... spiced with humor ( ' I speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand ) and witty updatings ( Silver 's parrot has been replaced with Morph , a cute alien creature who mimics everyone and everything around )",
+        "label": "POS"
+    },
+    {
+        "sentence": "There are problems with this film that even 3 Oscar winners ca n't overcome , but it 's a nice girl-buddy movie once it gets rock-n-rolling .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A well-put-together piece of urban satire .",
+        "label": "POS"
+    },
+    {
+        "sentence": "classic cinema served up with heart and humor",
+        "label": "POS"
+    },
+    {
+        "sentence": "Every individual will see the movie through the prism of his or her own beliefs and prejudices , but the one thing most will take away is the sense that peace is possible .",
+        "label": "POS"
+    },
+    {
+        "sentence": "If Sinise 's character had a brain his ordeal would be over in five minutes but instead the plot goes out of its way to introduce obstacles for him to stumble over .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Just when you think you are making sense of it , something happens that tells you there is no sense .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It tells its story in a flat manner and leaves you with the impression that you should have gotten more out of it than you did .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Equlibrium could pass for a thirteen-year-old 's book report on the totalitarian themes of 1984 and Farenheit 451 .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The best animated feature to hit theaters since Beauty and the Beast 11 years ago .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Haneke 's script ( from Elfriede Jelinek 's novel ) is contrived , unmotivated , and psychologically unpersuasive , with an inconclusive ending .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "And Vin Diesel is the man .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Fresnadillo has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense .",
+        "label": "POS"
+    },
+    {
+        "sentence": "But the feelings evoked in the film are lukewarm and quick to pass .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Tartakovsky 's team has some freakish powers of visual charm , but the five writers slip into the modern rut of narrative banality .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Never capitalizes on this concept and opts for the breezy and amateurish feel of an after school special on the subject of tolerance .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A work of extraordinary journalism , but it is also a work of deft and subtle poetry .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Full of the kind of obnoxious chitchat that only self-aware neurotics engage in .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Is n't as sharp as the original ... Despite some visual virtues , ` Blade II ' just does n't cut it .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Rather , pity anyone who sees this mishmash .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A mildly enjoyable if toothless adaptation of a much better book .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Watchable up until the point where the situations and the dialogue spin hopelessly out of control -- that is to say , when Carol Kane appears on the screen .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Film ca n't quite maintain its initial momentum , but remains sporadically funny throughout .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A jumbled fantasy comedy that did not figure out a coherent game plan at scripting , shooting or post-production stages .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "On its own , it 's not very interesting .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The logic of it all will be Greek to anyone not predisposed to the movie 's rude and crude humor .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Do n't wait to see this terrific film with your kids -- if you do n't have kids borrow some .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A well-executed spy-thriller .",
+        "label": "POS"
+    },
+    {
+        "sentence": "This movie ... does n't deserve the energy it takes to describe how bad it is .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Violent , vulgar and forgettably entertaining .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The film is flat .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "In IMAX in short , it 's just as wonderful on the big screen .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A winning comedy with its wry observations about long-lived friendships and the ways in which we all lose track of ourselves by trying to please others .",
+        "label": "POS"
+    },
+    {
+        "sentence": "What makes Esther Kahn so demanding is that it progresses in such a low-key manner that it risks monotony .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A forceful drama of an alienated executive who re-invents himself .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Jonah is only so-so ... the addition of a biblical message will either improve the film for you , or it will lessen it .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Why spend $ 9 on the same stuff you can get for a buck or so in that greasy little vidgame pit in the theater lobby ?",
+        "label": "NEG"
+    },
+    {
+        "sentence": "There 's plenty to impress about E.T.",
+        "label": "POS"
+    },
+    {
+        "sentence": "One can only assume that the jury who bestowed star Hoffman 's brother Gordy with the Waldo Salt Screenwriting award at 2002 's Sundance Festival were honoring an attempt to do something different over actually pulling it off",
+        "label": "NEG"
+    },
+    {
+        "sentence": "You bet there is and it 's what makes this rather convoluted journey worth taking .",
+        "label": "POS"
+    },
+    {
+        "sentence": "What `` Empire '' lacks in depth it makes up for with its heart .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The two leads , nearly perfect in their roles , bring a heart and reality that buoy the film , and at times , elevate it to a superior crime movie .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Visually striking and viscerally repellent .",
+        "label": "POS"
+    },
+    {
+        "sentence": "( A ) devastatingly powerful and astonishingly vivid Holocaust drama .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Ignore the reputation , and ignore the film .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Just as the recent Argentine film Son of the Bride reminded us that a feel-good movie can still show real heart , Time of Favor presents us with an action movie that actually has a brain .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A thoughtful and surprisingly affecting portrait of a screwed-up man who dared to mess with some powerful people , seen through the eyes of the idealistic kid who chooses to champion his ultimately losing cause .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Nothing short of a masterpiece -- and a challenging one .",
+        "label": "POS"
+    },
+    {
+        "sentence": "But Death to Smoochy keeps firing until the bitter end .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Though the story ... is hackneyed , the characters have a freshness and modesty that transcends their predicament .",
+        "label": "POS"
+    },
+    {
+        "sentence": "If you 're looking for a story , do n't bother .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A feeble Tootsie knockoff .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A delicious , quirky movie with a terrific screenplay and fanciful direction by Michael Gondry .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Befuddled in its characterizations as it begins to seem as long as the two year affair which is its subject",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Formula 51 promises a new kind of high but delivers the same old bad trip .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It 's supposed to be post-feminist breezy but ends up as tedious as the chatter of parrots raised on Oprah .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Mr. Koshashvili is a director to watch .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The somber pacing and lack of dramatic fireworks make Green Dragon seem more like medicine than entertainment .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Stephen Earnhart 's documentary is a decomposition of healthy eccentric inspiration and ambition -- wearing a cloak of unsentimental , straightforward text -- when it 's really an exercise in gross romanticization of the delusional personality type .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Bouquet gives a performance that is masterly .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Instead of panoramic sweep , Kapur gives us episodic choppiness , undermining the story 's emotional thrust .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Instead of hitting the audience over the head with a moral , Schrader relies on subtle ironies and visual devices to convey point of view .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The movie is n't painfully bad , something to be ` fully experienced ' ; it 's just tediously bad , something to be fully forgotten .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Sunk by way too much indulgence of scene-chewing , teeth-gnashing actorliness .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The Pianist lacks the quick emotional connections of Steven Spielberg 's Schindler 's List .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "In questioning the election process , Payami graphically illustrates the problems of fledgling democracies , but also the strength and sense of freedom the Iranian people already possess , with or without access to the ballot box .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It is too bad that this likable movie is n't more accomplished .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "When it comes to the battle of Hollywood vs. Woo , it looks like Woo 's a P.O.W.",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Personally , I 'd rather watch them on the Animal Planet .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The script is a dim-witted pairing of teen-speak and animal gibberish .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "While it 's nothing we have n't seen before from Murphy , I Spy is still fun and enjoyable and so aggressively silly that it 's more than a worthwhile effort .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Works because we 're never sure if Ohlinger 's on the level or merely a dying , delusional man trying to get into the history books before he croaks .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The faithful will enjoy this sometimes wry adaptation of V.S. Naipaul 's novel , but newcomers may find themselves stifling a yawn or two during the first hour .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Devos delivers a perfect performance that captures the innocence and budding demons within a wallflower .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Deliberately and devotedly constructed , Far from Heaven is too picture postcard perfect , too neat and new pin-like , too obviously a recreation to resonate .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The movie is a dud .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A lot of the credit for the film 's winning tone must go to Grant , who has n't lost a bit of the dry humor that first made audiences on both sides of the Atlantic love him .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Kapur weighs down the tale with bogus profundities .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Long on twinkly-eyed close-ups and short on shame .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "All three descriptions suit Evelyn , a besotted and obvious drama that tells us nothing new .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The movie is well done , but slow .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "There 's much tongue in cheek in the film and there 's no doubt the filmmaker is having fun with it all .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Intimate and panoramic .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Knows how to make our imagination wonder .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Director Alfonso Cuaron gets vivid , convincing performances from a fine cast , and generally keeps things going at a rapid pace , occasionally using an omniscient voice-over narrator in the manner of French New Wave films .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Has the capability of effecting change and inspiring hope .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The actresses may have worked up a back story for the women they portray so convincingly , but viewers do n't get enough of that background for the characters to be involving as individuals rather than types .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "... spellbinding fun and deliciously exploitative .",
+        "label": "POS"
+    },
+    {
+        "sentence": "If you 're really renting this you 're not interested in discretion in your entertainment choices , you 're interested in Anne Geddes , John Grisham , and Thomas Kincaid .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This is unusual , food-for-thought cinema that 's as entertaining as it is instructive .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A banal , virulently unpleasant excuse for a romantic comedy .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "An uninspired preachy and clichéd war film .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Be patient with the lovely Hush !",
+        "label": "POS"
+    },
+    {
+        "sentence": "As a feature-length film , it wears out its welcome as tryingly as the title character .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It gets old quickly .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Rarely , indeed almost never , is such high-wattage brainpower coupled with pitch-perfect acting and an exquisite , unfakable sense of cinema .",
+        "label": "POS"
+    },
+    {
+        "sentence": "UB equally spoofs and celebrates the more outre aspects of ` black culture ' and the dorkier aspects of ` white culture , ' even as it points out how inseparable the two are .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Both exuberantly romantic and serenely melancholy , What Time Is It There ?",
+        "label": "POS"
+    },
+    {
+        "sentence": "The direction occasionally rises to the level of marginal competence , but for most of the film it is hard to tell who is chasing who or why .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Jaglom offers the none-too-original premise that everyone involved with moviemaking is a con artist and a liar .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "( A ) real pleasure in its laid-back way .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It uses some of the figures from the real-life story to portray themselves in the film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A delightful , if minor , pastry of a movie .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Skillful as he is , Mr. Shyamalan is undone by his pretensions .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "... passable enough for a shoot-out in the o.k. court house of life type of flick .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A very familiar tale , one that 's been told by countless filmmakers about Italian - , Chinese - , Irish - , Latin - , Indian - , Russian - and other hyphenate American young men struggling to balance conflicting cultural messages .",
+        "label": "POS"
+    },
+    {
+        "sentence": "In the end , all you can do is admire the ensemble players and wonder what the point of it is .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Judith and Zaza 's extended bedroom sequence ... is so intimate and sensual and funny and psychologically self-revealing that it makes most of what passes for sex in the movies look like cheap hysterics .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's never laugh-out-loud funny , but it is frequently amusing .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Though it 's equally solipsistic in tone , the movie has enough vitality to justify the notion of creating a screen adaptation of Evans ' saga of Hollywood excess .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Do n't expect any subtlety from this latest entry in the increasingly threadbare gross-out comedy cycle .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "While Guzmán frustratingly refuses to give Pinochet 's crimes a political context , his distance from the material is mostly admirable .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Makes one thing abundantly clear .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A worthy idea , but the uninspired scripts , acting and direction never rise above the level of an after-school TV special .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Swimming is above all about a young woman 's face , and by casting an actress whose face projects that woman 's doubts and yearnings , it succeeds .",
+        "label": "POS"
+    },
+    {
+        "sentence": "( A ) strong piece of work .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Pretend it 's a werewolf itself by avoiding eye contact and walking slowly away .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Another week , another gross-out college comedy -- ugh .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It 's clear that Mehta simply wanted to update her beloved genre for the thousands of Indians who fancy themselves too sophisticated for the cheese-laced spectacles that pack 'em in on the subcontinent .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This 10th film in the series looks and feels tired .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Smart and taut .",
+        "label": "POS"
+    },
+    {
+        "sentence": "More busy than exciting , more frantic than involving , more chaotic than entertaining .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A fascinating glimpse into an insular world that gives the lie to many clichés and showcases a group of dedicated artists .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Brainy , artistic and muted , almost to the point of suffocation .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The crap continues .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Writer-director Juan Carlos Fresnadillo makes a feature debut that is fully formed and remarkably assured .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Intensely romantic , thought-provoking and even an engaging mystery .",
+        "label": "POS"
+    },
+    {
+        "sentence": "You get the impression that writer and director Burr Steers knows the territory ... but his sense of humor has yet to lose the smug self-satisfaction usually associated with the better private schools .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Much like Robin Williams , Death to Smoochy has already reached its expiration date .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "If all of Eight Legged Freaks was as entertaining as the final hour , I would have no problem giving it an unqualified recommendation .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Angela Gheorghiu as famous prima donna Floria Tosca , Roberto Alagna as her lover Mario Cavaradossi , and Ruggero as the villainous , lecherous police chief Scarpia , all sing beautifully and act adequately .",
+        "label": "POS"
+    },
+    {
+        "sentence": "An ill-conceived jumble that 's not scary , not smart and not engaging .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Knockaround Guys plays like a student film by two guys who desperately want to be Quentin Tarantino when they grow up .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Nobody seems to have cared much about any aspect of it , from its cheesy screenplay to the grayish quality of its lighting to its last-minute , haphazard theatrical release .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This is the first full scale WWII flick from Hong Kong 's John Woo .",
+        "label": "POS"
+    },
+    {
+        "sentence": "( Siegel ) and co-writers Lisa Bazadona and Grace Woodard have relied too much on convention in creating the characters who surround Frankie .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A solidly entertaining little film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "This method almost never fails him , and it works superbly here .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The Mothman Prophecies , which is mostly a bore , seems to exist only for its climactic setpiece .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "I would be shocked if there was actually one correct interpretation , but that should n't make the movie or the discussion any less enjoyable .",
+        "label": "POS"
+    },
+    {
+        "sentence": "World Traveler might not go anywhere new , or arrive anyplace special , but it 's certainly an honest attempt to get at something .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Disgusting .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The culmination of everyone 's efforts is given life when A Selection appears in its final form ( in `` Last Dance '' ) .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's tough to tell which is in more abundant supply in this woefully hackneyed movie , directed by Scott Kalvert , about street gangs and turf wars in 1958 Brooklyn -- stale cliches , gratuitous violence , or empty machismo .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "In his U.S. debut , Mr. Schnitzler proves himself a deft pace master and stylist .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A film with almost as many delights for adults as there are for children and dog lovers .",
+        "label": "POS"
+    },
+    {
+        "sentence": "If you 're over 25 , have an IQ over 90 , and have a driver 's license , you should be able to find better entertainment .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Unsurprisingly , the way this all works out makes the women look more like stereotypical caretakers and moral teachers , instead of serious athletes .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Talky , artificial and opaque ... an interesting technical exercise , but a tedious picture .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Though there are entertaining and audacious moments , the movie 's wildly careening tone and an extremely flat lead performance do little to salvage this filmmaker 's flailing reputation .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The talk-heavy film plays like one of Robert Altman 's lesser works .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A film that begins with the everyday lives of naval personnel in San Diego and ends with scenes so true and heartbreaking that tears welled up in my eyes both times I saw the film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Brilliantly written and well-acted , Yellow Asphalt is an uncompromising film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Far-fetched premise , convoluted plot , and thematic mumbo jumbo about destiny and redemptive love .",
+        "label": "POS"
+    },
+    {
+        "sentence": "This overproduced piece of dreck is shockingly bad and absolutely unnecessary .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "You ... get a sense of good intentions derailed by a failure to seek and strike just the right tone .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "... once the true impact of the day unfolds , the power of this movie is undeniable .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The story ultimately takes hold and grips hard .",
+        "label": "POS"
+    },
+    {
+        "sentence": "In the end there is one word that best describes this film : honest .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Written , flatly , by David Kendall and directed , barely , by There 's Something About Mary co-writer Ed Decter .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "... begins on a high note and sustains it beautifully .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's too harsh to work as a piece of storytelling , but as an intellectual exercise -- an unpleasant debate that 's been given the drive of a narrative and that 's been acted out -- The Believer is nothing less than a provocative piece of work .",
+        "label": "POS"
+    },
+    {
+        "sentence": "`` Sorority Boys '' was funnier , and that movie was pretty bad .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A charmer from Belgium .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Wickedly funny , visually engrossing , never boring , this movie challenges us to think about the ways we consume pop culture .",
+        "label": "POS"
+    },
+    {
+        "sentence": "You wo n't exactly know what 's happening but you 'll be blissfully exhausted .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The actors must indeed be good to recite some of this laughable dialogue with a straight face .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Some fine acting , but ultimately a movie with no reason for being .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "displays the potential for a better movie than what Bailly manages to deliver",
+        "label": "POS"
+    },
+    {
+        "sentence": "You want to call Domino 's .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "An hour and a half of joyful solo performance .",
+        "label": "POS"
+    },
+    {
+        "sentence": "... a vivid , thoughtful , unapologetically raw coming-of-age tale full of sex , drugs and rock 'n' roll .",
+        "label": "POS"
+    },
+    {
+        "sentence": "With little visible talent and no energy , Colin Hanks is in bad need of major acting lessons and maybe a little coffee .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Does an impressive job of relating the complicated history of the war and of filling in the background .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Graham Greene 's novel of colonialism and empire is elevated by Michael Caine 's performance as a weary journalist in a changing world .",
+        "label": "POS"
+    },
+    {
+        "sentence": "... a preachy parable stylized with a touch of John Woo bullet ballet .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The only camouflage Carvey should now be considering is a paper bag to wear over his head when he goes out into public , to avoid being recognized as the man who bilked unsuspecting moviegoers .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A singularly off-putting romantic comedy .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "You 'll get the enjoyable basic minimum .",
+        "label": "POS"
+    },
+    {
+        "sentence": "As we have come to learn -- as many times as we have fingers to count on -- Jason is a killer who does n't know the meaning of the word ` quit . '",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light is astonishing .",
+        "label": "POS"
+    },
+    {
+        "sentence": "There are a few modest laughs , but certainly no thrills .",
+        "label": "POS"
+    },
+    {
+        "sentence": "... while each moment of this broken character study is rich in emotional texture , the journey does n't really go anywhere .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Ear-splitting exercise in formula crash-and-bash action .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Each punch seen through prison bars , the fights become not so much a struggle of man vs. man as Brother-Man vs. The Man .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Diane Lane works nothing short of a minor miracle in Unfaithful .",
+        "label": "POS"
+    },
+    {
+        "sentence": "` Would n't it be nice if all guys got a taste of what it 's like on the other side of the bra ? '",
+        "label": "POS"
+    },
+    {
+        "sentence": "Adults , other than the parents ... will be hard pressed to succumb to the call of the wild .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This ready-made midnight movie probably wo n't stand the cold light of day , but under the right conditions , it 's goofy ( if not entirely wholesome ) fun .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A pretty funny movie , with most of the humor coming , as before , from the incongruous but chemically perfect teaming of Crystal and De Niro .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Top-notch action powers this romantic drama .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Could I have been more geeked when I heard that Apollo 13 was going to be released in IMAX format ?",
+        "label": "POS"
+    },
+    {
+        "sentence": "Like most of Jaglom 's films , some of it is honestly affecting , but more of it seems contrived and secondhand .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Others , more attuned to the anarchist maxim that ` the urge to destroy is also a creative urge ' , or more willing to see with their own eyes , will find Morrison 's iconoclastic uses of technology to be liberating .",
+        "label": "POS"
+    },
+    {
+        "sentence": "But it does somehow manage to get you under its spell .",
+        "label": "POS"
+    },
+    {
+        "sentence": "... a triumph of emotionally and narratively complex filmmaking .",
+        "label": "POS"
+    },
+    {
+        "sentence": "But they fascinate in their recklessness .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Real-life strongman Ahola lacks the charisma and ability to carry the film on his admittedly broad shoulders .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Told in scattered fashion , the movie only intermittently lives up to the stories and faces and music of the men who are its subject .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The script is smart , not cloying .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's like an old Warner Bros. costumer jived with sex -- this could be the movie Errol Flynn always wanted to make , though Bette Davis , cast as Joan , would have killed him .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The action is reasonably well-done ... yet story , character and comedy bits are too ragged to ever fit smoothly together .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A tired , unimaginative and derivative variation of that already-shallow genre .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Translation : ` We do n't need to try very hard . '",
+        "label": "NEG"
+    },
+    {
+        "sentence": "In truth , it has all the heart of a porno flick ( but none of the sheer lust ) .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Trying to figure out the rules of the Country Bear universe -- when are bears bears and when are they like humans , only hairier -- would tax Einstein 's brain .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Director Tom Shadyac and star Kevin Costner glumly mishandle the story 's promising premise of a physician who needs to heal himself .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A vibrant whirlwind of love , family and all that goes with it , My Big Fat Greek Wedding is a non-stop funny feast of warmth , colour and cringe .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Everyone 's insecure in Lovely and Amazing , a poignant and wryly amusing film about mothers , daughters and their relationships .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The journey is worth your time , especially if you have Ellen Pompeo sitting next to you for the ride .",
+        "label": "POS"
+    },
+    {
+        "sentence": "( Carvey 's ) characters are both overplayed and exaggerated , but then again , subtlety has never been his trademark .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "And the positive change in tone here seems to have recharged him .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The movie is a lumbering load of hokum but ... it 's at least watchable .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Too much of Nemesis has a tired , talky feel .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This film biggest problem ?",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This is just lazy writing .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "I ca n't remember the last time I saw an audience laugh so much during a movie , but there 's only one problem ... it 's supposed to be a drama .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A wild ride with eight boarders from Venice Beach that was a deserved co-winner of the Audience Award for documentaries at the Sundance Film Festival .",
+        "label": "POS"
+    },
+    {
+        "sentence": "If we sometimes need comforting fantasies about mental illness , we also need movies like Tim McCann 's Revolution No. 9 .",
+        "label": "POS"
+    },
+    {
+        "sentence": "But the 2002 film does n't really believe in it , and breaks the mood with absurdly inappropriate ` comedy ' scenes .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Crossroads feels like a teenybopper Ed Wood film , replete with the pubescent scandalous innuendo and the high-strung but flaccid drama .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Nothing wrong with performances here , but the whiney characters bugged me .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "` Yes , that 's right : it 's Forrest Gump , Angel Of Death . '",
+        "label": "POS"
+    },
+    {
+        "sentence": "An often watchable , though goofy and lurid , blast of a costume drama set in the late 15th century .",
+        "label": "POS"
+    },
+    {
+        "sentence": "I love the robust middle of this picture .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A flawed but engrossing thriller .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Enjoyably dumb , sweet , and intermittently hilarious -- if you 've a taste for the quirky , steal a glimpse .",
+        "label": "POS"
+    },
+    {
+        "sentence": "There must be an audience that enjoys the Friday series , but I would n't be interested in knowing any of them personally .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The evocative imagery and gentle , lapping rhythms of this film are infectious -- it gets under our skin and draws us in long before the plot kicks into gear .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Wow , so who knew Charles Dickens could be so light-hearted ?",
+        "label": "POS"
+    },
+    {
+        "sentence": "A burst of color , music , and dance that only the most practiced curmudgeon could fail to crack a smile at .",
+        "label": "POS"
+    },
+    {
+        "sentence": "`` On Guard ! ''",
+        "label": "POS"
+    },
+    {
+        "sentence": "Or for the year , for that matter .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A cleverly crafted but ultimately hollow mockumentary .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Yakusho , as always , is wonderful as the long-faced sad sack ... and his chemistry with Shimizu is very believable .",
+        "label": "POS"
+    },
+    {
+        "sentence": "To me , it sounds like a cruel deception carried out by men of marginal intelligence , with reactionary ideas about women and a total lack of empathy .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "` Blue Crush ' swims away with the Sleeper Movie of the Summer award .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The jokes are flat , and the action looks fake .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Nijinsky says , ' I know how to suffer ' and if you see this film you 'll know too .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "May offend viewers not amused by the sick sense of humor .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Ramsay succeeds primarily with her typical blend of unsettling atmospherics , delivering a series of abrasive , stylized sequences that burn themselves upon the viewer 's memory .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Statham employs an accent that I think is supposed to be an attempt at hardass American but sometimes just lapses into unhidden British .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A clash between the artificial structure of the story and the more contemporary , naturalistic tone of the film ...",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Not everyone will welcome or accept The Trials of Henry Kissinger as faithful portraiture , but few can argue that the debate it joins is a necessary and timely one .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The events of the film are just so WEIRD that I honestly never knew what the hell was coming next .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A dark , dull thriller with a parting shot that misfires .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A moving essay about the specter of death , especially suicide .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Director Chris Eyre is going through the paces again with his usual high melodramatic style of filmmaking .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Caruso sometimes descends into sub-Tarantino cuteness ... but for the most part he makes sure The Salton Sea works the way a good noir should , keeping it tight and nasty .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The French director has turned out nearly 21\\/2 hours of unfocused , excruciatingly tedious cinema that , half an hour in , starts making water torture seem appealing .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Greengrass ( working from Don Mullan 's script ) forgoes the larger socio-political picture of the situation in Northern Ireland in favour of an approach that throws one in the pulsating thick of a truly frightening situation .",
+        "label": "POS"
+    },
+    {
+        "sentence": "If Disney 's Cinderella proved that ' a dream is a wish your heart makes , ' then Cinderella II proves that a nightmare is a wish a studio 's wallet makes .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "After all the big build-up , the payoff for the audience , as well as the characters , is messy , murky , unsatisfying .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "There 's a persistent theatrical sentiment and a woozy quality to the manner of the storytelling , which undercuts the devastatingly telling impact of utter loss personified in the film 's simple title .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "One of the best films I have ever seen , constantly pulling the rug from underneath us , seeing things from new sides , plunging deeper , getting more intense .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Pratfalls aside , Barbershop gets its greatest play from the timeless spectacle of people really talking to each other .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Is Red Dragon worthy of a place alongside the other Hannibal movies ?",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Morvern Callar confirms Lynne Ramsay as an important , original talent in international cinema .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Sinks into the usual cafeteria goulash of fart jokes , masturbation jokes , and racist Japanese jokes .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The plan to make Enough into ` an inspiring tale of survival wrapped in the heart-pounding suspense of a stylish psychological thriller ' has flopped as surely as a soufflé gone wrong .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This is one baaaaaaaaad movie .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Its premise is smart , but the execution is pretty weary .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "This is a finely written , superbly acted offbeat thriller .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A fascinating , dark thriller that keeps you hooked on the delicious pulpiness of its lurid fiction .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The film brilliantly shines on all the characters , as the direction is intelligently accomplished .",
+        "label": "POS"
+    },
+    {
+        "sentence": "both overstuffed and undernourished ... The film ca n't be called a solid success , although there 's plenty of evidence here to indicate Clooney might have better luck next time .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The biggest problem with this movie is that it 's not nearly long enough .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A movie I loved on first sight and , even more important , love in remembrance .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Nicks and Steinberg match their own creations for pure venality -- that 's giving it the old college try .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It 's hard to imagine anyone managing to steal a movie not only from charismatic rising star Jake Gyllenhaal but also from accomplished Oscar winners Susan Sarandon , Dustin Hoffman and Holly Hunter , yet newcomer Ellen Pompeo pulls off the feat with aplomb .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Personal Velocity ought to be exploring these women 's inner lives , but it never moves beyond their surfaces .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The film was n't preachy , but it was feminism by the book .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "By turns gripping , amusing , tender and heart-wrenching , Laissez-passer has all the earmarks of French cinema at its best .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Scherfig , the writer-director , has made a film so unabashedly hopeful that it actually makes the heart soar .",
+        "label": "POS"
+    },
+    {
+        "sentence": "My Wife 's plotting is nothing special ; it 's the delivery that matters here .",
+        "label": "POS"
+    },
+    {
+        "sentence": "For proof of that on the cinematic front , look no further than this 20th anniversary edition of the film that Spielberg calls , retrospectively , his most personal work yet .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The story really has no place to go since Simone is not real -- she ca n't provide any conflict .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Interesting both as a historical study and as a tragic love story .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A smart and funny , albeit sometimes superficial , cautionary tale of a technology in search of an artist .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Directors Brett Morgen and Nanette Burstein have put together a bold biographical fantasia .",
+        "label": "POS"
+    },
+    {
+        "sentence": "... a spoof comedy that carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A lot of its gags and observations reflect a woman 's point-of-view .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Lawrence plumbs personal tragedy and also the human comedy .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Dreary tale of middle-class angst",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A perfect example of rancid , well-intentioned , but shamelessly manipulative movie making .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It 's not a bad premise , just a bad movie .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Bon appétit !",
+        "label": "POS"
+    },
+    {
+        "sentence": "Ritchie 's film is easier to swallow than Wertmuller 's polemical allegory , but it 's self-defeatingly decorous .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A puzzling experience .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "As dumb and cheesy as they may be , the cartoons look almost Shakespearean -- both in depth and breadth -- after watching this digital-effects-heavy , supposed family-friendly comedy .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Defies logic , the laws of physics and almost anyone 's willingness to believe in it .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Seagal , who looks more like Danny Aiello these days , mumbles his way through the movie .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story .",
+        "label": "POS"
+    },
+    {
+        "sentence": "( Stevens is ) so stoked to make an important film about human infidelity and happenstance that he tosses a kitchen sink onto a story already overladen with plot conceits .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Diggs and Lathan are among the chief reasons Brown Sugar is such a sweet and sexy film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It just goes to show , an intelligent person is n't necessarily an admirable storyteller .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Shatner is probably the funniest person in the film , which gives you an idea just how bad it was .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The overall result is an intelligent , realistic portrayal of testing boundaries .",
+        "label": "POS"
+    },
+    {
+        "sentence": "But it does have one saving grace .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Journalistically dubious , inept and often lethally dull .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It is a happy , heady jumble of thought and storytelling , an insane comic undertaking that ultimately coheres into a sane and breathtakingly creative film .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A sloppy slapstick throwback to long gone bottom-of-the-bill fare like The Ghost and Mr. Chicken .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A lack of thesis makes Maryam , in the end , play out with the intellectual and emotional impact of an after-school special .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It is as uncompromising as it is nonjudgmental , and makes clear that a prostitute can be as lonely and needy as any of the clients .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The charm of Revolution OS is rather the way it introduces you to new , fervently held ideas and fanciful thinkers .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Just like a splendid meal , Red Dragon satisfies -- from its ripe recipe , inspiring ingredients , certified cuisine and palatable presentation .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The most amazing super-sized dosage of goofball stunts any `` Jackass '' fan could want .",
+        "label": "POS"
+    },
+    {
+        "sentence": "You 'd think by now America would have had enough of plucky British eccentrics with hearts of gold .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Like its predecessor , it 's no classic , but it provides a reasonably attractive holiday contraption , one that families looking for a clean , kid-friendly outing should investigate .",
+        "label": "POS"
+    },
+    {
+        "sentence": "There 's a lot to recommend Read My Lips .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The re - enactments , however fascinating they may be as history , are too crude to serve the work especially well .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Just about all of the film is confusing on one level or another , making Ararat far more demanding than it needs to be .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "It 's so crammed with scenes and vistas and pretty moments that it 's left a few crucial things out , like character development and coherence .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Fortunately , Elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Where their heads were is anyone 's guess .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A winning and wildly fascinating work .",
+        "label": "POS"
+    },
+    {
+        "sentence": "But this new jangle of noise , mayhem and stupidity must be a serious contender for the title .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Rouge is less about a superficial midlife crisis than it is about the need to stay in touch with your own skin , at 18 or 80 .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Surprisingly insightful",
+        "label": "POS"
+    },
+    {
+        "sentence": "The hypnotic imagery and fragmentary tale explore the connections between place and personal identity .",
+        "label": "POS"
+    },
+    {
+        "sentence": "I 'm sure mainstream audiences will be baffled , but , for those with at least a minimal appreciation of Woolf and Clarissa Dalloway , The Hours represents two of those well spent .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It was filled with shootings , beatings , and more cussing than you could shake a stick at .",
+        "label": "POS"
+    },
+    {
+        "sentence": "The first question to ask about Bad Company is why Anthony Hopkins is in it .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Offers an interesting look at the rapidly changing face of Beijing .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A ` Girls Gone Wild ' video for the boho art-house crowd , The Burning Sensation is n't a definitive counter-cultural document -- its makers are n't removed and inquisitive enough for that .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Ferrara 's best film in years .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Halloween : Resurrection is n't exactly quality cinema , but it is n't nearly as terrible as it cold have been .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "... the implication is Kissinger may have decided that -- when it comes to truncheoning -- it 's better to give than to receive .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It 's affecting , amusing , sad and reflective .",
+        "label": "POS"
+    },
+    {
+        "sentence": "But his showboating wise-cracker stock persona sure is getting old .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Amazingly dopey .",
+        "label": "POS"
+    },
+    {
+        "sentence": "There 's nothing like love to give a movie a B-12 shot , and CQ shimmers with it .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Hatfield and Hicks make the oddest of couples , and in this sense the movie becomes a study of the gambles of the publishing world , offering a case study that exists apart from all the movie 's political ramifications .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Coy but exhilarating , with really solid performances by Ving Rhames and Wesley Snipes .",
+        "label": "POS"
+    },
+    {
+        "sentence": "Just entertaining enough not to hate , too mediocre to love .",
+        "label": "POS"
+    },
+    {
+        "sentence": "However stale the material , Lawrence 's delivery remains perfect ; his great gift is that he can actually trick you into thinking some of this worn-out , pandering palaver is actually funny .",
+        "label": "POS"
+    },
+    {
+        "sentence": "More mature than Fatal Attraction , more complete than Indecent Proposal and more relevant than 9 1\\/2 Weeks , Unfaithful is at once intimate and universal cinema .",
+        "label": "POS"
+    },
+    {
+        "sentence": "An entertaining mix of period drama and flat-out farce that should please history fans .",
+        "label": "POS"
+    },
+    {
+        "sentence": "It looks like an action movie , but it 's so poorly made , on all levels , that it does n't even qualify as a spoof of such .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Fails as a dystopian movie , as a retooling of Fahrenheit 451 , and even as a rip-off of The Matrix .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "` Synthetic ' is the best description of this well-meaning , beautifully produced film that sacrifices its promise for a high-powered star pedigree .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A thoroughly awful movie -- dumb , narratively chaotic , visually sloppy ... a weird amalgam of ` The Thing ' and a geriatric ` Scream . '",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Such a bad movie that its luckiest viewers will be seated next to one of those ignorant pinheads who talk throughout the show .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Highly recommended viewing for its courage , ideas , technical proficiency and great acting .",
+        "label": "POS"
+    },
+    {
+        "sentence": "A moving tale of love and destruction in unexpected places , unexamined lives .",
+        "label": "POS"
+    },
+    {
+        "sentence": "They just do n't work in concert .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "One of those staggeringly well-produced , joylessly extravagant pictures that keep whooshing you from one visual marvel to the next , hastily , emptily .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "A little too ponderous to work as shallow entertainment , not remotely incisive enough to qualify as drama , Monsoon Wedding serves mostly to whet one 's appetite for the Bollywood films .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Certain to be distasteful to children and adults alike , Eight Crazy Nights is a total misfire .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Oedekerk mugs mercilessly , and the genuinely funny jokes are few and far between .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "Uneven performances and a spotty script add up to a biting satire that has no teeth .",
+        "label": "NEG"
+    },
+    {
+        "sentence": "The touch is generally light enough and the performances , for the most part , credible .",
+        "label": "POS"
+    }
+]

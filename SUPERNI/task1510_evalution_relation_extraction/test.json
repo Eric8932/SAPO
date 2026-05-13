@@ -1,0 +1,2602 @@
+[
+  {
+    "sentence": "root is part of tree",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "rose is a kind of bush",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Rose is a kind of color",
+    "label": "IsA"
+  },
+  {
+    "sentence": "rose is a kind of plant",
+    "label": "IsA"
+  },
+  {
+    "sentence": "rough can be used as the opposite of smooth",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "rough can be used as the opposite of soft",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "rough can be used with the same meaning of bumpy",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "row can be used with the same meaning of argument",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "row can be used with the same meaning of fight",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "row is a kind of boat",
+    "label": "IsA"
+  },
+  {
+    "sentence": "row is a kind of fight",
+    "label": "IsA"
+  },
+  {
+    "sentence": "row is part of table",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "royal can be used as the opposite of common",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "royal can be used as the opposite of subject",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "royalty can be characterized by rich",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "rubber is made of plant",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "rubber_duck can be characterized by comfort",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "rubber_duck can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "rubber_duck can be characterized by soft",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "rubber_duck can be characterized by yellow",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "rubber_duck is a kind of toy",
+    "label": "IsA"
+  },
+  {
+    "sentence": "rubber_duck is made of plastic",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "rubbish is a kind of waste",
+    "label": "IsA"
+  },
+  {
+    "sentence": "rule can be used as the opposite of serve",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "rule can be used as the opposite of subject",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "rule is a kind of decide",
+    "label": "IsA"
+  },
+  {
+    "sentence": "rule is a kind of restrict",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Ruler can be used with the same meaning of leader",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "run can be characterized by fast",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "run can be used as the opposite of stand",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "run can be used as the opposite of stop",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "run can be used as the opposite of walk",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "run can be used with the same meaning of speed",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "run can be used with the same meaning of travel",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "run is a kind of exercise",
+    "label": "IsA"
+  },
+  {
+    "sentence": "run is a kind of function",
+    "label": "IsA"
+  },
+  {
+    "sentence": "run is a kind of move",
+    "label": "IsA"
+  },
+  {
+    "sentence": "run is a kind of pass",
+    "label": "IsA"
+  },
+  {
+    "sentence": "run is a kind of sport",
+    "label": "IsA"
+  },
+  {
+    "sentence": "run is a kind of travel",
+    "label": "IsA"
+  },
+  {
+    "sentence": "run is a kind of trip",
+    "label": "IsA"
+  },
+  {
+    "sentence": "rush can be used as the opposite of calm",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "rush can be used as the opposite of leisure",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "rush can be used as the opposite of relax",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "rush can be used as the opposite of slow",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "Rush can be used with the same meaning of charge",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "rush is a kind of run",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sad can be characterized by bad",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sadness can be characterized by uncomfortable",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "Sadness is a kind of emotion",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sadness is a kind of unhappiness",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sadness is part of life",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "safe can have or can contain money",
+    "label": "HasA"
+  },
+  {
+    "sentence": "safe is made of steel",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "safety can be characterized by good",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "safety can be characterized by important",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sail can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sail can be characterized by nice",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sail can be characterized by white",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sail is a kind of sport",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sail is a kind of travel",
+    "label": "IsA"
+  },
+  {
+    "sentence": "salad can be characterized by eat",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "salad can be characterized by green",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "salad is a kind of food",
+    "label": "IsA"
+  },
+  {
+    "sentence": "salt can be characterized by white",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "salt can be used as the opposite of sugar",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "salt can be used as the opposite of vinegar",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "salt is a kind of mineral",
+    "label": "IsA"
+  },
+  {
+    "sentence": "salt is made of crystal",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "salt_water is a kind of water",
+    "label": "IsA"
+  },
+  {
+    "sentence": "same can be used as the opposite of unique",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "same can be used with the same meaning of equal",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sand can be used as the opposite of dirt",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sand can be used as the opposite of ocean",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sand can be used as the opposite of soil",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sand can be used as the opposite of stone",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sand can be used with the same meaning of beach",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "Sand is a kind of color",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Sandy is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "satellite can be characterized by fall",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "satellite is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "satisfaction can be used as the opposite of unhappy",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "satisfaction is a kind of payment",
+    "label": "IsA"
+  },
+  {
+    "sentence": "satisfy can be used with the same meaning of comfort",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "saucepan is a kind of pan",
+    "label": "IsA"
+  },
+  {
+    "sentence": "save can be used as the opposite of spend",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "save can be used with the same meaning of keep",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "saw can be characterized by sharp",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "saw can have or can contain handle",
+    "label": "HasA"
+  },
+  {
+    "sentence": "scale is a kind of cover",
+    "label": "IsA"
+  },
+  {
+    "sentence": "scale is part of fish",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "scene is a kind of drama",
+    "label": "IsA"
+  },
+  {
+    "sentence": "scene is part of film",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "scene is part of movie",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "school can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "school can be characterized by out",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "school can be used as the opposite of work",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "school can be used with the same meaning of department",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "school can be used with the same meaning of teach",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "school can be used with the same meaning of university",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "School is a kind of book",
+    "label": "IsA"
+  },
+  {
+    "sentence": "school is a kind of education",
+    "label": "IsA"
+  },
+  {
+    "sentence": "school is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "school is a kind of teach",
+    "label": "IsA"
+  },
+  {
+    "sentence": "science can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "science can be characterized by interest",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "science can be used as the opposite of false",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "science can be used as the opposite of magic",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "scissor can be characterized by sharp",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "scissor is a kind of stationary",
+    "label": "IsA"
+  },
+  {
+    "sentence": "scissor is made of metal",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "score is a kind of fact",
+    "label": "IsA"
+  },
+  {
+    "sentence": "score is a kind of number",
+    "label": "IsA"
+  },
+  {
+    "sentence": "score is a kind of record",
+    "label": "IsA"
+  },
+  {
+    "sentence": "score is a kind of set",
+    "label": "IsA"
+  },
+  {
+    "sentence": "screen can be used with the same meaning of pick",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "screen is a kind of choose",
+    "label": "IsA"
+  },
+  {
+    "sentence": "screen is a kind of cover",
+    "label": "IsA"
+  },
+  {
+    "sentence": "screen is a kind of surface",
+    "label": "IsA"
+  },
+  {
+    "sentence": "screen is part of cell_phone",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "screen is part of monitor",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "screen is part of television",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "screen is part of tv",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "screw is a kind of tool",
+    "label": "IsA"
+  },
+  {
+    "sentence": "screw is part of ship",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sea can be characterized by blue",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sea can be characterized by deep",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sea can be characterized by wet",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sea can be used as the opposite of beach",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sea can be used as the opposite of desert",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sea can have or can contain salt",
+    "label": "HasA"
+  },
+  {
+    "sentence": "sea is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sea is made of water",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "seal is a kind of close",
+    "label": "IsA"
+  },
+  {
+    "sentence": "seal is true then also fasten is true",
+    "label": "Entails"
+  },
+  {
+    "sentence": "seam is a kind of join",
+    "label": "IsA"
+  },
+  {
+    "sentence": "seam is a kind of joint",
+    "label": "IsA"
+  },
+  {
+    "sentence": "seam is part of dress",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "season is part of cook",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "seat can be characterized by comfortable",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "seat can be characterized by high",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "seat can be used as the opposite of bed",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "seat can be used as the opposite of stand",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "seat is a kind of device",
+    "label": "IsA"
+  },
+  {
+    "sentence": "seat is a kind of furniture",
+    "label": "IsA"
+  },
+  {
+    "sentence": "seat is a kind of support",
+    "label": "IsA"
+  },
+  {
+    "sentence": "seat is part of bicycle",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "seat is part of car",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "seat is part of trouser",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "second is part of minute",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "secret can be used with the same meaning of mystery",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "Secret is a kind of information",
+    "label": "IsA"
+  },
+  {
+    "sentence": "see can be used with the same meaning of sight",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "see can be used with the same meaning of understand",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "see can be used with the same meaning of view",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "see is a kind of think",
+    "label": "IsA"
+  },
+  {
+    "sentence": "See is a kind of verify",
+    "label": "IsA"
+  },
+  {
+    "sentence": "seed can be used as the opposite of plant",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "seed can be used as the opposite of tree",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "seed is a kind of fruit",
+    "label": "IsA"
+  },
+  {
+    "sentence": "seed is part of apple",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "seed is part of fruit",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "seed is part of grape",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "seed is part of orange",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "seed is part of plant",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sell is a kind of commerce",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sell is a kind of exchange",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sell is part of market",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sell is true then also give is true",
+    "label": "Entails"
+  },
+  {
+    "sentence": "sell_out is true then also sell is true",
+    "label": "Entails"
+  },
+  {
+    "sentence": "sentence can have or can contain word",
+    "label": "HasA"
+  },
+  {
+    "sentence": "sentence is made of word",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "sentence is part of speech",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "separate is a kind of change",
+    "label": "IsA"
+  },
+  {
+    "sentence": "separation can be used as the opposite of join",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "separation can be used as the opposite of keep",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "separation can be used as the opposite of marriage",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "separation can be used as the opposite of union",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "separation can be used with the same meaning of division",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "separation can be used with the same meaning of separate",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "separation is a kind of change",
+    "label": "IsA"
+  },
+  {
+    "sentence": "separation is a kind of state",
+    "label": "IsA"
+  },
+  {
+    "sentence": "serve can be used with the same meaning of service",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "serve is a kind of move",
+    "label": "IsA"
+  },
+  {
+    "sentence": "service is a kind of function",
+    "label": "IsA"
+  },
+  {
+    "sentence": "set can be used with the same meaning of club",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "set can be used with the same meaning of collection",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "set can be used with the same meaning of fix",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "set can be used with the same meaning of movement",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "set can have or can contain number",
+    "label": "HasA"
+  },
+  {
+    "sentence": "set is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "set is a kind of stage",
+    "label": "IsA"
+  },
+  {
+    "sentence": "set is made of member",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "settle can be used as the opposite of unsettle",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "settle can be used with the same meaning of fix",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "settle is a kind of change",
+    "label": "IsA"
+  },
+  {
+    "sentence": "settle is a kind of stop",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sew can be used with the same meaning of stitch",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sew is a kind of fasten",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sew is true then also join is true",
+    "label": "Entails"
+  },
+  {
+    "sentence": "sex can be characterized by bad",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sex can be characterized by cool",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sex can be characterized by dirty",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sex can be characterized by excite",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sex can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sex can be characterized by good",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sex can be characterized by great",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sex can be characterized by nice",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sex is a kind of class",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sex is a kind of feel",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sex is a kind of fun",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sex is a kind of game",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sex is a kind of pleasure",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sex is part of life",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "shade can be used as the opposite of bright",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shade can be used as the opposite of heat",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shade can be used as the opposite of hot",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shade can be used as the opposite of light",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shade can be used as the opposite of sun",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shade can be used as the opposite of sunlight",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shade can be used as the opposite of sunshine",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shade can be used with the same meaning of shadow",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "shadow can be characterized by dark",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "shadow can be characterized by silent",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "shadow can be used as the opposite of light",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shadow can be used as the opposite of sun",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shadow can be used as the opposite of sunlight",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shadow is a kind of follow",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Shadow is a kind of shade",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shape can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "shape can be used with the same meaning of mold",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "shape is a kind of change",
+    "label": "IsA"
+  },
+  {
+    "sentence": "share can be used with the same meaning of stock",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sharp can be used as the opposite of friendly",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sharp can be used as the opposite of thick",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sharp can be used with the same meaning of bitter",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sharp can be used with the same meaning of cut",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sharp can be used with the same meaning of razor",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sharp can be used with the same meaning of smart",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "she can be characterized by nasty",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "She is a kind of band",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sheep can be used as the opposite of wolf",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sheep is a kind of follower",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sheep is a member of flock",
+    "label": "MemberOf"
+  },
+  {
+    "sentence": "sheep is a member of herd",
+    "label": "MemberOf"
+  },
+  {
+    "sentence": "sheep is part of flock",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sheet can be characterized by smooth",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sheet can be used with the same meaning of bed_sheet",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sheet can be used with the same meaning of blanket",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sheet can be used with the same meaning of page",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sheet is a kind of cover",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Sheet is a kind of paper",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sheet is made of cotton",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "sheet is part of bed",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sheet_of_paper can be used with the same meaning of leaf",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sheet_of_paper is a kind of paper",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sheet_of_paper is part of letter",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "shell can be characterized by beautiful",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "shell can be characterized by hard",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "shell is a kind of cover",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shell is part of egg",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "ship can have or can contain bridge",
+    "label": "HasA"
+  },
+  {
+    "sentence": "ship can have or can contain captain",
+    "label": "HasA"
+  },
+  {
+    "sentence": "ship is a kind of vessel",
+    "label": "IsA"
+  },
+  {
+    "sentence": "ship is made of steel",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "shirt can be characterized by stripe",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "shirt can have or can contain button",
+    "label": "HasA"
+  },
+  {
+    "sentence": "shit can be characterized by disgust",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "shit can be characterized by natural",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "shoe can be used as the opposite of sock",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "shoe can have or can contain lace",
+    "label": "HasA"
+  },
+  {
+    "sentence": "shoe is a kind of clothe",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Shoot is a kind of grow",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shoot is a kind of hit",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shoot is a kind of sport",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Shoot is a kind of throw",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shop can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "shop can be used with the same meaning of store",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "shop is a kind of build",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shop is a kind of buy",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shop is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shop is a kind of store",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shop is true then also buy is true",
+    "label": "Entails"
+  },
+  {
+    "sentence": "shore can be used with the same meaning of support",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "shore can have or can contain beach",
+    "label": "HasA"
+  },
+  {
+    "sentence": "short can be characterized by small",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "short can be used as the opposite of deep",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "short can be used as the opposite of tall",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "short is a kind of clothe",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Short is a kind of pant",
+    "label": "IsA"
+  },
+  {
+    "sentence": "show can be characterized by entertain",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "show can be used with the same meaning of program",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "show is a kind of appear",
+    "label": "IsA"
+  },
+  {
+    "sentence": "show is a kind of entertainment",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Shower can be used with the same meaning of rain",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "shower is a kind of rain",
+    "label": "IsA"
+  },
+  {
+    "sentence": "shower is part of bathroom",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "shower is part of house",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "shy can be used as the opposite of bold",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sick can be used as the opposite of healthy",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sick can be used as the opposite of well",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sickness can be used as the opposite of healthy",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sickness can be used as the opposite of well",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "side can be used as the opposite of back",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "side can be used as the opposite of center",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "side can be used with the same meaning of edge",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "side can be used with the same meaning of face",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "side can be used with the same meaning of half",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "side is part of house",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sidewalk can be characterized by smooth",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sidewalk is made of concrete",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "sidewalk is made of pavement",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "sidewalk is part of street",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sight can be used with the same meaning of spot",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sight can be used with the same meaning of view",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sight can be used with the same meaning of vision",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sign can be used as the opposite of talk",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sign can be used with the same meaning of mark",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sign is a kind of communication",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Silence can be used as the opposite of talk",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "silk can be characterized by cool",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "silk can be characterized by smooth",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "silk can be characterized by soft",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "silk can be used as the opposite of lace",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "silk can be used as the opposite of rough",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "silver can be used as the opposite of brass",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "silver can be used with the same meaning of silverware",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "silver is a kind of element",
+    "label": "IsA"
+  },
+  {
+    "sentence": "silver is a kind of metal",
+    "label": "IsA"
+  },
+  {
+    "sentence": "silverware is made of metal",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "simple can be characterized by beautiful",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sin can be characterized by bad",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sin can be used as the opposite of good",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sing can be characterized by entertain",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sing can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sing can be characterized by nice",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sing can be used as the opposite of talk",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sink can be used with the same meaning of go_down",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "Sink is a kind of move",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sink is part of bathroom",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sister can be used with the same meaning of darling",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sister is part of family",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sit can be characterized by relax",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sit can be used as the opposite of get_up",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sit can be used as the opposite of stand",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sit can be used as the opposite of up",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sit can be used with the same meaning of sit_down",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sit is true then also sit_down is true",
+    "label": "Entails"
+  },
+  {
+    "sentence": "size can be characterized by important",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "size can be used with the same meaning of volume",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "size is a kind of property",
+    "label": "IsA"
+  },
+  {
+    "sentence": "skateboard is a kind of sport",
+    "label": "IsA"
+  },
+  {
+    "sentence": "skeleton is made of bone",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "Skeleton is part of build",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "ski can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "ski is a kind of sport",
+    "label": "IsA"
+  },
+  {
+    "sentence": "ski is a kind of travel",
+    "label": "IsA"
+  },
+  {
+    "sentence": "skin can be used with the same meaning of bark",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "skin can be used with the same meaning of film",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "skin is a kind of surface",
+    "label": "IsA"
+  },
+  {
+    "sentence": "skin is made of cell",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "skin is part of apple",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "skin is part of body",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "skin is part of foot",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "skin is part of grape",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "skin is part of peach",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sky can be characterized by black",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sky can be characterized by blue",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sky can be characterized by bright",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sky can be characterized by cloudy",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sky can be characterized by dark",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sky can be characterized by large",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sky can be characterized by up",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sky can be used as the opposite of ocean",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sky can be used as the opposite of sea",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sky can be used as the opposite of water",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sky can have or can contain cloud",
+    "label": "HasA"
+  },
+  {
+    "sentence": "sky is made of gas",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "skyscraper can be characterized by tall",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "skyscraper is a kind of build",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sleep can be characterized by good",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sleep can be characterized by useful",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sleep can be used as the opposite of awake",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sleep can be used as the opposite of awaken",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sleep can be used as the opposite of wake",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "Sleep can be used as the opposite of wake_up",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sleep is a kind of relax",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sleep is part of life",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "slice can be used as the opposite of whole",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "slice is a kind of hit",
+    "label": "IsA"
+  },
+  {
+    "sentence": "slice is a kind of part",
+    "label": "IsA"
+  },
+  {
+    "sentence": "slice is part of orange",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "slip can be used as the opposite of balance",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "slip can be used as the opposite of stand",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "slip can be used with the same meaning of mistake",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "slip can be used with the same meaning of stumble",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "slip is a kind of mistake",
+    "label": "IsA"
+  },
+  {
+    "sentence": "slip is a kind of move",
+    "label": "IsA"
+  },
+  {
+    "sentence": "slow is a kind of person",
+    "label": "IsA"
+  },
+  {
+    "sentence": "small can be used as the opposite of adult",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "small can be used with the same meaning of minute",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "small can be used with the same meaning of young",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "small is a kind of size",
+    "label": "IsA"
+  },
+  {
+    "sentence": "small is part of back",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "smart can be characterized by good",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "smart can be used as the opposite of bright",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "smart can be used as the opposite of dull",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "smart can be used as the opposite of simple",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "smart can be used as the opposite of stupid",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "smart can be used with the same meaning of learn",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "smile can be characterized by good",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "smile is a kind of fun",
+    "label": "IsA"
+  },
+  {
+    "sentence": "smile is made of happiness",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "smile is part of service",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "smoke can be characterized by bad",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "smoke can be characterized by cool",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "smoke can be characterized by foolish",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "smoke can be used as the opposite of clean",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "Smoke can be used as the opposite of clear",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "smoke is a kind of cloud",
+    "label": "IsA"
+  },
+  {
+    "sentence": "smooth can be used as the opposite of bumpy",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "smooth can be used with the same meaning of even",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "Smooth is a kind of person",
+    "label": "IsA"
+  },
+  {
+    "sentence": "snake can be characterized by black",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "snake can have or can contain scale",
+    "label": "HasA"
+  },
+  {
+    "sentence": "snake is part of animal",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sneeze is a kind of illness",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sneeze is true then also exhale is true",
+    "label": "Entails"
+  },
+  {
+    "sentence": "snow can be characterized by beautiful",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "snow can be characterized by cold",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "snow can be characterized by smooth",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "snow can be characterized by wet",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "snow can be characterized by white",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "snow can be used as the opposite of fire",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "snow can be used as the opposite of hail",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "snow can be used as the opposite of hot",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "snow can be used as the opposite of melt",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "snow can be used as the opposite of sun",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "snow can be used as the opposite of warm",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "snow is made of snowflake",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "snow is part of weather",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "snowflake is a kind of crystal",
+    "label": "IsA"
+  },
+  {
+    "sentence": "snowflake is a kind of ice",
+    "label": "IsA"
+  },
+  {
+    "sentence": "snowflake is made of water",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "snowflake is part of snow",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "soap can be used as the opposite of dirt",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "soap can be used as the opposite of water",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "soap is a kind of object",
+    "label": "IsA"
+  },
+  {
+    "sentence": "soap is true then also wash is true",
+    "label": "Entails"
+  },
+  {
+    "sentence": "Soar is a kind of fly",
+    "label": "IsA"
+  },
+  {
+    "sentence": "society can be used as the opposite of individual",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "Society is a kind of club",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sock is made of cotton",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "sock is made of thread",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "sock is made of wool",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "soda can be characterized by sweet",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "soda can be used with the same meaning of pop",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "soda can be used with the same meaning of soft_drink",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "soda_can is made of aluminum",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "sofa can be characterized by comfortable",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sofa can be characterized by soft",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sofa can have or can contain leg",
+    "label": "HasA"
+  },
+  {
+    "sentence": "Sofa is a kind of chair",
+    "label": "IsA"
+  },
+  {
+    "sentence": "soft can be used as the opposite of erect",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "soft can be used as the opposite of solid",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "soft_drink is a kind of drink",
+    "label": "IsA"
+  },
+  {
+    "sentence": "soil can be used as the opposite of clean",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "soldier can be characterized by frighten",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "soldier can have or can contain weapon",
+    "label": "HasA"
+  },
+  {
+    "sentence": "Soldier is a kind of person",
+    "label": "IsA"
+  },
+  {
+    "sentence": "soldier is part of army",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "soldier is part of war",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sole is a kind of body_part",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sole is part of foot",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sole is part of shoe",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "solid is a kind of matter",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Solution is a kind of success",
+    "label": "IsA"
+  },
+  {
+    "sentence": "solve is a kind of understand",
+    "label": "IsA"
+  },
+  {
+    "sentence": "solve is true then also reason is true",
+    "label": "Entails"
+  },
+  {
+    "sentence": "something can be characterized by wrong",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "son can be characterized by male",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "son can be used as the opposite of female",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "son can be used as the opposite of parent",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "son can be used as the opposite of sister",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "son is a kind of child",
+    "label": "IsA"
+  },
+  {
+    "sentence": "son is a kind of male",
+    "label": "IsA"
+  },
+  {
+    "sentence": "son is a kind of person",
+    "label": "IsA"
+  },
+  {
+    "sentence": "son is part of family",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "song can be used as the opposite of talk",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "song can be used with the same meaning of sing",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "song can have or can contain title",
+    "label": "HasA"
+  },
+  {
+    "sentence": "song is a kind of poem",
+    "label": "IsA"
+  },
+  {
+    "sentence": "song is a kind of sound",
+    "label": "IsA"
+  },
+  {
+    "sentence": "song is made of lyric",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "song is made of music",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "song is part of album",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "song is part of culture",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "soprano is a kind of person",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sorrow can be used as the opposite of happy",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sorrow is a kind of unhappiness",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sorrow is part of life",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sound can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sound can be characterized by loud",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sound can be characterized by soothe",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sound can be used as the opposite of light",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sound can be used as the opposite of nothing",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sound can be used as the opposite of silent",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sound can be used as the opposite of taste",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sound can be used as the opposite of touch",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sound can be used as the opposite of vision",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sound can be used with the same meaning of note",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "sound is a kind of channel",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sound is a kind of energy",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sound is a kind of happen",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Sound is a kind of magazine",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sound is a kind of wave",
+    "label": "IsA"
+  },
+  {
+    "sentence": "soup can be used as the opposite of meat",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "soup can be used as the opposite of solid",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "soup is a kind of dish",
+    "label": "IsA"
+  },
+  {
+    "sentence": "soup is a kind of food",
+    "label": "IsA"
+  },
+  {
+    "sentence": "soup is made of water",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "soup is part of meal",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "sour can be used as the opposite of sweet",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "sour is a kind of taste",
+    "label": "IsA"
+  },
+  {
+    "sentence": "south is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "south_america can have or can contain beach",
+    "label": "HasA"
+  },
+  {
+    "sentence": "south_america is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "south_america is part of america",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "south_america is part of earth",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "space can be characterized by beautiful",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "space can be characterized by big",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "space can be characterized by cold",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "space can be characterized by dark",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "space can be characterized by empty",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "space can be characterized by huge",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "space can be characterized by silent",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "space can be used as the opposite of crowd",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "space can be used as the opposite of full",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "space can be used as the opposite of time",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "Space can be used with the same meaning of blank",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "space can be used with the same meaning of outer_space",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "space can be used with the same meaning of place",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "space can be used with the same meaning of separate",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "space can be used with the same meaning of volume",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "spark can be used with the same meaning of begin",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "spark is a kind of trace",
+    "label": "IsA"
+  },
+  {
+    "sentence": "speak can be used as the opposite of write",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "speak can be used with the same meaning of talk",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "speak is a kind of communicate",
+    "label": "IsA"
+  },
+  {
+    "sentence": "speak is a kind of sound",
+    "label": "IsA"
+  },
+  {
+    "sentence": "speak is a kind of talk",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Special is a kind of album",
+    "label": "IsA"
+  },
+  {
+    "sentence": "speech can be used with the same meaning of speak",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "speech is a kind of speak",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Speed is a kind of movie",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spend is a kind of pay",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spike can be used with the same meaning of hit",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "spike can be used with the same meaning of nail",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "spike is a kind of device",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spike is a kind of point",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spike is a kind of rise",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spike is part of shoe",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "spine is part of back",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "spine is part of body",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "spine is part of book",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "spine is part of skeleton",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "spirit can be characterized by light",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "spirit can be used as the opposite of material",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "spirit is a kind of person",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spit can be characterized by wet",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "split can be used as the opposite of whole",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "split is a kind of increase",
+    "label": "IsA"
+  },
+  {
+    "sentence": "split is a kind of share",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sport can be characterized by dirty",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sport can be characterized by entertain",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sport can be characterized by fight",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sport can be characterized by fun",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sport can be characterized by healthy",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "sport can have or can contain rule",
+    "label": "HasA"
+  },
+  {
+    "sentence": "sport is a kind of athlete",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sport is a kind of club",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Sport is a kind of entertainment",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sport is a kind of exercise",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sport is a kind of fun",
+    "label": "IsA"
+  },
+  {
+    "sentence": "sport is a kind of game",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spot can be used as the opposite of stripe",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "spot can be used with the same meaning of stain",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "spot is a kind of pattern",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spouse is a member of marriage",
+    "label": "MemberOf"
+  },
+  {
+    "sentence": "spread is a kind of cover",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spring is a kind of begin",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spring is a kind of season",
+    "label": "IsA"
+  },
+  {
+    "sentence": "spring is made of metal",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "square is a kind of shape",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Squash can be used with the same meaning of crush",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "squash is a kind of sport",
+    "label": "IsA"
+  },
+  {
+    "sentence": "stable can be characterized by dirty",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "stable is a kind of build",
+    "label": "IsA"
+  },
+  {
+    "sentence": "stable is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "staff can be used with the same meaning of club",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "staff can be used with the same meaning of pole",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "staff can be used with the same meaning of stick",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "staff is a kind of stick",
+    "label": "IsA"
+  },
+  {
+    "sentence": "staff is a member of school",
+    "label": "MemberOf"
+  },
+  {
+    "sentence": "stage can be used as the opposite of screen",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "stage is a kind of scene",
+    "label": "IsA"
+  },
+  {
+    "sentence": "stain can be used as the opposite of bleach",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "stain can be used as the opposite of clean",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "stain is a kind of change",
+    "label": "IsA"
+  },
+  {
+    "sentence": "stair can be used as the opposite of elevator",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "stair can be used with the same meaning of step",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "stairway can be characterized by dark",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "stairway can have or can contain step",
+    "label": "HasA"
+  },
+  {
+    "sentence": "stand can be used with the same meaning of support",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "Stand is a kind of stop",
+    "label": "IsA"
+  },
+  {
+    "sentence": "standard can be used with the same meaning of flag",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "stapler is a kind of device",
+    "label": "IsA"
+  },
+  {
+    "sentence": "stapler is a kind of object",
+    "label": "IsA"
+  },
+  {
+    "sentence": "stapler is a kind of tool",
+    "label": "IsA"
+  },
+  {
+    "sentence": "star can be characterized by beautiful",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "star can be characterized by big",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "star can be characterized by hot",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "star can be characterized by small",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "star can be used as the opposite of planet",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "star is a kind of object",
+    "label": "IsA"
+  },
+  {
+    "sentence": "star is a kind of planet",
+    "label": "IsA"
+  },
+  {
+    "sentence": "star is a kind of shape",
+    "label": "IsA"
+  },
+  {
+    "sentence": "star is a kind of sun",
+    "label": "IsA"
+  },
+  {
+    "sentence": "star is a member of constellation",
+    "label": "MemberOf"
+  },
+  {
+    "sentence": "star is a member of galaxy",
+    "label": "MemberOf"
+  },
+  {
+    "sentence": "star is part of constellation",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "star is part of galaxy",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "state can have or can contain city",
+    "label": "HasA"
+  },
+  {
+    "sentence": "state can have or can contain population",
+    "label": "HasA"
+  },
+  {
+    "sentence": "State is a kind of place",
+    "label": "IsA"
+  },
+  {
+    "sentence": "state is a member of country",
+    "label": "MemberOf"
+  },
+  {
+    "sentence": "state is part of country",
+    "label": "PartOf"
+  },
+  {
+    "sentence": "statement can be characterized by false",
+    "label": "HasProperty"
+  },
+  {
+    "sentence": "statement can be used with the same meaning of report",
+    "label": "Synonym"
+  },
+  {
+    "sentence": "statement is a kind of fact",
+    "label": "IsA"
+  },
+  {
+    "sentence": "stationary can be used as the opposite of change",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "stationary can be used as the opposite of mobile",
+    "label": "Antonym"
+  },
+  {
+    "sentence": "statue is a kind of art",
+    "label": "IsA"
+  },
+  {
+    "sentence": "statue is a kind of image",
+    "label": "IsA"
+  },
+  {
+    "sentence": "Statue is made of marble",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "statue is made of metal",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "statue is made of stone",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "statue_of_liberty is a kind of statue",
+    "label": "IsA"
+  },
+  {
+    "sentence": "statue_of_liberty is made of copper",
+    "label": "MadeOf"
+  },
+  {
+    "sentence": "steak can be characterized by eat",
+    "label": "HasProperty"
+  }
+]

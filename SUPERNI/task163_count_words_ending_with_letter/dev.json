@@ -1,0 +1,2306 @@
+[
+    {
+        "sentence": "Sentence: 'a group of orange traffic cones sitting on top of a table'. How many words end with the letter 'c' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the view of a city street from the front of a bus'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a woman standing in a kitchen while holding a tooth brush'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a toilet sits on grass next to a tree'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a person doing a trick on a skateboard on a ramp'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two people smile as plates of food sit in front of them'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a glass table with a plate of bar cookies a potted plant and a vase filled with chocolate eggs'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the building has a lot of windows on it'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a street sign on a pole against the sky'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'horse pulling carriage with two men followed by mounted guard in uniform'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man riding his bike past a young beach goer'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a snow covered polar bear sticks out its tongue'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a picture of the inside of a restaurant looking into the kitchen'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a young man riding a skateboard on top of a street'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'an assortment of different ships and sailboats sits in a harbor'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'there is a man taking a picture on a side view mirror'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'the older television set is still being used in the living room'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a lady that has some wine bottles near by'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a young foal nuzzling its mother in the nose'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man and boy laying in two separate small beds'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a hand holding a small set of yellow bananas'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'men in yellow safety vests stand near a yellow truck and a white truck'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a guy hitting a tennis ball with his racquet and the ball a blur'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man walking across a dirt field with a yellow frisbee'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'electric buses parked at the bus barn under their wires'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a large white bed with two white head boards'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a resort with a pool right on the ocean'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a person standing on the sidewalk next to a sign'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'soccer players in three different colored uniforms'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a woman eating a banana in her living room strikes a pose'. How many words end with the letter 'a' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a man parasailing on the ocean during a blustery day'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a herd of sheep walking across a dry grass field'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a group of zebras and giraffes running in a dirt and grassy area'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a tiger cat laying on to of a table next to a potted plant'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a sheep dog crouches near a flock of white sheep in a grassy area'. How many words end with the letter 'a' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a close up of a dog on brick surface near a door'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'an airplane in a hanger while people stand around it'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'large junkyard with boats on one side and cars on the other'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a couple of motor bikes parked on top of a green surface'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'an image of a truck parked next to a building'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two little girls and a little boy playing baseball'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a couple of containers filled with different types of foods'. How many words end with the letter 's' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a close up view of a fire hydrant with a backdrop of a hotel'. How many words end with the letter 'a' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'two sheep grazing in an open country side by hills'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a pizza sitting on top of a table covered in cheese'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a tall giraffe standing next to a metal fence'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'there are two trains that are abut to pass each other on the tracks'. How many words end with the letter 's' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a blue semi truck parked on top of a dirt field'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a train passing down a track in the middle of the day'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a large white flower sitting on a wooden table'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the woman is wearing a mans shirt and tie on the couch'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a number of cows near one another on a field'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a living room has a gold sofa and fireplace'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a dog and a cat stand side by side'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a lamp with a shade sitting on top of an older model television'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a large woman riding a motor cycle in the city'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a person and a horse share a recreational site on a sandy beach'. How many words end with the letter 'a' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'the cat is climbing up in the fridge'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a wooden wall with frame around a  flat screen television on it'. How many words end with the letter 'n' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a person riding skis on a snowy surface'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'small elephant leans towards a larger elephant on a field of grass'. How many words end with the letter 's' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a vase of flowers on a wooden table'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a woman on the beach tries to catch a frisbee'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a baby elephant walks on a dirt path'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a guy in a full body wet suite riding a surfboard'. How many words end with the letter 'y' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a bunch of people in a park and there are a couple of them flying various kites'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a gourmet pizza with artichoke tomato and cheese on a plate'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a group of boats tied to the dock'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'three paintings of red scissors sitting next to each other surrounded by art'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two scooters being displayed behind a glass in a building'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a wooden bench with an iron frame sitting on a boardwalk'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'boats docked near land and several buildings'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'three people in a kitchen area with a table with bowls'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a group of young men who are on skateboards'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a good stands in the grass next to the water'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man looking at a cow eating grass near the beach'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man in an arena rides a bucking horse'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a picture of man with wording that reads the 2012 state of the union address'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a room with several desks tables and chairs'. How many words end with the letter 's' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a mirror hangs from the ceiling of a large room'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a plate of food that is on a table'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'an african american girl eating a slice of pizza'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a man attempting to instruct a small child to use a mechanical toothbrush'. How many words end with the letter 'o' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the sandwich for lunch is made and ready to be eaten'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two people sitting at a table with a cake in front of them'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a beautiful young woman holding a tennis racquet on a court'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a woman on a tennis court serving a tennis ball'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a woman is riding a raft as an audience watches on the dock'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'an small airplane on a tarmac with the ladder down'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man riding on the back of a motorcycle down a street'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'three youth with skateboards sitting on the steps looking at the ocean'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a red fire hydrant sitting on the side of a road'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two couplesthree of them in jeans are sitting around playing wii'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a room with a lamp a couch a red rug and some books'. How many words end with the letter 'a' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a yellow blue and purple train sitting on the track'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the woman wearing a coat stands near sheep behind a fence'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two people walking in the rain underneath an umbrella'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a giraffe in a field near a tree with a sky background'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'many people on some grass cars and kites'. How many words end with the letter 's' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a train car at a standstill on railroad tracks'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a zebra standing between a fence and a concrete area while a smaller zebra is laying on the ground'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a person standing next to a counter with many bottles'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'several type of vegetables and greens sitting on a table'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a male in a black shirt is holding a cellphone'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a row of trucks with a harbor in the background'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a brown and gold antique vase being displayed'. How many words end with the letter 'd' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a bathroom area with toilet sink and black curtain'. How many words end with the letter 'k' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'two birds gather in an area with water and dirt'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'there are many people and horses standing on this beach'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a woman playing a game with a remote controller'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a cat that has something on their head'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'you can see the bathroom through the window'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a very small kitchen sink with a single light above it'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a young boy with a tennis racket and ball'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a train is sitting on the train tracks'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a kitchen with stainless steel appliances and counter tops'. How many words end with the letter 's' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a motorcycle is parked near a building by the curb'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a person taking a picture of the back end of their big truck'. How many words end with the letter 'k' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man on a snowboard riding a slope'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a train is stopped at a station waiting for passengers'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a semi tow truck is hauling a train down a street'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a boy looking through a window at a bear'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a desktop computer sitting on top of a wooden desk'. How many words end with the letter 'p' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'three bottles of wine are stored next to a flower pot'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a woman riding a bike past a parked car'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a full view of some big buildings in the city'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bathroom with a mirror sink towel and shower curtain'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a piece of wood has a fresh pizza on it'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'man playing mini concert with guitar speaking to audience'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'looking across a muddy enclosure where zebras and giraffes are standing'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a collection of photos of breakfast items coffee a bed and a bathroom'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a baseball player bunting his bat at a ball'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'scissors cloths bowls and other items are scattered on a floor'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a train rides through a city next to a building'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a busy train crosses across a road way'. How many words end with the letter 'y' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man riding his bicycle down the road'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man eating carrots and an apple wearing a horse mask'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'an asian man playing in a tennis match'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a skier seems to be having a tough time standing up'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'small vase with water and flowers make the center piece for this table next to fork and salt and pepper shaker'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'giraffe and zebra in a grass and tree area of animal park with parked cars'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a tall giraffe standing in a dry grass field'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a beautiful woman laying on a white bench'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a red double decker bus going down a street late at night'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'two elephants with people riding on them next to block barriers'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'hot dogs in buns smothered with corn salsa and cheese'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the clock has many different measurements on it'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'someone holding a half eaten hot dog that has mustard and ketchup'. How many words end with the letter 'p' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bowl of cheerios cereal next to a small cup of grapes'. How many words end with the letter 'l' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a large tall tower with a clock on top'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a guy is standing on the street holding a sign'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'group of people windsurfing over the beach and water in the ocean'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a lot of boys are playing frisbee having fun'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'an animal that is sitting on a branch in a tree'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a brown headboard has a bare mattress bed'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'steam emanates from a manhole cover in the middle of a street'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a dog laying on top of a cat as the cat tries to push it away'. How many words end with the letter 't' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a man wearing glasses and a suit standing in front of a podium with a sign for the center for american progress'. How many words end with the letter 'n' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'herd of elephants drinking at a pond in a brown field'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a modern living room with couches television and a bookcase'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'an old fashioned midwestern carriage is being pulled by two horses'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a kitchen decorated in white and black colors and a gray floor'. How many words end with the letter 'd' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a man that is standing in the dirt with a bat'. How many words end with the letter 't' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a doughnut sits on white crinkled parchment papter'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man standing on a tennis court holding a racquet'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the man is trying to figure out how to tie his tie'. How many words end with the letter 'e' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a man holding onto a pencil as he looks at something on the monitor'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'this is a person holding a wii remote'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a tray with pork broccoli fruit muffin butter shrimp and orange juice'. How many words end with the letter 'i' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man in a tie is cooking hotdogs on a grill'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'there is a male tennis player playing on the court'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a boat is on the harbor of a big city'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'an image of two people that fell in the snow'. How many words end with the letter 'w' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a yellow traffic light sitting on the side of a building'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a dog sleeping on a bed next to a remote control'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'two plates with different kinds of donuts on the table'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'many jars and plates and people working in a kitchen'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a parking meter sits on the side of the street'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a cow in a field looks into the camera'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a cat reaching up to a counter by a person'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a person snowboards in front of snow covered evergreen trees'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a commercial plane is sitting on the airplane line'. How many words end with the letter 'e' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'plane and bowl of oriental food with beer on table'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'four boats with mast are sailing in the still river'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a black refrigerator at the end of an lshaped counter topped with a microwave coffeemaker and stainless steel sink'. How many words end with the letter 'r' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a man holds onto a rope on a wake board'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a sign is in the dirt on the side of the road'. How many words end with the letter 'e' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a large red truck on a city street'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bathroom with a blue dustpan and broom on the floor'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'many white birds flying above a river that flows in front of a forest'. How many words end with the letter 't' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'two elephants are in a field together eating'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a woman in black shirt sticking tongue out above tray of chili dogs'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man wearing glasses a neck tie and a hat'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a woman standing next to a baby shower cake'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'horses standing in a forest next to people'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'group of cows painted with similar patterns walking through a town'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a number of people blind folded with bananas'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a fluffy white cat is laying on a bed'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a couple of hot dogs that are next to a stuffed dinosaur'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a collage of interior design and furniture photographs'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a woman cutting into a cake with a man standing behind her'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a woman and two young children sit on a bench'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a couple stand beside a shop in vintage clothing'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'large sitting clock tower pointing to the sky'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bench near many rocks and animals in a field'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a stop sign next to an intersection with wide open heart beyond'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the bed has been made with a thin blanket that matches a pillow'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the street crowd is headed to the winter event'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'two giraffes standing at each other in a holding cell'. How many words end with the letter 'l' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a group of people that are standing in the water'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a handmade raft holds three people in front of a dock'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a field filled with people flying colorful kites in a blue sky'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a sidewalk and fire hydrant in front of a store front'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a twelveseater private jet sits on the tarmac'. How many words end with the letter 'c' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'an image of an old train station building'. How many words end with the letter 'n' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'several shirtless men with towels wrapped around their waist'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man riding a motor bike on the road'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the laptop is sitting next to the computer monitor'. How many words end with the letter 'p' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'an industrial kitchen with white floor and cabinets and a steel door'. How many words end with the letter 'l' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'music sheets in a binder sit on the table with scissors tape a pen and ruler'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a boxed lunch with a sandwich veggies fruit pickles and a dessert'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a woman walks down the sidewalk while on her mobile phone'. How many words end with the letter 'e' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a beach with a lot of kites flying in the air'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a big red food vendor truck with customers'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a dog in the refrlection of a car mirror'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the truck driver hauls an elephant down the highway'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'two men riding a big wave with surfboards'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a person sitting at a table with a wine glass'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'there is a elephant that is in the water'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'park benches sit underneath tall trees in a forest'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a brown horse and rider are going over a hurdle'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the man is para sailing on the water today'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a green bowl filled with various green fruits'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a close up of a person getting ready to hit a volley ball'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the banana bread is cooling on a rack'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a baseball player in a white uniform holds a bat as a baseball is in the air very near him'. How many words end with the letter 's' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a grizzly bear walking in the woods looking off in the distance'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a teddy bear with a red bow holds two red white and blue pom poms'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a brown teddy bear sitting inside of a straw basket'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a living room has couches and chairs as well as a fireplace'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a big boat with a bunch of people on it'. How many words end with the letter 'h' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a white plate sitting on top of a wooden table'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'young child operating video game remote control from chair'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a piece of cake on a green plate with a portion on a fork'. How many words end with the letter 'a' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a person on a desk with a large stack of something'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'laptop computer next to monitor on wooden desk'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a big clock on top of a big strange structure'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a lady looking distraught standing in front of a billboard'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a dog pulls on one end of a frisbee why a person pulls on the other side'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'there is train station with rails all over'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bird is perched on top of a branch with many leaves'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a red fire hydrant in the middle of the forest'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man running along the shore with a flock of birds'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a tea kettle a brown mug cup and a laptop'. How many words end with the letter 'a' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'two people are sitting next to each other at the table'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a batter has just taken a swing at a baseball game'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a dog is sitting on a couch in a motor home'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'pizza with two slices taken out of it'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a dog wearing a shirt standing next to a piece of cake'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a small white boat next to a dock in the water'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a small child stands outside and stares at a frisbee'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a dog by a bench in a park'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a child leans into the camera brushing their teeth'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'there is a cat pillow on a bed'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a white bench sitting in front of a fence'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a zebra sharing his enclosure with a donkey'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a young father holding his baby while the baby is holding a frisbee'. How many words end with the letter 'y' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a little girl is holding onto a remote control'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a zebra stands next to another zebra in a pen'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a young small child sits on a luggage carrier'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a basic bedroom with a desk and small bed'. How many words end with the letter 'm' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man holding a small child with a toothbrush in its mouth'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a man in a blue sweatshirt is throwing the frisbee'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'man with no shirt holding frisbee in grassy rocky area'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a highway sign and speed limit sign on a street'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a lady is stroking the side neck of a horse'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'people are standing together playing with wii controllers'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'there are three ceiling fans hanging in this family room'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'food sitting on a kitchen counter in front of a microwave'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'this items have been selected to make a meal'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the computer desk has many office electronics on it'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'this is a man on a bike with a kite'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a city bus driving down the street to georgetown'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a boy holding a baseball bat on a field'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a little girl looking at her dad on the tv screen'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a black and white photo of a person riding a skate board'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a young man in white engaged in a soccer match'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a microwave and a bowl of food on a counter'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a black and white photo of a room full of clocks'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bench sitting on the side of a body of water'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'five giraffes in an enclosure on a sunny day'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a young girl on a cross country ski trail'. How many words end with the letter 'l' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a train with its light on going down the tracks'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a hummingbird reaching up into a flower to get nectar'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'this is an image of a bathroom with a tub and a sink'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a close up of a plate of pizza'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a man feeding a spoon of food to a white kitten'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two women looking around a yellow dining room'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a guy wearing a wetsuit surfing a wave'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a snowboarder grabs his board while high up in the air'. How many words end with the letter 'p' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'there is a toilet that has been put in the street'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'this white chair tucks nicely into a white dresser'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a cat sleeping under a blanket on a bed'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'giraffe with front legs spread looking at water'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a pastry covered in powdered sugar near some fruit'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'several people standing next to a wooden walkway'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a very long train parked by some train tracks'. How many words end with the letter 'y' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a young man in the process of throwing a frisbee in a yard'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'snowboarder making turn on slalom course in ski area'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bowl of bananas with strawberries on it'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a train riding through tracks in a large train station'. How many words end with the letter 'n' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a man on a court that has a racket in hand'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'man on skate board for practicing performing tricks'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the young boy is riding his snowboard on the mountain'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'there is a small group of zebras together out in the field outside'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bunch of cows in a feild on a hill'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a zebra looks at the grass at a zoo'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a pizza in a box has a slice taken out'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'an empty motorcycle sits on the side of a forest road with the helmet resting on the motorcycle'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a computer monitor in a home style office'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the double decker bus driving by a palce'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'girl with white and pink dress with hat and clock bag'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two people standing among a mixture of cows horses and pigs'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a girafee is standng in the den at the zoo'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a man riding a horse down a beach with a cowboy hat on'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a black man rides a bike pulling a tall crate'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two boys sitting on a bed playing a video game'. How many words end with the letter 'o' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'four people sit in a canoe crossing the water'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a piece of clothing fabric with a horse stiched to it'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man standing in a stone based kitchen at a table'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a young boy in a baseball uniform swinging his baseball bat'. How many words end with the letter 'l' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a person sitting on a bench using a laptop'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a giraffe all alone in a closed in fence'. How many words end with the letter 'l' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man wearing a cowboy hat standing next to an old red truck'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'three men in business suits each carry umbrellas'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two women are standing smiling with their horses'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the men are posing for a photo together at the event'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a car parked on the side of a street next to a parking meter'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a child throwing a baseball with other children behind him in similar clothing'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the people are walking down the street in different directions'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a pitcher throws a pitch to a batter'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the baby elephant is walking along with its mother'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a couple of people standing on top of a grass covered field'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a child at a table eating pizza'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'here is mother and baby zebra foraging for food in the nearbarren field'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bunch of stuff sits on a hardwood floor'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bath tub sits inside of a bathroom'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'bowl shaped sinks perch on top of a counter that is lit from below'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a room with several televisions inside showing sports'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a small refrigerator sitting in a  kitchen next to a counter'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a man skiing in a snow covered sidewalk'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a living room with wooden walls and furniture'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two police officers on motorcycles driving in front of a street sign and a car'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'many people enjoying flying kites in a city park'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a large group of people outside eating together'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a person in the air catching a frisbee over lawn of green grass lined with trees'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a woman looks at a glass of wine'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a group of kids that are sitting together'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man standing next to pizza in boxes'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a cat sitting on a table with its head in a glass'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a red stop sign hanging from a pole with  never  and  loving  painted on it'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'someone takes a photo of an image of a woman holding a child'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a line of oranges lemons and apples on a window sill'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'brown bears sitting in a cement prison covered with water'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'some signs on a street corner near some buildings'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'an empty plate with sticky notes on it saying really nasty things'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a cat sitting on an arm rest in a car next to the driver'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'an open suit case with three purple items of clolthing'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two giraffes and two other animals are in a park area'. How many words end with the letter 'o' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a motorcycle is hanging in the air with plants on it'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'three girls sitting at a table in a glass room under a blue umbrella'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bathroom with a white bath tub next to a toilet'. How many words end with the letter 'h' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man in black stands next to a guitar case near a white wall'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a dog chewing on an old ball in the yard'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'zebras cross a dry plain to a large watering hole'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a train with a line of sections near trees'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'some snow skiers in a line trees snow and sun'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man holding a wine glass standing in a winery'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a woman in a dress beneath a ladder holding an umbrella'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'people on street passing restaurant or bar serving trappist biere beer'. How many words end with the letter 't' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a herd of zebra standing on top of a green field'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'an elephant near a man sitting down'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'some shoes are reflected in a bathroom mirror'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bottle of wine sits on a desk by a laptop'. How many words end with the letter 'p' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a street light on an open city street'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a man using the toilet while on the computer'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'two men on a beach are balancing frisbees'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'closeup of a mouse on a desk with other apple hardware produces'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a group of men that are standing next to dirtbikes'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a close image of an elephants ear and shoulder'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man shows off his ski board stating winner 3'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a empty kitchen with many drawers and appliances'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a dog standing on its legs looking at itself in the mirror'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'several bags of luggage lined up in wooden benches'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a person that is standing on a beach by the ocean'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a person on a horse near some cows'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'an airplane landing on a snowy field'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a chalice statue sitting in front of trees'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a group of men and women sitting around each other'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the little girl pokes her finger into the sheep cage'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a white and blue plate of food that includes cauliflower and potatoes'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a school bus with writings on it and colorful shirts next to it'. How many words end with the letter 't' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'railway crossing sign and vacant train tracks and road'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a black and white picture of a hitter awaiting a pitch while a teammate stands in the on deck circle'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a little girl that has a backpack on her back'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a primary school has a modern building and painted boxes'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'adults tasting wine while standing outdoors at winery'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a boy on a skateboard is jumping over a red obstacle'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a line of stuffed animals hanging from a roof rafter'. How many words end with the letter 'f' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'two birds on a beach near a body of water'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'an older woman with a rolling suitcase standing in an airport'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a naked baby standing in a bath tub'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the skier is sitting down in the snow'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a police officer is riding a motorcycle on the street'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a banana is cut in half on a plate'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the motorcyclists are riding with flags on their bikes'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a pair of warning signs displayed to instruct drivers'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a person standing on a tennis court holding a tennis racket'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a clock tower with multiple sides in a snowy area'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'the table is covered in glass vases and other knick knacks'. How many words end with the letter 's' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a motor bike sits on the grass outside near others'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a person packing in a hotel room on the bed'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a group of brown teddy bears sitting along side of a sidewalk'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'this youngster has a boogie board to ride the smaller waves'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a seagull flies against a bright blue sky'. How many words end with the letter 'l' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man sitting on top of a picnic table with a dog'. How many words end with the letter 'p' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man and a small kid play a video game'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a person in full gear is on skis outside in the snow'. How many words end with the letter 'n' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a person on a beach is holding a kite'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'an old two story bus parked next to a building'. How many words end with the letter 'o' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the birthday cake is decorated with icing and sticks'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'one man standing on a small boat as another man rows'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'people are riding waves on water from under a bridge while others watch'. How many words end with the letter 'e' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'three adult peacocks sitting on wooden tables in a small room'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'three plates of food on a red tablecloth'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a plate of apples and salad on a table'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a group of people standing and sitting posing for a picture'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man sitting on his surfboard looking out into the ocean'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a variety of different foods are on the table for your choosing'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man holding a yellow surfboard on top of a beach'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a group of animals standing behind a fence eating some grass'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'an ironwork structure with clock at an amusement park'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man with a green kite kneeling on the floor'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two people talking while one holds a mobile phone'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a plate of eaten food on the table'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a group of children who are posing for a picture'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'small group of cows in an open field grazing and eating'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a leaning traffic signal siting on the side of a city road'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'skate boarder jumps a median at a popular hangout'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man in a baseball uniform who is swinging a bat'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'giraffe standing on green grass in front of many clouds'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man holding a sunflower standing on papers wearing a red nose'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man eating at an indoor restaurant while staring at the window'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a bird is sitting on a branch in front of a palm type tree'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a train going pass snow mountains during the day'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a child with a pillow sitting on a bed'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man riding a snowboard up a ramp'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a little elephant seen under its parents trunk'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a woman uses a laptop computer against a backdrop of flowers'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a close up of many oranges piled on top of each other'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man with glowing shine has a violin'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a crowd of people standing below a gray cloudy sky'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the bathroom is empty and the blinds are closed'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a couple of people sitting on top of a bench near a small building'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a plate with tortilla shells tomatoes chives onions cheese and lettuce'. How many words end with the letter 's' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a man doing a handstand with one hand on a skateboard'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'some people on a stage a chair and a red heart and lights'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man brushes his teeth with a tooth brush'. How many words end with the letter 'h' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a double decker bus driving down a street'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a group of people riding horses in an arena'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man on a motorcycle hooked to a carriage'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a vase filled with water and pink roses'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man wearing a hat standing next to a surfboard'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a giraffe standing near a tree branch in the grass near a grove of trees'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a bear sitting on a rock in a zoo exhibit'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a sign pointing to a car park outside during the day'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a green bus is parked in front of homes on a street'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a woman riding a surfboard in the waves'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a street corner with a car waiting at a stop sign'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a group of young men sitting around each other'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a bowl of soup with a spoon and an orange on a table'. How many words end with the letter 'p' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a black and white photo of a train pulling into the station'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'curved picture of a school bus rounding a corner'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'there is fresh food being made in the oven'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a brown cow walking down a sidewalk near a forest'. How many words end with the letter 'w' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a cgi fire hydrant sitting in front of a real life store'. How many words end with the letter 'l' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a tv attached to a wall with food near by'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a pretty young lady talking on a phone'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'several boats sitting at docks on a body of water'. How many words end with the letter 'l' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'woman riding a biking next to a tall building'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a beautiful woman holding a tennis racquet on a court'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a person on a beach holding a surf board'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a couple of people that are flying a big kite in the sky'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a cat laying on top of a bag in front of a camera'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man throws a frisbee at a park'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a toilet with two rolls of toilet paper attached'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'the view from under a tiki hut is serene'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a large jet flying through a blue cloudy sky'. How many words end with the letter 'y' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a person takes a photo of themselves in the bathroom'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a city train stopped at a boarding station'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'many elephants in  field of green grass near trees'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two plates filled with lots of hot dogs on buns'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a couple of girls sitting on top of a brown couch near an adorable black dog'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a busy urban street at night with marquees lighting the street'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a hummingbird hovers in front of a feeder'. How many words end with the letter 'f' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bed with a wooden headboard next to a window'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a big white food truck with a big sign'. How many words end with the letter 'k' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a tupperware container filled with rice and vegetables'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man holding a cell phone at a counter with phones for sale'. How many words end with the letter 'r' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'three zebras mill about in a grassy enclosure'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'llamas are standing on the slope of a hill'. How many words end with the letter 'l' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'commercial train moving quickly passed a commuter rail'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a surfer balances as he contends with whitecapped ocean waves'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a large rounded mirror to help people see past certain angles'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a close up of a blue and yellow train at a platform'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'people in a restaraunt eating and wine glasses besides it'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man that is standing on a soccer field with a ball'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a group of tourist walk through a public space'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a green traffic light and cars riding by it'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man riding a bike around a rink'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a display of ripe bananas at a farmers market'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'foods are on plates and in bowls on the table'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'the street sign for rodeo drive sits on lamppost'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a young man is sitting and talking on the phone'. How many words end with the letter 'n' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'there is a living room with chairs a sofa and stairs'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'some food on white plates in on a wood table'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'two photos of two different set of toothpastes'. How many words end with the letter 'o' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a horse that is standing in front of a carriage'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'two people standing in front of a television with one person holding a video game controller'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'cross country skiers on snow covered course during race'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'there are two woman that are walking in the street under a umbrella'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a portion of carrot cake is sitting on a plate'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'person with umbrella walking in front of a fountain'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a truck is crossing a busy and rainy intersection'. How many words end with the letter 's' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a kitchen with brown cabinets and a black and silver oven stove and microwave'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a computer keyboard with lit up blue keys'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a yellow pole that has a meter on top of it'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a bathroom with toilet sink and colorful tile'. How many words end with the letter 'a' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'cars are covered in snow near the stop sign in a parking lot'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a plate of fish and vegetables next to a glass of beer'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'scooters parked in a row in a parking lot'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'i am unable to see an image above'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a tennis player is getting ready to hit the ball with his racquet'. How many words end with the letter 'r' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'the warehouse holds several used toilets on the dusty floor'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'very decorative room with a lot of personal identity'. How many words end with the letter 'e' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a bed with two comfortable chairs and a desk with a bottle of wine'. How many words end with the letter 'e' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a wooden platform surrounded by grass overlooking water'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a batter is getting ready to hit the baseball'. How many words end with the letter 'y' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a baseball player takes his stance in preparation for a pitch while the catcher and the umpire wait too'. How many words end with the letter 'l' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a man in a turban poses for a picture'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a woman smoking a cigarette and holding a small dog'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a dog sitting on top of a couch that is full of pillows'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a crash involving a large truck that tipped over'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a dog is chasing some sheep on the grass'. How many words end with the letter 'g' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a sandwich with a side of pickles and cole slaw on a white plate'. How many words end with the letter 'h' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a hallway of a home with a person in a wheelchair in the background'. How many words end with the letter 'n' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'a nicelydecorated living room with a television and couch is pictured'. How many words end with the letter 'h' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a living room filled with brown furniture and a tv set'. How many words end with the letter 'h' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a living room filled with furniture and a small gray tv'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'there are people playing wii in the living room'. How many words end with the letter 'e' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'teddy bear in front of a holly covered object'. How many words end with the letter 't' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man snow boarding in the snow down a slope'. How many words end with the letter 'e' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a batter sings his bat at a baseball game'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a cake sitting on a glass plate that has had a piece cut from it'. How many words end with the letter 'a' in the sentence.",
+        "label": "3"
+    },
+    {
+        "sentence": "Sentence: 'dirty speed boat sitting out in the yard'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'two people in the distance skiing against the horizon'. How many words end with the letter 't' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a white boat with various bicycles at the front and other boats in background'. How many words end with the letter 'd' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a man sitting on top of a motorcycle next to a field'. How many words end with the letter 'o' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'two boats are sitting her in front of a break wall'. How many words end with the letter 'n' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a young girl holding a tennis racket playing tennis'. How many words end with the letter 'a' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a plate of food with broccoli meat and white rice with a sauce over it'. How many words end with the letter 'e' in the sentence.",
+        "label": "4"
+    },
+    {
+        "sentence": "Sentence: 'a woman in a black shirt a black chair and a keyboard and monitor'. How many words end with the letter 'k' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a small child reaching over the fence to touch the giraffe'. How many words end with the letter 'd' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a small airplane moves along the runway amongst a grassy field'. How many words end with the letter 'g' in the sentence.",
+        "label": "1"
+    },
+    {
+        "sentence": "Sentence: 'a public bus parked by a blue bus stop'. How many words end with the letter 's' in the sentence.",
+        "label": "2"
+    },
+    {
+        "sentence": "Sentence: 'a female in a black shirt a toilet and a shower head'. How many words end with the letter 'a' in the sentence.",
+        "label": "4"
+    }
+]

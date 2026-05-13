@@ -1,0 +1,2562 @@
+[
+    {
+        "sentence": "He was born with a silver spoon in his mouth. He's never had to work at the store.",
+        "label": "Is that true? Mr. Sims never worked here at Quiznos? I just assumed he worked his way up through the ranks."
+    },
+    {
+        "sentence": "Put these two bagels on my wrists, as if they were handcuffs and lead me outside.",
+        "label": "Sure, they're a little wet. But, they stretch because they were only boiled."
+    },
+    {
+        "sentence": "Rachel, it's now time to flush if you know what I mean.",
+        "label": "I do. I'm going to go down to aisle 12. I'll be back in a little while."
+    },
+    {
+        "sentence": "I'll guess your height. Just stand against this numbered background.",
+        "label": "But it seems like you'll just be able to read it. You'll know it."
+    },
+    {
+        "sentence": "Oh, another dog got me leg.",
+        "label": "Hey, you gotta get it back and reattach it. That prosthetic has been in the mouth of too many pups."
+    },
+    {
+        "sentence": "Well, Heidi, this was another successful science fair. Although, some might say we've tampered in God's domain.",
+        "label": "This was like Project Funway."
+    },
+    {
+        "sentence": "I'll hide his body.",
+        "label": "Thank you, Evan, you're so sweet. I appreciate that."
+    },
+    {
+        "sentence": "I'll tell you what, I'll buy your fish. I just wanted to ask the young lady behind the fish counter something first.",
+        "label": "I want 27 orders of the cod. That's what you're paying for."
+    },
+    {
+        "sentence": "Yeah, yeah.  I think I might have to excuse myself.  I've just got a little tickle and I don't want to disturb people.",
+        "label": "I'm confused.  The air is really moist."
+    },
+    {
+        "sentence": "Very well. I'm watching, you Bob.",
+        "label": "Thank you Mr. Timmons."
+    },
+    {
+        "sentence": "The only way I'm going to feel reasonable doubt is if I feel there is someone else that could have done this and as of right now, I don't feel like anyone but the husband could have done it.",
+        "label": "I tend to agree with Micky. It's so obvious the husband did it."
+    },
+    {
+        "sentence": "I bet he took that computer and sold it.",
+        "label": "You know what? I bet he did. He probably went and sent like three more emails before he did it, just to insult us."
+    },
+    {
+        "sentence": "I've been waiting for this train for a while.",
+        "label": "Me too. Feels like I've been waiting for a lot of things for a while. Like, there's this package that seems to be taking longer to be delivered than I was told."
+    },
+    {
+        "sentence": "I think you bring murder-dog to grocery store.",
+        "label": "I think you're attractive. Now we've both said things we can't unsay. Now the truth's out there."
+    },
+    {
+        "sentence": "I wish that everyone would stop advancing on towards us and forcing us against the wall.",
+        "label": "We just want you to try one of the doughnuts."
+    },
+    {
+        "sentence": "That's exactly what I heard! That you were the 14th woman in space.",
+        "label": "Yeah, well, sometimes rumors are true. You want to know something? Rumors are usually based in some sort of truth. Every rumor you've ever heard."
+    },
+    {
+        "sentence": "You've all come from so far and wide to wish me the happiest birthday. I think with all these wonderful presents, there's only one thing that would make me the happiest mayor on this side of the tri-county area.",
+        "label": "Is it more votes, Mr. Mayor?"
+    },
+    {
+        "sentence": "I might be beautiful, but I'm not religious.",
+        "label": "Wait, did you write that book, \"I Might Be Beautiful but I'm Not Religious\" did you?"
+    },
+    {
+        "sentence": "When I look into this man's eyes, I can see forgetfulness but I can see true love. I want to give you the ring that my father gave me, for you to renew your wedding vows.",
+        "label": "Kent, thank you very much. You're a stranger whom I'm bound to forget in mere minutes time."
+    },
+    {
+        "sentence": "I'll write you a new check.",
+        "label": "Oh, he must be a millionaire to have more than one check."
+    },
+    {
+        "sentence": "I told you to go to a different churro stand.",
+        "label": "I want to go to him. I told him that I was going to support his business."
+    },
+    {
+        "sentence": "So this is my office, I guess. It's pretty good.",
+        "label": "This is actually really nice. I love all the chintz. I love the purple."
+    },
+    {
+        "sentence": "I once swallowed a tapeworm to lose weight, but it turns out that that doesn't actually work that way.",
+        "label": "No, no. They just wreck havoc on your intestines."
+    },
+    {
+        "sentence": "Well then you're in for a treat. I write mystery books that are secretly action books.",
+        "label": "His mystery books are like \"what genre is it?\" You don't know until you read it."
+    },
+    {
+        "sentence": "Someone getting stuck in the door is a very specific example. Do you know something about what happened?",
+        "label": "It was just an example. Maybe somebody else put them in the door and had them stick."
+    },
+    {
+        "sentence": "Roger, let's just cut to the chase. What's your big announcement?",
+        "label": "Guys, I only have 15 minutes left to live."
+    },
+    {
+        "sentence": "Fuck you, Don!",
+        "label": "You know, you go through years of seminary school and they still call you Don."
+    },
+    {
+        "sentence": "Mr. and Mr. Popple, meet Jimmy.",
+        "label": "You are her friend, Jimmy. Here's some water."
+    },
+    {
+        "sentence": "Who are you? This is the largest asthma inhaler, I've ever seen.",
+        "label": "I am an iron lung."
+    },
+    {
+        "sentence": "Don't you ever walk up to one of the many public apple statues and slice off a hunk of apple?",
+        "label": "It's really a lot of work. That's why I've gotten so skinny and beautiful."
+    },
+    {
+        "sentence": "That's exactly what were doing, though. Putting food in bags.",
+        "label": "Yeah, I mean, food and also cleaning supplies. We have a few tools available. Oil for your car."
+    },
+    {
+        "sentence": "This is loose I wanted to be tied in tight!",
+        "label": "If we tied you any tighter it would cut you. Do you want to be able to breathe? "
+    },
+    {
+        "sentence": "You thought you recognized me, a man made of pudding? I look familiar to you?",
+        "label": "I just couldn't place you. But now you've really opened my eyes. I can see that I was doing the wrong thing all along. You're welcome to stay here. You and the mongooses, and all these coyotes."
+    },
+    {
+        "sentence": "Sweetie, I am the job. You know that, sir.",
+        "label": "You can call me Dan, we've been married for 13 years."
+    },
+    {
+        "sentence": "Oh, the LA Forum. That place is the worst.",
+        "label": "You don't have to tell me. It's just been washed up band after washed up band. I've just been haunting them. Just giving them memories of me from when I was actually alive."
+    },
+    {
+        "sentence": "Does your goat have a name?",
+        "label": "Oh, no he doesn't. I might have to eat this guy."
+    },
+    {
+        "sentence": "I got a book about lucid dreaming. What we could do for the first half of the show is be asleep, but doing stuff.",
+        "label": "OK. So, we should go out there asleep?"
+    },
+    {
+        "sentence": "I mean, I'm not trying to make you laugh. I'm scared.",
+        "label": "Yeah I know. I'm a nervous laugher. I'm scared too."
+    },
+    {
+        "sentence": "Don't mind that noise, it's my echo. It sneaks up on you from all corners. ",
+        "label": "Was that echo me or you?"
+    },
+    {
+        "sentence": "Well, welcome back to the next class. It's a different day and we're ready to begin drawing anew. Roger, I see you're already nude, thank you.",
+        "label": "Yeah, I mean, my rash was really acting up. And that robe been's worn by many a model."
+    },
+    {
+        "sentence": "Hi, I'm Getcha Bemy. And I'm just a lady who likes to get it.",
+        "label": "You seem important, unlike other ladies I've met here in Rome."
+    },
+    {
+        "sentence": "Look, I was trying to go incognito, which is why I put on these fake ears.",
+        "label": "They are smaller than your regular ears."
+    },
+    {
+        "sentence": "I gotta know more about this therapist.",
+        "label": "You know, you don't even know. Number one, he's a fish. He's a talking fish and more of like a monkey."
+    },
+    {
+        "sentence": "After Leg Cramp left, I started drinking. I used all my dollars to buy alcohol and then my life went in a bad direction.",
+        "label": "You know they say, like attracts like. We've found a woman that is basically a blister and the irony being she can't find anything to drink."
+    },
+    {
+        "sentence": "I don't think, after what we found in your jacket, anything could surprise me less than you being lonely.",
+        "label": "Just because I have a copy of Scruples and eight yo-yo's?"
+    },
+    {
+        "sentence": "It's Palm Springs. You're at an outdoor pool. It's pretty warm.",
+        "label": "Yeah, no, but it's warmer than it was before. Oof. What was in this orange juice you gave me?"
+    },
+    {
+        "sentence": "If you go inside and run the comic book shop for a minute that would be great.",
+        "label": "Ok, while I'm doing that I can readjust my bulge in private,"
+    },
+    {
+        "sentence": "Are you sure you're cut out for this man's air underwater navy?",
+        "label": "To be fair, when I joined, I honestly thought we were just gonna be in the air."
+    },
+    {
+        "sentence": "Yeah, I will lance your boils for free.",
+        "label": "And you're a veteran. You were captured for a while."
+    },
+    {
+        "sentence": "Judith, I love you and I want to marry you so I can become a US citizen.",
+        "label": "I love you too. That sounds so nice. I'll help you out."
+    },
+    {
+        "sentence": "We're actually like a Jekyll and Hyde. We're two halves of the same.",
+        "label": "So you were hunting yourself this whole time?"
+    },
+    {
+        "sentence": "Listen, Cheryl, it's not fair of you to lord it over everyone that you're a time traveler and you know everyone's fate here.",
+        "label": "But I promised not to change anything. Like, I could have said something about when Eve was tempting Adam to eat that apple. But I stayed out of it. I didn't change the course of history."
+    },
+    {
+        "sentence": "Hey, have a seat. Your meal's on me today, OK?",
+        "label": "Thanks, Bob."
+    },
+    {
+        "sentence": "Well, Joshua, it's so nice to meet you. My name is Janine Roxbury.",
+        "label": "Oh, Janine of the Roxburys! I've heard of you."
+    },
+    {
+        "sentence": "That was quick!  You found the prostitute mother that I may or may not have murdered with my fangs.",
+        "label": "Uh huh.  She lives in Pacoima."
+    },
+    {
+        "sentence": "Do you think that I should deep throat on the streets?",
+        "label": "What's wrong with you? I was going to say to go back to school and learn about and learn about Martin Luther Giraffe and Martin Luther King Jr. and Martin Luther King Jr. Jr. High School."
+    },
+    {
+        "sentence": "He doesn't know we're both girls, which I guess is fine, but it seems really weird.",
+        "label": "Yeah. Neither of us is, like, androgynous."
+    },
+    {
+        "sentence": "Hey, uh, if you all need me to place my arms or legs in any particular position, you just let me know because I'm here to serve y'all.",
+        "label": "Well I'm just enjoying your raw masculinity."
+    },
+    {
+        "sentence": "We can go ahead and say it's bad. It's bad to beat your wife.",
+        "label": "Lock him up. Even if it never lead to anything, it's just fun to say."
+    },
+    {
+        "sentence": "I wish you wouldn't call me babe.",
+        "label": "Sorry, it's just, you're a total babe."
+    },
+    {
+        "sentence": "I took some cues from your spy novels. I always carry a derringer in my garter.",
+        "label": "In front of the kids?"
+    },
+    {
+        "sentence": "That's fair. He's older, so he should go first.",
+        "label": "I don't like when you say it's fair. I wish you would fight more."
+    },
+    {
+        "sentence": "Marlene can help you with your black shirt. She'll take you right over to our evening section.",
+        "label": "Thank you so much, Jerry. Hi, my name is Marlene. I'll be helping you today at Tommy Bahama."
+    },
+    {
+        "sentence": "I did not realize I was not the only monster.",
+        "label": "Yeah, I mean, we're all monsters deep down, right?"
+    },
+    {
+        "sentence": "Usher, what a pleasure it is to be here with you at the American Music Awards.",
+        "label": "Yeah, yeah, yeah! No doubt, not doubt. Usher 100%. Usher right here."
+    },
+    {
+        "sentence": "Tim, look over there. It's Devin.",
+        "label": "Devin is talking to the announcement lady. We have to get over there."
+    },
+    {
+        "sentence": "Go hide behind the curtain over there.",
+        "label": "Are you going to saw me in half?"
+    },
+    {
+        "sentence": "I was an Army brat. So, I guess you could say that I've lived all over.",
+        "label": "'Cause you was in the Army?"
+    },
+    {
+        "sentence": "He's morphing right before our eyes.",
+        "label": "Watch, I can turn into anything. Hey, look at me."
+    },
+    {
+        "sentence": "Kill him! We'll bury him where I buried my husband.",
+        "label": "At this point, Ms. Charlile, I'm going to remind you that anything you say can and will be used against you, especially stuff like \"Kill him! We'll bury him next to my husband.\""
+    },
+    {
+        "sentence": "I'm sorry, sir. Who are you? I'm new to Shadow Grove.",
+        "label": "I'm Joshua. I've been in Shadow Grove all my life. I expect I'll die here."
+    },
+    {
+        "sentence": "So that's one of the other places you can break into if you need a place to stay. You just have to keep it down a little bit when you're in the house.",
+        "label": "I really like how you guys can just go wherever and feel like home."
+    },
+    {
+        "sentence": "What is she doing in there? I have a question.",
+        "label": "It's only been five minutes, give her a little bit of time."
+    },
+    {
+        "sentence": "My name is Belinda",
+        "label": "Belinda. That's a beautiful name for a beautiful woman."
+    },
+    {
+        "sentence": "Ladies, I don't know if you recognize me, but I was here about 22 years ago now.",
+        "label": "Your Mr. Fortell! Your suit is impeccable."
+    },
+    {
+        "sentence": "This has made me feel heartwarmed and Charla I want to tell you that I love you more than ever.",
+        "label": "Mikey man, I always loved you and I know you've got some weird views, but you pay for everything and you make all the meals in this relationship. I love you."
+    },
+    {
+        "sentence": "We had a car, but we put it in the river.",
+        "label": "Mama pushed it uphill into the river."
+    },
+    {
+        "sentence": "You're an angel. What's heaven like?",
+        "label": "It's like an ice cream store that never closes and is never too cold."
+    },
+    {
+        "sentence": "That murder was pretty cool because you got the bell house.",
+        "label": "That's true. Maybe we could make these possessive ghost murders a selling point for the club."
+    },
+    {
+        "sentence": "Nurse, she left a note. Can you read what that note says?",
+        "label": "Oh, it says here \"Read this when you know how to read, boy. I won't name you because that would be selfish. And also, I left under my own volition and I won't be coming back. Learn to raise yourself.\""
+    },
+    {
+        "sentence": "I know, and I can't believe you're leaving town. But listen, I want to give you a warning.",
+        "label": "A warning? You've never given me a warning before."
+    },
+    {
+        "sentence": "Tina, I'm glad you could make it to therapy today. It looks like you've been crying, your eyes are swollen.",
+        "label": "I was having such a good morning, and then I went into the store and I approached this woman and I was just about to sell her a Kathy Ireland pair of glasses, but then this legally blind man and the woman terrorized me emotionally."
+    },
+    {
+        "sentence": "Who's this one legged cop?",
+        "label": "She's the one I heard about, she moves so fast that she looks like she's moving slow."
+    },
+    {
+        "sentence": "Hold this grenade real tight. Let me just take that out, right there.",
+        "label": "Oh, you took the pin out there."
+    },
+    {
+        "sentence": "Margarittaville is always open. All the time. Come in.",
+        "label": "OK. Table for one."
+    },
+    {
+        "sentence": "They didn't see us, see I told you. I'm good for the group.",
+        "label": "It also doesn't appear they can hear."
+    },
+    {
+        "sentence": "I wanted to teach you have to drive, and it seemed like something I was into a while ago, but I'm just too busy now.",
+        "label": "Is this because I don't have anything interesting about my haircut or the way I dress? Sorry I don't dress like you, dad. I'm sorry I'm not unique or sartorial."
+    },
+    {
+        "sentence": "That's what this has been about the whole time? You want to be Bass Fishing and Jackpot King?",
+        "label": "Of course, I want to be Bass Fishing and Jackpot King, but it hasn't been about that the whole time."
+    },
+    {
+        "sentence": "Blanche, I'm afraid you're having some kind of breakdown. ",
+        "label": "Are you going through puberty? Is your brain going through changes?"
+    },
+    {
+        "sentence": "We keep you on the sunny side and the nerves don't hit, do they?",
+        "label": "It's true. If you put me in the shade, then I have nerves a plenty."
+    },
+    {
+        "sentence": "Welcome to Van Nuys. Who do we have here?",
+        "label": "My goodness. Well, my name's Calisto and she's Calista."
+    },
+    {
+        "sentence": "I'm starting this new wine tasting gig. I think this town could really use it.",
+        "label": "I know, this is a town is very uptight. We haven't been able to dance here, since 1987."
+    },
+    {
+        "sentence": "Terribly sorry, I know the line is long. I don't have a terrible amount of time to treat you all today. There's a woman living at my house that I'm trying to introduce into high society, to prove that all people are the same.",
+        "label": "Why did you say it like it's something bad? That's sweet. I wish more people would do things like that."
+    },
+    {
+        "sentence": "I feel cold every time Ricky talks. Anyone else?",
+        "label": "Yeah, I do. I get little shivers and also bumps on me."
+    },
+    {
+        "sentence": "Are you being ornery on my flight, miss?",
+        "label": "Maybe I am. It's my nature."
+    },
+    {
+        "sentence": "Actual the talent is right now in my mother's large intestine, slowly working his way out.",
+        "label": "Oh, you got that tapeworm that can juggle. I've heard of him."
+    },
+    {
+        "sentence": "Kids from the inner city will also be here, so I think a fight might break out.",
+        "label": "Definitely, hold onto your wallet."
+    },
+    {
+        "sentence": "Mr. Patterson, I thought we'd do a little presidential historical field trip so we can find the basis of our book \"The President is Missing.\"",
+        "label": "I mean, Mr. President, is this the ideal place to be? As far as presidential historical places go, this is not a happy one."
+    },
+    {
+        "sentence": "So, this ant farm will be a tourist attraction.",
+        "label": "Oh, absolutely! People come to Downy for the train, but don't realize there could be so much more."
+    },
+    {
+        "sentence": "Yes, I do. I mean, my wife passed years ago and I never thought I'd find anybody again and then when Rhonda came along and a spark came to life in me that I hadn't felt in years.",
+        "label": "I was very sorry to hear about your wife. Did you get that Blu-Ray of Cubed 2 that I sent?"
+    },
+    {
+        "sentence": "Oh, my. It sounds like a Cormack McCarthy novel, War Road. I'm very learned.",
+        "label": "Or a George Miller movie. I'm into pop culture."
+    },
+    {
+        "sentence": "She should absolutely be here in the studio. Her training never ends.",
+        "label": "I pay her for private lessons out of my own paper money. My paper route money."
+    },
+    {
+        "sentence": "Hey, what's taking so long with my drink, man? I'm fucking dry, I'm starting to sober up over here.",
+        "label": "Sorry, sir, it's - I just need to get these sundaes out."
+    },
+    {
+        "sentence": "C'mon, Rudy, let's not mince words here. I know your story. I know all your stories.",
+        "label": "Yeah, I guess you're right, Cal."
+    },
+    {
+        "sentence": "Maybe we could all sit in the hot tubs. Yeah, that might replace my ice cream craving.",
+        "label": "Or, we could, fill the hot tubs with ice cream, and turn it into a cold tub."
+    },
+    {
+        "sentence": "I happen to have some mannequins in the back of my pickup truck. We could put them into your beds, and then once your parents are asleep or meditating or whatever they're doing, you can come to Van Nuys and I can show you what the real world's really like, with feelings and emotions.",
+        "label": "Oh yeah, and Trish and Laura can cover for us."
+    },
+    {
+        "sentence": "That really hurt my feelings there, to call it just acting. What am I doing every day then, huh? Guess I'm just fucking myself in the ass.",
+        "label": "I'm sorry, I didn't mean it that way."
+    },
+    {
+        "sentence": "What took you so long?",
+        "label": "I couldn't find you guys. You said you'd be in Hall F."
+    },
+    {
+        "sentence": "The first Port-o-Potty is only for urine.",
+        "label": "The second one's for crapping."
+    },
+    {
+        "sentence": "I have 32 teeth.",
+        "label": "Wow, is that usual? That seems like a lot."
+    },
+    {
+        "sentence": "Here's me, Donkey Kong.",
+        "label": "It's me, give me a holler. I'm Diddy Kong, I'm Donkey Kong but smaller."
+    },
+    {
+        "sentence": "There's a long line of famous actresses behind me, who have all played different queens. They're all very talented.",
+        "label": "Why is that lady twirling her mustache?"
+    },
+    {
+        "sentence": "You may remember Gregor from the '80s metal hair bands.",
+        "label": "The name of his band was Hair Punk. but it was a metal band."
+    },
+    {
+        "sentence": "It's true. Did you know the appendix is only as big as your pinky and it can do all that kind of damage to you inside?",
+        "label": "I didn't even know that and I took yours out. It was bigger than that, I don't know, maybe I took out more than I was supposed to then. What I took out was about the size of a football."
+    },
+    {
+        "sentence": "Oh, I like the looks of some of this stuff, right? It's not bad.",
+        "label": "Everything you see is for sale."
+    },
+    {
+        "sentence": "Let me ask you this seriously. Have there actually been any negative effects of not having the Olympics?",
+        "label": "The trash industry has suffered. We don't get a lot of quippy commercials. The population has gone down since people aren't having sex in the Olympic village."
+    },
+    {
+        "sentence": "I'd give Carl a rating of 3 out of 10.",
+        "label": "Yeah, we've been getting a lot of bad feedback on Carl.  Other than him, I assume everything else here at Friendly House was good."
+    },
+    {
+        "sentence": "I have one question. You found one human bone in their chimney, but they called you to excavate this chimney. Like, maybe they thought it was a dead rat or some leaves. Do you really think it was their bone? That they killed someone?",
+        "label": "Now why would they leave? Doesn't that imply a certain amount of guilt?"
+    },
+    {
+        "sentence": "I forgot that I was there.",
+        "label": "It's hard to remember.  It has been three years."
+    },
+    {
+        "sentence": "Craig, you are so stupid. I shouldn't have to explain every single phrase I say to you.",
+        "label": "I'm clarifying! I want to make sure my first mission is the best one!"
+    },
+    {
+        "sentence": "Granted, I wasn't paying attention to what was going on, but you clearly made him do it.",
+        "label": "I could understand why you think that, but I was actually entirely silent."
+    },
+    {
+        "sentence": "I run it every year. It doesn't matter whose name is on it. Everybody looks to me.",
+        "label": "That's true. I'm a fall down drunk."
+    },
+    {
+        "sentence": "Kevin, as your mother, I hope I can make you proud of me out there tonight as I take on Monster Brad in the ring.",
+        "label": "Mom, I'm always proud of you, and Monster Brad doesn't stand a chance.  He's got a bum leg, and that's bound to trip him up when you give him a right hook."
+    },
+    {
+        "sentence": "I worry that this might kill him and I know he's your little friend.",
+        "label": "The little tapeworm is working so hard. He hasn't been inside a human in a while to get nutrients."
+    },
+    {
+        "sentence": "I know I'm just a humble blimpsman, but for this occasion, no tickets are necessary.",
+        "label": "Christmas has come early this December."
+    },
+    {
+        "sentence": "What's the trouble you have with counting? It's very simple.",
+        "label": "I just never know where to start."
+    },
+    {
+        "sentence": "I'm so sorry, judge. I'll turn off my phone now.",
+        "label": "Yeah, that's incredibly unprofessional."
+    },
+    {
+        "sentence": "Yup, this is Mr. Madison's square garden.",
+        "label": "I mean, he got the round garden, and everything's fine there. He got the triangle one, and that's fun."
+    },
+    {
+        "sentence": "Why it's true! And these are my children. We call ourselves the Cold Storage Kids.?",
+        "label": "Like the famous series of books that I've been reading since childhood?"
+    },
+    {
+        "sentence": "Well, we've made love on television. For the first time in my life, I feel like I know who I am.",
+        "label": "I know who you are too and now everyone knows how we both are."
+    },
+    {
+        "sentence": "Peggy, I'm so glad that I married you and I'm sorry I took us to this desolate, dry place, but I don't know that we would have had this wonderful drug experience otherwise.",
+        "label": "I completely agree with you. I'm glad we came here too."
+    },
+    {
+        "sentence": "I thought that your new girl had already fallen in love with you.",
+        "label": "Apparently, even after they fall in love with you, you have to continue to be a terrible person or else they leave you."
+    },
+    {
+        "sentence": "Can I tell you a secret? I'm illiterate.",
+        "label": "Oh, those are just little pictures on your paper instead of words. How cute!"
+    },
+    {
+        "sentence": "Whoa, your flipper is sticky, Mr. Penguin.",
+        "label": "Yeah, I had to swim through the Exxon Valdiz spill to get here."
+    },
+    {
+        "sentence": "Is there any way you can just intimidate these people and not actually murder them?",
+        "label": "Oh, man. That's disappointing. We really like murdering people."
+    },
+    {
+        "sentence": "I don't want to share my blocks. I want to keep my blocks.",
+        "label": "You must keep this family alive. Your brother died."
+    },
+    {
+        "sentence": "Hey, I didn't want to go to this dumb camp. But now I'm intrigued.",
+        "label": "Yeah, me too. Because I raised my hand, and I still don't know why."
+    },
+    {
+        "sentence": "Tad, you're making me crazy. Stop talking.",
+        "label": "It just, now that we're actually on the day and going to rob the bank, it feels intense."
+    },
+    {
+        "sentence": "Quite honestly, I don't feel like I'm missing much. I've got a new life in here.",
+        "label": "It's because you're always meeting new people."
+    },
+    {
+        "sentence": "Eventually they created refrigeration.",
+        "label": "Ah, so you didn't have to drink the milk all in one go anymore."
+    },
+    {
+        "sentence": "Have any children come up to you and asked where the baby man is? Have you told them? Where are those kids and do you have a knife?",
+        "label": "Oh, boy. You're like a regular Helen Thomas with all of these questions."
+    },
+    {
+        "sentence": "You gotta beware of any brass instruments, specifically the trumpet, because that water will get right in the bell - that's the flare part, try to remember that - and it'll go all the way into your body.",
+        "label": "Thank you for anticipating that I plan to cover myself in Saran Wrap so that I can still be underwater while I'm playing an instrument so that my skin doesn't get burned."
+    },
+    {
+        "sentence": "Do you know who we are? We're all unemployed.",
+        "label": "OK, you announced that like maybe you were about to be a celebrity or dignitary."
+    },
+    {
+        "sentence": "But if she's not concerned, are we truly doing a good job of being a secret society?",
+        "label": "Look at us.  A secret society with a pigeon in a cage.  We're hardly a secret society at all!"
+    },
+    {
+        "sentence": "Have any children approached you about finding the baby man?",
+        "label": "I have secretly been guiding these children to a real life adventure."
+    },
+    {
+        "sentence": "This oxygen tank, it's really light.",
+        "label": "It's actually helium. That's why it's so light."
+    },
+    {
+        "sentence": "Who's this creep? I feel the urge to punch him for some reason.",
+        "label": "I'm Eve's husband, you jerk."
+    },
+    {
+        "sentence": "I have two pieces of bad news, sir.",
+        "label": "Tell them to me alphabetically."
+    },
+    {
+        "sentence": "I'm working right now. I'm trying to make some money.",
+        "label": "Okay, I guess I'll just go back and sit in the car."
+    },
+    {
+        "sentence": "It's hard to take you seriously, I can see the elastic on your beard. And also, you're so sweaty. It smells terrible in here.",
+        "label": "I made a mistake. I went to one of those Argentinian places right before this where they just keep bringing you meat. I think I got the meat sweats."
+    },
+    {
+        "sentence": "You're not missing anything, believe me Maybelline. The movies are awful.",
+        "label": "I find that hard to believe about every movie every made."
+    },
+    {
+        "sentence": "I'm sorry, please excuse me. My phone's going off.",
+        "label": "Your ring tone is somebody whispering \"you're going to die?\" Can you turn that on vibrate?"
+    },
+    {
+        "sentence": "This may sound crazy. This may be coming from I don't know where, but I need to marry you.",
+        "label": "Ohhh, they got barbecue Fritos there?"
+    },
+    {
+        "sentence": "You said you heard this lady singing at a place. Was it the bible store?",
+        "label": "Didn't I just tell a story about this little blonde girl that came into my bible store and freaked out at a bible and ran out?"
+    },
+    {
+        "sentence": "I miss music. I just miss hearing music. Don't you?",
+        "label": "I do agree with you. That was one thing I had a lot of in the woods. Concerts."
+    },
+    {
+        "sentence": "Oh, so you're self published, John? I hear people are really into that.",
+        "label": "It's the way to go. I'm my own boss."
+    },
+    {
+        "sentence": "Danielle, what you doing talking to another man? I told you to get your movie and then we're leaving.",
+        "label": "Well, I am the clerk, I mean. She does have to talk to me if she's gonna rent a movie."
+    },
+    {
+        "sentence": "Do you want me to come over and kill your dog?",
+        "label": "Yes, we need somebody to help. I know you're a vet and I just unloaded a lot of stuff on you."
+    },
+    {
+        "sentence": "I forgot to give you those other books with information about psychosis in them. Sorry.",
+        "label": "It's OK, I'm not mad."
+    },
+    {
+        "sentence": "I checked in years ago, and I had all of these double cheeseburgers, and I can't seem to leave this room.",
+        "label": "Roger, I know you're on your phone right now, but this gentlemen is a ghost. Jermaine told me he had a heart attack in the room."
+    },
+    {
+        "sentence": "Did you hear that? Oh my god, that guy's nose is flapping all over the place.",
+        "label": "He's just laying there and it's flapping in the breeze like a US flag. That guy just beat up a cop."
+    },
+    {
+        "sentence": "Lorielle and Maybelline probably would have never noticed that you were sitting in their ice cream shop.",
+        "label": "It's true.You gave me the opportunity to be a mysterious old asshole."
+    },
+    {
+        "sentence": "If you had to guess how many cubic feet of water she sucked up, what would you say?",
+        "label": "You'll think I'm pretentious, but I'm going to say it was 30 cubic feet of water displaced per second by her."
+    },
+    {
+        "sentence": "You can see me at my desk. It's right over here.",
+        "label": "I bet his desk is literally covered with tiny stuffed animals."
+    },
+    {
+        "sentence": "It seemed like you didn't have to give her your money. It seemed like she just wanted to talk.",
+        "label": "She did say \"this is a stick up.\""
+    },
+    {
+        "sentence": "Christ wasn't around in 1947, right?",
+        "label": "Right. He was post-war. He was a Korean War God."
+    },
+    {
+        "sentence": "I found an abandoned wares station. I think it's the perfect place to set up our wares.",
+        "label": "Really? That sounds so exciting. I can't wait to get it set it up."
+    },
+    {
+        "sentence": "Alright, I'll give it a try. I'm going to sing like a sonic blast.",
+        "label": "Yes, and then I'll laugh. That will attract dolphins because laughter sounds like dolphins. Then we can ride the dolphins to the shore!"
+    },
+    {
+        "sentence": "I was told that I could come in and work at the comic book shop.",
+        "label": "Were you? We already have enough bulge checkers, I don't know who told you that."
+    },
+    {
+        "sentence": "Yes, we're getting rid of you, Jennifer. But you're gaining a Tom and a Kent.",
+        "label": "OK, sure, I'm gonna embrace the adventures in life. I'm gonna go for it. I'm gonna with two strange men from the mall today and we're going to tackle the world."
+    },
+    {
+        "sentence": "You know, a lot of people would say that the last place they want to be is the post office. But for you, it's the first place you want to be.",
+        "label": "And only."
+    },
+    {
+        "sentence": "Can I confide something in you, Pamst? I feel like she might be one of those human killing robots.",
+        "label": "So you're familiar with those? If she is she's the most convincing one I've ever heard of."
+    },
+    {
+        "sentence": "Vince, this is my ex-husband, John. He's a miserable failure.",
+        "label": "This is Johnny? Oh, Betsy, he's not what I pictured. You couldn't do better than this loser?"
+    },
+    {
+        "sentence": "If you're ghosts, why do you have a car?",
+        "label": "Because we died in a car. Our car is also a ghost."
+    },
+    {
+        "sentence": "Sorry, I've been keeping this to myself since I ate that apple. But I'm pretty sure we're naked.",
+        "label": "Yeah, I mentioned that when I said I didn't have pockets."
+    },
+    {
+        "sentence": "One can only wonder how large your contraption will be when it is finished.",
+        "label": "Oh, it will be quite a great deal larger than what you see before you today, sir. My goal is to build a contraption very large, large enough to carry me into the void of outer space, so that I may see what Savannah, Georgia looks like from its inky depths."
+    },
+    {
+        "sentence": "Cadet, what are you doing over there?",
+        "label": "Sir, these leaves are so beautiful. I just wanted to bury myself in them, sir. Can you see my nose sticking out, sir?"
+    },
+    {
+        "sentence": "Great. I will make very detailed instructions on how to cook them.",
+        "label": "Oh, thank you Catarina. What a help you are."
+    },
+    {
+        "sentence": "Well, you're very upfront about it. I like that you're a straight shooter.",
+        "label": "That's exactly what I wanted to talk to you about. Shoot straight. Now, even though your memory is failing you, be sure to shoot straight with your wife. Tell her what you're thinking."
+    },
+    {
+        "sentence": "Being dead hurts. It never stops hurting.",
+        "label": "Like the original Little Mermaid in Hans Christian Andersen's takes. They say every step felt like walking on scissors."
+    },
+    {
+        "sentence": "Kent, we've been over this. You may not hit upon the customers, and you certainly may not grab their breasts. We don't do that.",
+        "label": "OK, what if we look at it differently? The world is always moving, right? What if her breast actually came into my hand? Like I jump up, the Earth keeps spinning and her titties come to my fingers."
+    },
+    {
+        "sentence": "The best way to join your two strengths together is if the ghost starts talking about the show and honey, you would then act out the show that he's talking about.",
+        "label": "Why wouldn't I? My body is my instrument."
+    },
+    {
+        "sentence": "I need more than one doughnut.",
+        "label": "He's a growing boy, I mean. He needs three or four dozen doughtnuts."
+    },
+    {
+        "sentence": "You destroyed my family photographs.",
+        "label": "I think we made use of them. We made them better. They are better in a collage."
+    },
+    {
+        "sentence": "Thanks, Ralph. Yeah, get my good side.",
+        "label": "You don't have a bad side, I'll tell you that."
+    },
+    {
+        "sentence": "I just don't want my parents knowing when our wedding will be? Is that too much to ask.",
+        "label": "It's definitely unorthodox, but I support you in that."
+    },
+    {
+        "sentence": "Oh, Captain, I'm so glad that you're home here in Downy. My wife is gone. Grandfather is gone.",
+        "label": "I'm so sorry for your loss, sir. My name is Albert, but you can just call me Anus."
+    },
+    {
+        "sentence": "Evelyn, if this is about the elections or something and you want to be a member of the board or if there's something you're harboring, you can just let it out at Sport Club.",
+        "label": "Why yes, those are traditional Sport Club rules. You get it off your chest and let it out."
+    },
+    {
+        "sentence": "Todd, dude, you're making me laugh.",
+        "label": "I mean, I'm not trying to make you laugh. I'm scared."
+    },
+    {
+        "sentence": "There's another possibility. We were going to use animatrons in some of the Epcof installations. These two just do the same thing over and over again.",
+        "label": "You're suggesting that we chain up these two people in a box and have them perform for people?"
+    },
+    {
+        "sentence": "David, why are you swaddled in a blanket here on the casino floor?",
+        "label": "My back, it's just been bothering me. It feels nice to be in bed as I walk around."
+    },
+    {
+        "sentence": "They are saltwater toughys and they sell saltwater toughys, which is the problem I'm here to discuss.",
+        "label": "I suspected you had an ulterior motive for being here, Dr. You don't normally come to this side of the beach."
+    },
+    {
+        "sentence": "I'm no artist. So, maybe that won't work.",
+        "label": "You could be at this gallery."
+    },
+    {
+        "sentence": "A lot of times I like the context of a joke in terms of what period, so then I know the vernacular of what the joke is told in. ",
+        "label": "Right. I'll keep that in mind next time I tell you a joke."
+    },
+    {
+        "sentence": "Ok, I'm checking the temperature here.?",
+        "label": "Is it cold like it's supposed to be?"
+    },
+    {
+        "sentence": "I saw the superhero go that way!",
+        "label": "We didn't put a mic on you, sir. We didn't know you were going to be hopping on set."
+    },
+    {
+        "sentence": "You know those Ed McMahon, like those letters that come in the mail? I mailed it in and won.",
+        "label": "And your prize was you became the king of the Sudan?"
+    },
+    {
+        "sentence": "That was an angel. Angels don't have sexualities.",
+        "label": "Fine. But she had a nice rack."
+    },
+    {
+        "sentence": "I have the idea to build a basement on the dollhouse.",
+        "label": "The dollhouse will be revolutionized. "
+    },
+    {
+        "sentence": "Is there anything to eat? The smell of this place is making me so hungry.",
+        "label": "I went to the store and bought some frozen waffles."
+    },
+    {
+        "sentence": "I'm starving, I haven't eaten since yesterday.",
+        "label": "That's why we can't sell you the paint, ma'am. You don't even leave the store before you start eating it."
+    },
+    {
+        "sentence": "So, is this it? This is my only option? There's no other person I could be with.",
+        "label": "Yeah, you guys are pretty stuck with each other. And you need to be fruitful and multiply constantly."
+    },
+    {
+        "sentence": "Man, if you had just been honest about that - 'cause your powers are awesome. They could definitely come in handy in a burning building.",
+        "label": "Yeah but I just kinda want to hang out here, so."
+    },
+    {
+        "sentence": "You can't get on the Ferris wheel without a ticket, sir.",
+        "label": "Well, they told me I didn't need a ticket to get on the Ferris wheel. The lady told me."
+    },
+    {
+        "sentence": "I just meant to stun him. I didn't mean to kill him. Oh my goodness, Bobby.",
+        "label": "It's alright, darling, look. They're all kneeling to you. You're the queen. And look at your belly, there's something moving in there. A little Emit Brown of our own."
+    },
+    {
+        "sentence": "I've seen him walking around ever since like ten years ago.",
+        "label": "I thought he died, so maybe we see his ghost? I guess there's no point in speculating."
+    },
+    {
+        "sentence": "Everyone thinks you're dead. They don't realize you're still alive back here, Mr. Houston.",
+        "label": "Well, I live my life in the shadows. I help young boys become men and the ones that I like most become my sons."
+    },
+    {
+        "sentence": "Father, the only thing I can think of for you to make amends to me, truly, is for you to sing me a song about the rules of chess.",
+        "label": "Well, I'm not much of a singer, much less much of a composer. Here we go. I hope this will help us to reach some sort of accord, my daughter."
+    },
+    {
+        "sentence": "Wow, and you got him when he was eight, too. He's getting really up there.",
+        "label": "He was in good shape then. He's really falling apart now."
+    },
+    {
+        "sentence": "The t-shirt guy sounds wonderful.",
+        "label": "We didn't even tell you about him."
+    },
+    {
+        "sentence": "Oh, yes I did hear about that. Yes, we watch that because sometimes people get run over by their cars.",
+        "label": "Not as many of those videos as I would have liked. We had our whole evening planned."
+    },
+    {
+        "sentence": "Okay, so I bet if we just pop this door open - I mean, it couldn't be that there are thirty hungry zombies waiting on the other side of the door.",
+        "label": "I doubt it. We've been in here for ten minutes, I'm sure they left."
+    },
+    {
+        "sentence": "Poseidon's Delight? That sounds fantastic. He was a god, so it must be good.",
+        "label": "Let our stomachs take the odyssey through Poseidon's Delight. We'll take it."
+    },
+    {
+        "sentence": "Sorry I'm singing, I just have a sexy song in my head.",
+        "label": "Is that what's causing your headache?"
+    },
+    {
+        "sentence": "OK, he didn't a bad job on purpose. I'm sure. Right, Nooky?",
+        "label": "Yeah. I just wanted to be like you guys. Equals."
+    },
+    {
+        "sentence": "I'm sorry. I'm having trouble placing your accent. Where are you from?",
+        "label": "I'm from Cuba. I've got a classical Cuban accent. Our country has been closed off to America for awhile, so no one knows what we sound like."
+    },
+    {
+        "sentence": "You must be the little sister. What's your name.",
+        "label": "Oh, boy. No one ever really asks. My  name is Felicity."
+    },
+    {
+        "sentence": "They have a lot of magazines to thumb through, Doctor. I don't want you to lose your train of thought.",
+        "label": "Joan, you know that if I start thumbing through those magazines, I'm lost. I'll get sucked in there and never come out again."
+    },
+    {
+        "sentence": "New York City is so busy, Walt. I feel like if we get split up, we'll never find each other again. So, let's not get split up.",
+        "label": "Let's not get split up ever. "
+    },
+    {
+        "sentence": "Like an orange chicken??",
+        "label": "Like a sour fruit or a turned piece of meat. She's got some spark in her. The other one is a people pleaser, a nurturer. I'm into it."
+    },
+    {
+        "sentence": "Yeah, it seems like a face hole!  But, I'm just saying, maybe that's a mouth hole.",
+        "label": "All right, I'll try it the other way around, but I don't like my chances, y'all."
+    },
+    {
+        "sentence": "Yes, we used a government discount to purchase these tickets.",
+        "label": "We have an account with....I'm not supposed to say. It's an agency."
+    },
+    {
+        "sentence": "I never put it together, I still haven't.",
+        "label": "What, that Elle and Dakota are sisters, we're four, we're quadruplets, we're four twins."
+    },
+    {
+        "sentence": "Oh, I live here. Welcome to my home.",
+        "label": "Oh. Well, do you mind if I build a sandwich store in here?"
+    },
+    {
+        "sentence": "What do you say? Are we going to sign this kid?",
+        "label": "Yeah, sign him. I don't care. I'm almost 100% deaf."
+    },
+    {
+        "sentence": "Please don't tell my boss you're helping me.",
+        "label": "Oh, I won't, trust me. I always am down to stick it to the man."
+    },
+    {
+        "sentence": "OK, I will give you $600 for this blender if it is really that silent. I know it's only $100, but I wanted to thank you and show my appreciation.",
+        "label": "Don't thank me until you have this milkshake that I just made while were were talking. You didn't even hear it."
+    },
+    {
+        "sentence": "Emeril, we're glad we ran into you here because we were thinking of starting our own restaurant. It's going to be barbershop themed.",
+        "label": "Yeah, you'll sit in a barber's chair to eat."
+    },
+    {
+        "sentence": "Oh, Demitrius, I love this restaurant. I think this is just so romantic.",
+        "label": "I'm a little scared. It's quite dark in here. The candles are all very melted and yet, they are still on."
+    },
+    {
+        "sentence": "I was just walking by on my way to the food court and I thought I'd come in the store. I need some new shirts.",
+        "label": "Do you want something tan or cream? Those are the only colors we sell."
+    },
+    {
+        "sentence": "When you say the apples aren't that great, that it makes me want to eat one.",
+        "label": "They're Macintosh apples. If they were Pink Ladies or Gala, I'd say you were missing out."
+    },
+    {
+        "sentence": "Oh mom, it's so good to see you.",
+        "label": "It's good to see you. You should call more."
+    },
+    {
+        "sentence": "You are 19 years old which only makes you a year and a half older than I am plus you don't have these awesome pajamas.",
+        "label": "Well, you are 17 and a half and you shouldn't be wearing kids pajamas anymore, they look absolutely ridiculous."
+    },
+    {
+        "sentence": "Sam Houston was the hero of the battle of Houston. He was thought to have died in that battle, but many say they feel as if he escaped and has changed his name several times all the while looking merely 15 years old.",
+        "label": "Much like Hitler in South America."
+    },
+    {
+        "sentence": "Oh no, your boner. It's escaping.",
+        "label": "It's tap dancing across the breakfast table."
+    },
+    {
+        "sentence": "Joshua, how are you doing over there sweetheart?",
+        "label": "I'm good. I'm young and 45 years old. I feel right in the prime of life."
+    },
+    {
+        "sentence": "Miss Belinda, are they disturbing you at all?",
+        "label": "Oh, no. My own children didn't come so it's nice to have this lovely couple here."
+    },
+    {
+        "sentence": "All I know is that I was on a whale watching expedition with my husband and my children, and now I'm stuck in a whale belly.",
+        "label": "Well, when you go on Captain Starr's whale watching expedition, you never know what's going to happen. We hit a storm, OK? When you hit a storm, sometimes a wave can push you in different directions. This just happens to be the direction we went in."
+    },
+    {
+        "sentence": "I haven't been able to please you in bed for years, and I just wanted tonight to be better. I wanted tonight to be the night where I got you your favorite colored snack, chocolate covered strawberries with milk chocolate and white chocolate. A mixture of the two.",
+        "label": "Tan chocolate and caramel. You were going to go to the Trader Joe's to get those for me?"
+    },
+    {
+        "sentence": "Oh, here, let me give you this Theraflu bottle.",
+        "label": "Oh no, I'm deathly allergic to Theraflu."
+    },
+    {
+        "sentence": "I'm gonna go 'cause I have a dog and I should probably get back to him anyway.",
+        "label": "Alright. I'll buy you a sandwich before you go."
+    },
+    {
+        "sentence": "You sound like you are bargaining with me.",
+        "label": "Well why wouldn't I be. I want the best deal possible."
+    },
+    {
+        "sentence": "Okay, it's 11:42.",
+        "label": "Hey. I'm early. Sorry, didn't mean to scare you. I think I'm in love with you."
+    },
+    {
+        "sentence": "I got all kinds of emphysema going on.",
+        "label": "But, also, I think the spirit of the Lord is just heavy in some people."
+    },
+    {
+        "sentence": "Jeremy, what was in that sauce that you tried? You're acting all funny.",
+        "label": "You're the one who gave it to me."
+    },
+    {
+        "sentence": "I haven't broken eye contact.",
+        "label": "You haven't, it's remarkable. I've been trying to look away but I cant."
+    },
+    {
+        "sentence": "Well, you know who you have to please is Mary Sue.",
+        "label": "OK. I'll please Mary Sue. I'll tell her that she looks very developed."
+    },
+    {
+        "sentence": "He was brave, and that's the point.  That's what I'm going to be.",
+        "label": "You be brave, my son.  Brave as any folksy cannibal or tiny toaster.  Very well.  Everybody, pack up your shit, and get out of my bedroom.  We're going to America!"
+    },
+    {
+        "sentence": "I am willing to meet you halfway with this, Mr Attorney General. My assistant stays in the courtroom, and I'll stay focused on the trial.",
+        "label": "But now, look, I don't want you do any of that stand up. Even if the gallery asked for it, you gotta stay right on track. Just do judge stuff, son."
+    },
+    {
+        "sentence": "What a weird movie that was.",
+        "label": "I can't believe it won 12 Academy Awards."
+    },
+    {
+        "sentence": "Look at this. Most of these are dummy buttons. There's like three buttons that actually do stuff for the ship. And all the buttons that actually do things, they're all different colors.",
+        "label": "Can we just put this right in the cockpit today and get this ship into outer space?"
+    },
+    {
+        "sentence": "That's cool. You got me a moon juice poster.",
+        "label": "I had this already. It's just a coincidence that I noticed you like moon juice, but you can have it."
+    },
+    {
+        "sentence": "Alright, listen up, scum. This isn't my idea. It's the warden's idea. We're going to do a brunch. It's going to be for a solid month. We're going to try it for a solid month and see if it works out. If it doesn't work out, though, we're closing it down.",
+        "label": "Bottomless jail mimosas! I'm sure it's gonna work. What could possible go wrong?"
+    },
+    {
+        "sentence": "Well, I'm sorry that you had a three way with this man and lost your friend in middle school.",
+        "label": "Oh, you do kind of get it, but it was much later that we were married, not middle school."
+    },
+    {
+        "sentence": "I put them on a piece of paper, but then the paper got sweaty. The ink ran down and it all became just a dot.",
+        "label": "That's an occurrence all too common in Orlando."
+    },
+    {
+        "sentence": "Excuse me, stewardess, I fell asleep for awhile.",
+        "label": "Yeah, you did. You snore really loudly."
+    },
+    {
+        "sentence": "This girl, Vera is just doing a Weird Al on it.",
+        "label": "Legally, it's parody, but scientifically, it's harrasy."
+    },
+    {
+        "sentence": "I'm trying to just say things that seem like they're in the zeitgeist, but I'm trying not to give too many details.",
+        "label": "When someone else walks by that's wearing a costume, ask them what they are cosplaying as."
+    },
+    {
+        "sentence": "Look if you want to end up in the pen, like me. Then keep smoking your cigs. Keep doing your ganja. Keep snorting all the coke you snort in between class periods.",
+        "label": "OK. Thank you. Does anyone have any questions for Mr. Jasper."
+    },
+    {
+        "sentence": "No, I - this was... to try and have a nice dinner in the tank, I can see it's obviously a lot of fun for the people watching us - out there - they seem to be really enjoying the fact that no matter how many times I spin the salad, it will not get dry.",
+        "label": "But, you know what? It's a good experiment because no everyone can see that a salad spinner will not work underwater. Like, even though it will function, it will not dry the salad because it's in water."
+    },
+    {
+        "sentence": "Hey, do you have that book about throwing shit away?",
+        "label": "Well, this is a bible store, but weirdly, yes I do have it."
+    },
+    {
+        "sentence": "OK, damn Tony, I see you don't care about my honor no more and my feelings.",
+        "label": "Honestly, I only brought you on this trip because I didn't want to come alone. You weren't my first choice. I asked Angela, I asked Sheila, I asked Molly, I asked Megan. I asked Angela's little sister Angie. I asked Teresa."
+    },
+    {
+        "sentence": "Can you imagine if anyone started boxing in here?",
+        "label": "Oh, the savagery. "
+    },
+    {
+        "sentence": "We're on a date, actually.",
+        "label": "Excuse me? This is a medical hospital."
+    },
+    {
+        "sentence": "Now, what were you going to say about hip hop?",
+        "label": "It's the greatest. If hip hop and jazz were to meet up, it would be even better."
+    },
+    {
+        "sentence": "Your job is delivering the mail, obviously, but also, is to be a rock, for your siblings. Your siblings, they look to you. You know, all of your siblings are dealing with substance abuse problems.",
+        "label": "Oh, yeah. I'm the only one."
+    },
+    {
+        "sentence": "You're a great boss. I love when you give us these days off from work.",
+        "label": "Well, it's important. Garfield means a lot to people and Jim Davis, even more so."
+    },
+    {
+        "sentence": "I know you feel very put upon, that you do all the work and nobody does anything. And one time somebody said you tried to sweep up blood with a broom.",
+        "label": "And a dustpan. I'm not an idiot."
+    },
+    {
+        "sentence": "Be happy. You're up on top like you wanted. You got that beautiful view of the river.",
+        "label": "It is beautiful but how am I supposed to enjoy it when I'm puking all of the damn time?"
+    },
+    {
+        "sentence": "Do I look more like Snoop Dogg again instead of Biggie Smalls?",
+        "label": "Well, you're sort of in the middle. Right now you're at a Jay-Z level."
+    },
+    {
+        "sentence": "I just love that you're so tough. And now I want to make you my maid of honor.",
+        "label": "I'm absolutely in. Thank you so much. I don't have any friends so this is like a dream come true."
+    },
+    {
+        "sentence": "How far down did you move me in the lineup?",
+        "label": "This may have been an accident on my part. I've got you first and last."
+    },
+    {
+        "sentence": "Well, for what it's worth, Rudy is a great guy. We used to work together. So, I hope you take that into account when you're judging him.",
+        "label": "Oh, I definitely will. I just want to make sure that you're getting the accurate service you need."
+    },
+    {
+        "sentence": "There's nothing I like more than being in a big room with all of these people.",
+        "label": "Just wait until you get home and you get really sick."
+    },
+    {
+        "sentence": "Yes, as a leading man in the Paris Theater Company, the rules state that he wants what he wants and he gets what he gets.",
+        "label": "We are using Parisian rules, after all."
+    },
+    {
+        "sentence": "I've printed out the Wikipedia page for the town we live in. Maybe we can have Roger read that.",
+        "label": "OK. Do you think Roger will go for it? I mean, it sounds like it will work to me."
+    },
+    {
+        "sentence": "Yeah, well, you can't control genetics. You know?",
+        "label": "I can. You could have stepped into my booth. Now you're stuck with a lobster child."
+    },
+    {
+        "sentence": "Wait a minute, are you telling me the Kay that is selling pianos is the actual Kay that used to work here?",
+        "label": "Again, she used to work here. But it's just a coincidence that her name is Kay. She did not found Kay Jewelers."
+    },
+    {
+        "sentence": "Here, I have a purse full off Starbucks napkins.",
+        "label": "There's literally nothing else in her purse."
+    },
+    {
+        "sentence": "We have snacks here at Home Depot. You could have one of those.",
+        "label": "Too many calories. I want the paint. I want the paint, I'm hungry. Hey, you want to come over and have some paint with me?"
+    },
+    {
+        "sentence": "Ruth, it gladdens my heart to hear you say such a thing. And, to say ye all instead of you all is so biblical",
+        "label": "You're fucking right, Mamma. It just had to be said. These people are out of control."
+    },
+    {
+        "sentence": "I don't care about my phone. I'm watching the new Will & Grace.",
+        "label": "Well, it was going off. Don't you think you should check it?"
+    },
+    {
+        "sentence": "If you open up the box that's in front of you. You will see it contains some cooking equipment.",
+        "label": "That's amazing, it's really got everything we need and a little more!"
+    },
+    {
+        "sentence": "I'm done building the house.",
+        "label": "It's beautiful and so small."
+    },
+    {
+        "sentence": "Does your diary ever tell you to do things?",
+        "label": "Yes, I talk to it. I also talk to inky the pen."
+    },
+    {
+        "sentence": "Yeah, I mean, I didn't have any choice. Or marriage was predestined.",
+        "label": "Being predestined doesn't mean it didn't happen. That it's not real. I almost love you."
+    },
+    {
+        "sentence": "That's a good, thick card stock.",
+        "label": "Yeah, I printed it up on my home computer."
+    },
+    {
+        "sentence": "I was just walking by to get to the amusement park and I saw a sign that said \"typist wanted.\" And I thought finally I can use my hands for more than just sorting condiments for four dumb idiots.",
+        "label": "When you say \"four dumb idiots\" I'm glad you are including our pet tapeworm Rubber Band, because he is part of this family and you're not."
+    },
+    {
+        "sentence": "Here we are. Beer? It's a little powdery.",
+        "label": "Thank you. Hold on, let me open the door."
+    },
+    {
+        "sentence": "It's about time. I've been waiting for these bullets for 14 days.",
+        "label": "OK. Look, I'm sorry. Rations are running low and it's so fucking cold."
+    },
+    {
+        "sentence": "You guys are dressed great!",
+        "label": "Thank's we went to the gucci store and picked out the best window washer outfits money can buy."
+    },
+    {
+        "sentence": "I want to play. Me sir, right here in the red dress.",
+        "label": "Ah, the young lady who smells faintly like pancakes."
+    },
+    {
+        "sentence": "You guys can't tell anyone you know where fairies come from.",
+        "label": "We can tell the secret to the book and then it will be in the book and then no one will know it except us."
+    },
+    {
+        "sentence": "I've gotta meticulously tune all my drums a go through the works of Ayn Rand before the show.",
+        "label": "Of course you do. I'll tell you what, you just leave it to us, Neil. We'll take care of this ghost for you."
+    },
+    {
+        "sentence": "Can I tell you why I'm where a designer suit?",
+        "label": "I'd love to know. I figured you have a meeting or some sort of job."
+    },
+    {
+        "sentence": "Are you just saying pussy while pointing to your vagina?",
+        "label": "Pussy. This is what it is. It's a pussy."
+    },
+    {
+        "sentence": "Roger, can you just sort of flex your thigh just a little further?",
+        "label": "Alright, let me see if I can isolate that muscle. Oh yeah, there it is."
+    },
+    {
+        "sentence": "Father, I refuse to be in the throws of love with anyone other than Larissa. I denounce this program and I will not perform.",
+        "label": "Son, I'm happy that you had a sex act on television for love and that you refuse to be a part of this."
+    },
+    {
+        "sentence": "Ma'am, you have so many sugary cereals. I feel like you should eat Grape Nuts or Kashi, but you really go for it.",
+        "label": "Once I got dentures, I was like, fuck it!"
+    },
+    {
+        "sentence": "I had three dogs. One at the other two. He tried to get me, but he got my husband, may he rest. I'm single, is what I'm getting at.",
+        "label": "Oh, one step at a time. Is this murderous dog still in your home?"
+    },
+    {
+        "sentence": "Excuse me, ma'am, my manager told me that I can't sell you this paint in good faith because you've come back for more every day.",
+        "label": "I'm starving, I haven't eaten since yesterday."
+    },
+    {
+        "sentence": "The doctor said my heart was too big. It was a joke heart. I guess it was a \"you had to be there\" situation. You're sweet to laugh.",
+        "label": "Oh, sweety, you'll get laughter from me even if it's fake."
+    },
+    {
+        "sentence": "Remember Suedeface's very first time doing the hayride?",
+        "label": "Of course, I remember. I've tried to forget, but it still haunts me."
+    },
+    {
+        "sentence": "I kind of feel like you're the one who brought the counter into the house, so maybe it's your fault.",
+        "label": "Hey, old lady, stay out of this."
+    },
+    {
+        "sentence": "Mom, that was really rude of you to steal our thunder. We were graduating from kindergarten when you went into your coma.",
+        "label": "Yeah, we had to do itsy, bitsy spider in front of strangers."
+    },
+    {
+        "sentence": "Lad, no wonder you're spending more time at your house than at mine.",
+        "label": "Well, that was our arrangement. I have a private life where on the days you're not around, you don't know what happens. Then when you do arrive, I pretend like I was just working."
+    },
+    {
+        "sentence": "Shelly, maybe I should follow my heart and do stand up comedy.",
+        "label": "If that means leaving, you should do that. I just hate to see you leave."
+    },
+    {
+        "sentence": "Alright, I appreciate it Pinky. What we're going to do is move this stack over to that stack. To kill time, I guess.",
+        "label": "Man, you really have a good mind for math."
+    },
+    {
+        "sentence": "I'm so exhausted from this whole lifestyle. I've turned my back on everyone I care about. I'm very lonely.",
+        "label": "Your Amazon Prime must be off the hook. You have so much stuff."
+    },
+    {
+        "sentence": "Excuse me, are you open?",
+        "label": "Yes, Margarittaville is always open. All the time."
+    },
+    {
+        "sentence": "Sweetie, I think I can hear them in there. Am I using the right side of the cup?",
+        "label": "I don't know side of the cup is right on the wrong side of the tracks."
+    },
+    {
+        "sentence": "They are ghost cookies. So, obviously they are just left over from Halloween.",
+        "label": "It's like I'm eating the ghost of a cookie because the flavor's gone to heaven."
+    },
+    {
+        "sentence": "Why do we even have roads if people are just going to throw shit on them?",
+        "label": "Right, we don't deserve roads. They shouldn't be treated like this."
+    },
+    {
+        "sentence": "There are just a few rules, if you just scan the small print. It'll probably help you keep track of the kookiness that ensues.",
+        "label": "It's really hard to read. It says \"Here, read these to keep tack of the kookiness that ensues. Drink this powder. Don't add any water. You want it as dry as possible. You want it to literally dry out your insides as you drink/chew on it. Please enjoy. Your life is about to get complicated.\""
+    },
+    {
+        "sentence": "I just wanted to make sure you and I would still have plenty of \"us\" time, what with these new friends joining us and so forth.",
+        "label": "Oh, no, of course I will make the time. You know, it's just that I'm busy with this, that, and t'other."
+    },
+    {
+        "sentence": "Skip, right now you're a minor league manager. Your path to the comissionership is going to be real tough.",
+        "label": "I'll admit, I got a long way to go. But you know what? Maybe you could help me, Art. You could put something in that guy's flask."
+    },
+    {
+        "sentence": "You don't mind that the creep, Bill Clinton, is staring at you like that?",
+        "label": "My name is President Eminence."
+    },
+    {
+        "sentence": "Oh, I just got my period. None of these guys can know or they'll find out I'm not pregnant and I don't deserve the money. How am I gonna deal with this?",
+        "label": "What smells like iron in here?"
+    },
+    {
+        "sentence": "Yeah, I heard she fell into the Grand Canyon. I heard she was torn apart by two coyotes.",
+        "label": "Oh, well, I kinda hope it's true. I'm sorry, but I'm not sorry."
+    },
+    {
+        "sentence": "You're gonna start living your life.",
+        "label": "I want to live. I don't want to die alone."
+    },
+    {
+        "sentence": "I want to do it! Oh I didn't realize they were false teeth. I feel dumb for bringing these pliers.",
+        "label": "Never feel dumb for bringing pliers to any situation. That's the one thing I want you to remember from Greg's."
+    },
+    {
+        "sentence": "Alright, I'm not going to like toughing out being with Daniel. This fucking guy is the worst.",
+        "label": "I can't stand him either. Get a load of this: he chopped some wood."
+    },
+    {
+        "sentence": "Is that Gatorade in that bottle or your pee?",
+        "label": "I'd love to tell you one or the other, but at this point, it's a bit of both."
+    },
+    {
+        "sentence": "Donna, at some point, you're going to have to tell Chuck that years ago he was replaced with a robotic camera.",
+        "label": "Sure. Here's the thing. I've been having a real crisis of confidence for the past few years. I don't think today should really be the day to overcome that crisis."
+    },
+    {
+        "sentence": "All these kids have speech impediments.",
+        "label": "That's why their parents signed them up for the sport of fencing."
+    },
+    {
+        "sentence": "So what's a couple minutes, you know? Some people spend their whole lives and they don't do a thing. We can spend the rest of our lives, a minute or whatever it may be until we run out of oxygen here one the moon, living to our full potential.",
+        "label": "I mean, it's true. We did travel to the moon - that's a big one. I never have played with a cat, much less on the moon with an attractive woman."
+    },
+    {
+        "sentence": "I earned the trust of all of the rich people who live here and the ten poor people.",
+        "label": "To be frank, sir, even the poor people have better houses than I do."
+    },
+    {
+        "sentence": "He doesn't even know what he did wrong. What do you think you did, Richard?",
+        "label": "I relabeled all the table numbers different numbers so the hostesses got confused."
+    },
+    {
+        "sentence": "Can I ask a question? What exactly is a \"spy company?\"",
+        "label": "It's a company that basically does surveillance. Ours is called Bender Surveillance."
+    },
+    {
+        "sentence": "Thank you, Rick. It's always nice to meet a fan.",
+        "label": "I'll do my best for you, David."
+    },
+    {
+        "sentence": "Oh, the kids are across the street at the ice cream shop.",
+        "label": "You know I don't like when they eat ice cream. It makes them fat."
+    },
+    {
+        "sentence": "Brent's dad, where did Brent and the girls go? We're locked in the Disney vault.",
+        "label": "Just you and me? Me and Jerry Disney? This is exciting!"
+    },
+    {
+        "sentence": "Uncle Nick's here, I'd know that voice anywhere.",
+        "label": "Uncle Nick, are Trish and Laura with you? I love when the Nolte's come over."
+    },
+    {
+        "sentence": "We live in one house, that we can't seem to leave all the time. But we can leave for short periods and we can sort of appear other places, you know.",
+        "label": "It must be nice to have a place where you can just be messy and do whatever to your towels."
+    },
+    {
+        "sentence": "I object. I went to college with Daryl and he's a real lady's man and I don't think he should be getting married. He's one of the greatest lady's men of all time. I'm sad to see him settling down.",
+        "label": "Thanks, Ted. I get what you're doing. You're just giving me a hard time. He isn't serious."
+    },
+    {
+        "sentence": "It would be so cool if the line cooks cooked for us tonight at the party.",
+        "label": "That's what everyone loves doing when they are being celebrated. They like doing their jobs in a different environment."
+    },
+    {
+        "sentence": "Of course, Prince is alive in 2015. What are you talking about?",
+        "label": "I'm just kidding. He's fine. He stays fine."
+    },
+    {
+        "sentence": "We call upon these spirits to just, uh, be here. OK?",
+        "label": "Who summons me from the great beyond? Oh look, there's another ghost."
+    },
+    {
+        "sentence": "Alfred, I've already moved my things into your home.",
+        "label": "I didn't get a chance to, so you're going to have to take those things out when I go back home tonight and move my things."
+    },
+    {
+        "sentence": "Somebody get a shark wrangler in here.",
+        "label": "Everyone just settle down. As the mayor of Universal City, I'm sure everything here is gonna be fine. Let's just all continue about our day."
+    },
+    {
+        "sentence": "Please stop calling me nut balls. It's so demeaning.",
+        "label": "It's all I think of when I look at you. Your bookkeeping is a mess. It just makes me think this guy's nut balls!"
+    },
+    {
+        "sentence": "Honey, why don't you take the day off? I can't stand to see you going down to that amusement park every day being a lawyer. It seems to be killing you.",
+        "label": "Sweetie, I am the job. You know that, sir."
+    },
+    {
+        "sentence": "So, Dick, what you're telling me is were just so concerned with microbial diseases that you lost your job and ended up here in this dive bar.",
+        "label": "Yeah, I better have another drink.  Thinking about this really gets me down.  This is not the way I wanted to ring in the new year."
+    },
+    {
+        "sentence": "You mean you want to put me, Chuck in front of the camera?",
+        "label": "That's right, Chuck. This is your chance to shine."
+    },
+    {
+        "sentence": "I believe the Humpback Arena was named after the hunchback of Notre Dame.",
+        "label": "That's correct.  It's kind of considered a rude and insensitive name now, but it still works."
+    },
+    {
+        "sentence": "Ah you have almost completed your life cycle.",
+        "label": "What are you saying? Is that some clever way of calling me old?"
+    },
+    {
+        "sentence": "My dad's selling me off. That's why I'm here.",
+        "label": "Oh, well, we're orphans. That's why we're here. No one wants us. Your reason is a lot worse."
+    },
+    {
+        "sentence": "You will end up looking like you have been moving, yes.",
+        "label": "Sounds like sex with my husband."
+    },
+    {
+        "sentence": "I've never seen that phone before. Is that a burner phone?",
+        "label": "Why would I have burner phone? I'm certainly not carrying on a secret business behind everyone's back to drain the finances of our family business."
+    },
+    {
+        "sentence": "That's a terrible story. Why do the pigs die?",
+        "label": "Because the wolf ate 'em. That's the natural order of things. You'll understand when you're older."
+    },
+    {
+        "sentence": "I have to tie this string pretty tightly around that doorknob.",
+        "label": "Yes, and it can't be that sort of door that opens in."
+    },
+    {
+        "sentence": "Marcus, I need you. You're supposed to be teaching archery, and we already lost one camp counselor. And two kids already drowned.",
+        "label": "It's only the second day of camp, what do you mean two kids already drowned?"
+    },
+    {
+        "sentence": "You want these keys, don't you?",
+        "label": "Toaster Strudel, quit dancing and get him."
+    },
+    {
+        "sentence": "Boys, now when you get to your little logging job, I made you some sandwiches and a little bit of cider. You boys make sure you be careful around them logging machines, alright?",
+        "label": "Mama, we're professional loggers. Oh, mama! There's blood on your chin."
+    },
+    {
+        "sentence": "Soon he'll be fucking, but not yet. Fucking pussy.",
+        "label": "Are you just saying pussy while pointing to your vagina?"
+    },
+    {
+        "sentence": "No need for the introduction Dr. Neidermeyer, your reputation proceeds you.",
+        "label": "You got one of those things out in front of your office, where you can put your head through and you look like a big tooth."
+    },
+    {
+        "sentence": "Pussibly.  Yeah, I like that.?",
+        "label": "Oh, well, that could get me into a bit of trouble, but, it's what you like, so, Maria no more, Pussibly you shall be."
+    },
+    {
+        "sentence": "Is James Sicking from Wisconsin? I thought he was from Canada.",
+        "label": "He's Canadian. Wisconsin's almost like a little Canada, though."
+    },
+    {
+        "sentence": "I feel like I have a connection with you. This is the longest I've ever gotten my haircut with a certain person.",
+        "label": "Yeah, I know. I've been cutting your hair for 92 minutes."
+    },
+    {
+        "sentence": "Yes, I hate the prophecy.  Wait, it says he will turn against me, but it doesn't say anything about why.  What if we prevent him from meeting his actual birth parents?",
+        "label": "Well, that would have been smart.  We should have come up with that before I went on the internet to find them."
+    },
+    {
+        "sentence": "I'm taking the computer and I'm going to watch a movie.",
+        "label": "Are you gonna use the disk drive of the computer?"
+    },
+    {
+        "sentence": "We will take this kid.",
+        "label": "OK, he is three. He's hardly been worked at all, he is almost completely new!"
+    },
+    {
+        "sentence": "You seem uncomfortable, It looks like you still have to take that dump.",
+        "label": "No it's not that, I put ice in my pants to try and turn myself into a scientist and I'm really uncomfortable."
+    },
+    {
+        "sentence": "Making people die is the reason there are dogs in this world.",
+        "label": "That's it! We figured it out. Let's go find a dog."
+    },
+    {
+        "sentence": "I want revenge. If people want to call me Willy Wonka, I want to be Willy Wonka. I want a hotel that I can put people through a series of tests. ",
+        "label": "All right, so, I'm pretty backed. It's 1982 now. I can get you to that hotel in 2001."
+    },
+    {
+        "sentence": "Sweetheart, do you mind if I sit on the couch with you, while you read me People magazine?",
+        "label": "Of course. When no one else is here, we are equals."
+    },
+    {
+        "sentence": "Wow. I wish I was that smooth with my date. Wow.",
+        "label": "Your date is a very beautiful woman."
+    },
+    {
+        "sentence": "What do you think, honey? Some of this art is pretty good, right?",
+        "label": "I mean, I think it would be the perfect souvenir, to take home one of these pieces."
+    },
+    {
+        "sentence": "You can see my ghost writer? What is it about Charleston, South Carolina?",
+        "label": "Black people can see ghosts."
+    },
+    {
+        "sentence": "It looks kind of empty, kind of like its the last sizzler.",
+        "label": "I mean it only looks empty because we are the only ones in here. You know it's funny Sizzler put all their pennies and dimes that they had left after the economy collapsed in 2018."
+    },
+    {
+        "sentence": "We are gathered here today and to celebrate the marriage of you and you. Does anyone have any objections? Please speak now.",
+        "label": "Yeah, I've got an objection. I went to college with Daryl and he's a real lady's man and I don't think he should be getting married. He's one of the greatest lady's men of all time. I'm sad to see him settling down."
+    },
+    {
+        "sentence": "Here we are, this is your room.",
+        "label": "Why is there a black wreath on the door? Did someone die in this room?"
+    },
+    {
+        "sentence": "When i think of a sleeve, I think of the thing that an apple pie comes in.",
+        "label": "That's a shute. It's an apple pie shute."
+    },
+    {
+        "sentence": "I haven't put any snow chains on the tires yet.",
+        "label": "It's not that bad. I mean, it's snowing a lot. But it's not that bad. They say it's the worst blizzard in years but, it's not that bad."
+    },
+    {
+        "sentence": "James, it's so good to hear your voice!  How's your leg?  The last time we talked, it was pretty banged up.",
+        "label": "It's doing really good.  It's still attached.  Well, it's hanging by a thread, but through the Lord's will and grace, which is also a great television series, I still have a leg that's kind of on there.  Praise Jesus!"
+    },
+    {
+        "sentence": "I think that you should sit this one out.  Let your understudy take the part.",
+        "label": "What?  Let her take it?  She looks like she has feet for hands!"
+    },
+    {
+        "sentence": "Hey Rook, I'm going to drive down to the burn site to see if I can pick up any evidence. Do you want to come with?",
+        "label": "Oh, of course. I ain't never seen a case before. I've just been figuring out how my desk works all this time."
+    },
+    {
+        "sentence": "Now that they're gone, Mario, I have to tell you.  This guy, this Crocodear, with his so many honeymoons.  He betrayed the sanctity of marriage.?",
+        "label": "It is in an insult to the church and to a woman."
+    },
+    {
+        "sentence": "You two made another call to Radio Disney. What are you trying to pull here, cracker jacks?",
+        "label": "There's nothing going on. We called Radio Disney because our cousin works there."
+    },
+    {
+        "sentence": "You get that we're weird, crazy people, right?",
+        "label": "I'm smoking four cigars right now."
+    },
+    {
+        "sentence": "If we were in the breakroom for a five minute meeting and there was only one chicken cutlet left, but there's five of us in the room. What are you going to do?",
+        "label": "I would cut the chicken cutlet into five pieces."
+    },
+    {
+        "sentence": "Hey, old lady, you should really lock your door.",
+        "label": "Evan, please don't walk into this house with that sort of energy."
+    },
+    {
+        "sentence": "After all that hubbub and commotion, you just wanted two lemonades?",
+        "label": "It was about order, it wasn't about what I was ordering. I wasn't ordering anything complicated but y'all were first, y'all had to go first."
+    },
+    {
+        "sentence": "It's so paper thin I can't even see it. Am I holding it?",
+        "label": "Yes. It goes on a sandwich because a sandwich is things you slice."
+    },
+    {
+        "sentence": "Annette, listen, I'm shipping off. Gotta go fight for freedom.",
+        "label": "Baby, you're so brave. I'm going to miss you."
+    },
+    {
+        "sentence": "I want to win over this lady's heart towards children by being a shining example.",
+        "label": "It will probably happen. Although, she couldn't keep a husband for a day."
+    },
+    {
+        "sentence": "Is Gayle leaving the room for a second?",
+        "label": "Could you just stay above the table? I'm uncomfortable with you being down there."
+    },
+    {
+        "sentence": "I'm fresh out of Molly. Do you want any shrooms?",
+        "label": "Oh, I've never done shrooms before. But, yeah, absolutely! Give me all you have."
+    },
+    {
+        "sentence": "Well, you know, the city is over a hundred and fifty years old. I should know, because I'm the treasurer of this stupid city.",
+        "label": "I can't believe you have to wait in line to see the doctor with how important you are."
+    },
+    {
+        "sentence": "Well, it seems to me what you need to do is dance.",
+        "label": "Talking about dancing, this week's action is brought to you by Dancing With the Stars, Sundays on ABS."
+    },
+    {
+        "sentence": "Oh, no! She's coming! Do you think she's going to know that we're perps?",
+        "label": "I don't know. Let's hope she doesn't. Let's act like we're not perps."
+    },
+    {
+        "sentence": "It's not that big of a plane. How can you be so out of breath?",
+        "label": "The pilot was getting attacked by these two giants and I saw back here that there was as water breach, so I had to run back and forth."
+    },
+    {
+        "sentence": "Oh, I know who you are. I'm one of those girls that follows sports. You play basketball.",
+        "label": "That's awesome. Let me explain to you why I'm here. We usually have our New Jersey Nets reunions in this same multipurpose room. So I showed up, but I think it's tomorrow."
+    },
+    {
+        "sentence": "Please, Sherry, give me just one second. I just sent an email to myself to talk to customer.",
+        "label": "I need you to just really consider your thoughts and feelings before you act on them. Other people need the computer for work."
+    },
+    {
+        "sentence": "I'm here too, Sven!",
+        "label": "Aww, Grandpa, c'mon. How'd you get out of your home?"
+    },
+    {
+        "sentence": "He's one of a kind. He's the most intelligent tapeworm I've ever encountered.",
+        "label": "And he seems to be getting longer and longer."
+    },
+    {
+        "sentence": "Wait, they give you cups of coffee when you make it to the major leagues?",
+        "label": "Yeah, rook, that's what happens. You get a cup of coffee. And if you can't stand the heat you're sent right back down to the minors."
+    },
+    {
+        "sentence": "Are you absorbing all the water at Disney on purpose?",
+        "label": "I am I want all the water in Disney for myself. I'm opening my own water park and it's very expensive to get running water in there."
+    },
+    {
+        "sentence": "Hey, have any of you guys heard of a famous saxophone player coming through this town by the name of Trumpet Davis?",
+        "label": "Trumpet Davis! Of course we've heard of him. He's been playing down in the club at the bottom of the hill. He's been doing a sort of residence there."
+    },
+    {
+        "sentence": "Well, Del, but you're a very generous person and that's one of the reasons I love having you in class.",
+        "label": "Thanks so much, Professor."
+    },
+    {
+        "sentence": "Maybe if there was a way for customers to bring their memory cards in, we could print out pictures that way.",
+        "label": "Yes, so, we could develop their digital photos from memory cards. That would really be a move into the 21st century for us."
+    },
+    {
+        "sentence": "Carol, I think you know I can read.",
+        "label": "Yeah, 'cause you read my journal."
+    },
+    {
+        "sentence": "I have some friends here that are performing tonight and they are very talented. If you ever wanted to do another show on some network, you're going to see some good people tonight.",
+        "label": "These are people that gamble and fish? What kinds of things are we talking about?"
+    },
+    {
+        "sentence": "All right, guys, look. This is a big chance for us. Do you think Rubber Band is up for performing at the carnival?",
+        "label": "I think he's up to the task. I mean, he doesn't have limbs. He is a worm. But I think he can juggle. He says he can."
+    },
+    {
+        "sentence": "Happy birthday, I got you tickets to the throw up show.",
+        "label": "Thank you Tina, I appreciate it. I mean, I know it's super inappropriate that we're dating, since you're my boss."
+    },
+    {
+        "sentence": "Hello, Marie Claire. How young and vibrant you look.",
+        "label": "Well, I'm 23 and I'm full of wheee!"
+    },
+    {
+        "sentence": "Your dad sounds like a real good guy.",
+        "label": "He was. God dammit, he was great! He was the kind of guy everyone wanted to be and be around."
+    },
+    {
+        "sentence": "Well, I feel like we've done something good here.",
+        "label": "I don't feel that way, but it's interesting that you do."
+    },
+    {
+        "sentence": "People would pull over.  They'd come all the way across the country, pull over, and have our food.",
+        "label": "They would drive from the other side of the country to pull over to our concession stand."
+    },
+    {
+        "sentence": "I will tell you something right now. May the Gypsies curse me until kingdom come. I will make this dead bunny dance right now if I thought I had a chance with you.",
+        "label": "Tell that dead baby bunny to get it's dancing shoes on because I still love you."
+    },
+    {
+        "sentence": "Did you say that you find that funerals are sort of a social occasion?",
+        "label": "Well, you know different people celebrate or mourn death in different ways."
+    },
+    {
+        "sentence": "Is it a top secret Tums spot?",
+        "label": "It's a new flavor. They don't want anyone to know."
+    },
+    {
+        "sentence": "In this house, we wear sneakers made of canvas and brightly colored zip up sweaters. You'll find I set aside a pair for you in the closet.",
+        "label": "OK. Thank you. I would love to wear those canvas shoes."
+    },
+    {
+        "sentence": "It drives me crazy when we get the nice clean carpet and then people are walking all over it.",
+        "label": "What if they take their shoes off? The Japanese and other Asians do that to maintain cleanliness."
+    },
+    {
+        "sentence": "Oh this is the line for Rex Ryner?",
+        "label": "Yeah of course, what did you think it was a line for?"
+    },
+    {
+        "sentence": "This is not easy for me to say, but I'm disappointed in you.",
+        "label": "How could you do this on double coupon day? I just wanted to do a good job."
+    },
+    {
+        "sentence": "I don't know if I could do that. I've never acted a day in my life.",
+        "label": "Well, take my card at least."
+    },
+    {
+        "sentence": "We're a stupid nation of idiots, who eat burgers and smoke whatever and then throw it on the ground like trash. ",
+        "label": "We are trash. We should throw ourselves on the ground."
+    },
+    {
+        "sentence": "The kids go so nuts from exploring their bodies and it turns to murder.",
+        "label": "Yeah, it turns to murder. They kill a pig and there's a shell and one of the kids is a little overweight."
+    },
+    {
+        "sentence": "David, I must confess. Last night, as we were slumbering on the river boat, I heard you in the cabin next door to mine. It sounded like you were waking up from a dream screaming \"Ow, ow, my back hurts.\"",
+        "label": "That's right. I've been having those dreams every night."
+    },
+    {
+        "sentence": "Open it, if you're going to be a nosy outsider.",
+        "label": "Birds? There are dead birds in here."
+    },
+    {
+        "sentence": "So, you want to put a lake in this place and get rid of Doris and her understudy, Clem?",
+        "label": "As a guy named Guy, I'd say let's hear them out."
+    },
+    {
+        "sentence": "May I offer you a champagne, sir?",
+        "label": "Yes, please. And one for my friend here."
+    },
+    {
+        "sentence": "I thought you had some college?",
+        "label": "I've had half of two weeks of one semester."
+    },
+    {
+        "sentence": "Reverend St. Augustine, I hate to bother you, but it's been 10 seconds from the time you said it would literally be 10 seconds.",
+        "label": "Rudy, thank you for holding me to that. You're keeping me honest in this dishonest world."
+    },
+    {
+        "sentence": "What if we change it so that she was a different person? We could make her nice and sweet.",
+        "label": "I guess that could work if you can update Wikipedia."
+    },
+    {
+        "sentence": "Oh, you were always so smart.",
+        "label": "Well, of course. I'm British."
+    },
+    {
+        "sentence": "There is actually - when you were applying to be a police officer  - a box that asks if you're OK with confrontation, because that is actually a big part of your job.",
+        "label": "I just wanted to please in that moment so I just wrote yes."
+    },
+    {
+        "sentence": "Please tell me there's just a bunch children somewhere missing their animal.",
+        "label": "You want them to miss their animals?"
+    },
+    {
+        "sentence": "You know that a woman like Donna doesn't need a famous movie star boyfriend for her worth to matter. She has several degrees. She's a medicaid doctor. She fell in the grand canyon, survived, befriend a pack of coyotes, and went to space.",
+        "label": "That's right. And I brought you here for the wrong reasons, Jason. I love you, but we need to separate. You need to go your way and I need to go my way."
+    },
+    {
+        "sentence": "Maybe we could go to the cemetery with you and try to get some ghost friends to come to the bell house.",
+        "label": "Yes, that's a wonderful idea. Of course, we'll fly to the cemetery."
+    },
+    {
+        "sentence": "Are you OK? Are you drowning, angel?",
+        "label": "I am little bit. This is my personal hell to be your angel."
+    },
+    {
+        "sentence": "Did the Hell Angel tell you what his mission is? Besides handing out funny money?",
+        "label": "His mission seems unclear. So far what he's done is just vex a bunch of people by giving them fake money. Funny money, if you will. He gives them of phony scratchers, or funny scratchers, if you will. They all seem to be based on currency. I think one time he gave someone a treasure chest that was filled with chocolate coins. Funny coins, if you will."
+    },
+    {
+        "sentence": "Are you still nine months pregnant?",
+        "label": "Yes, and I hope to be for the rest of my days.  I've never felt more myself than when I have another self within me."
+    },
+    {
+        "sentence": "Ms. Williams, what's it like in Hollywood?  Do you think I could make it there as a leading man?",
+        "label": "Of course.  You should just leave school and go straight to Hollywood.  There're actors walking around all the time.  We're all friends with each other."
+    },
+    {
+        "sentence": "Madame President, apparently, there's been some push back on your executive order for the President's physical fitness test.",
+        "label": "So, people are not working out even though The President, me, has said \"ya'll motherfuckers need to be working out\"."
+    },
+    {
+        "sentence": "I gotta get out of this park job. I have to really buckle down and win the lottery.",
+        "label": "You made your choice, man. That's why I operate the pirate ship. It's the best gig in the park. The pirate ship swings one way and then swings back the other way."
+    },
+    {
+        "sentence": "The potato tour is earthy.",
+        "label": "Some cultures call the potato the earth apple."
+    },
+    {
+        "sentence": "It was a busy night. It was all because I was wearing that doctor Halloween costume.",
+        "label": "Yeah, you had that shiny thing that you wore on your heads that all doctors used to have."
+    },
+    {
+        "sentence": "Well, you've been wearing a lot of rompers lately.",
+        "label": "I love 'em because I can spread my legs."
+    },
+    {
+        "sentence": "Don't you go with that man. I know your life will be terrible if you do it.",
+        "label": "You're just saying that because we saw a lady die on Little House on the Prairie."
+    },
+    {
+        "sentence": "Oh, the service here is amazing. You know, you get what you pay for it. Do you think that's true?",
+        "label": "Yeah, which is why we shouldn't have done a Groupon for this one, because I'm concerned that we didn't pay full price and, karmatically, we might not get our money's worth."
+    },
+    {
+        "sentence": "Hey, guys, I just noticed a possible break in the clouds. I didn't mean to break up your conversation.",
+        "label": "No, that's totally cool. Do you mind if I set my coffee cup on the top of your perfectly flat hairdo that you're worried about messing up?"
+    },
+    {
+        "sentence": "There's no contact info on this site.",
+        "label": "Well then, you gotta go over to London to find the man you love."
+    },
+    {
+        "sentence": "Peter Ventman, at your service.",
+        "label": "Well, when it comes to cleanliness, who else are you gonna call?"
+    },
+    {
+        "sentence": "Pardon me, one more thing. Are you the killer.?",
+        "label": "That doesn't sound like Colombo at all."
+    },
+    {
+        "sentence": "LeBron, you look haunted.",
+        "label": "Yeah, I've been carrying around a truth for awhile."
+    },
+    {
+        "sentence": "Captain I'm looking at all the citizens right now things are not looking good.",
+        "label": "What do you mean how bad could it be if it's that bad then we need to go help!"
+    },
+    {
+        "sentence": "He was a good dog. He always came when you called him.",
+        "label": "He had an unexpected peanut allergy."
+    },
+    {
+        "sentence": "He has like six jobs so he does like, everything.",
+        "label": "Yeah, I even saw him cleaning the candy corn from between the witches toenails, that's a rough job."
+    },
+    {
+        "sentence": "Those cookies are the body of Christ.",
+        "label": "They're Eucharists. It's Christmas, so I figured there should be some Christ stuff in there."
+    },
+    {
+        "sentence": "I'm not as cool as Laurent and Charisma.",
+        "label": "You are cool, Thomas. You're your own kind of cool."
+    },
+    {
+        "sentence": "Legend has it that toilet water comes from these underground lakes.",
+        "label": "It says it on Wikipedia."
+    },
+    {
+        "sentence": "I wish you knew the rest of the phrases.",
+        "label": "I put them on a piece of paper, but then the paper got sweaty. The ink ran down and it all became just a dot."
+    },
+    {
+        "sentence": "I wish we could have gone over the plan before we had piled into this coat. ",
+        "label": "Yeah, I agree. Like in the car ride over. What were we thinking?"
+    },
+    {
+        "sentence": "I'm so embarrassed that Tim Gunn is in my house and my balls are out.",
+        "label": "Well, if I may, they really are beautiful balls."
+    },
+    {
+        "sentence": "Ma'am, you're here from Orlando, FL?",
+        "label": "I am, that's why I'm sampling all your local peanut butter and almond butters."
+    },
+    {
+        "sentence": "So, he can get it buttoned, but you can see the skin between the buttons.",
+        "label": "I know what you mean. It's like the shirt is in pain."
+    },
+    {
+        "sentence": "You're making sundaes at a bar?",
+        "label": "This is an ice cream parlor. We do happen to have one tiny one stool bar here for some reason."
+    },
+    {
+        "sentence": "I'm innocent. I don't know what I could have done to end up here in the whale's belly.",
+        "label": "Nobody leaves this whale until we find out why you're here."
+    },
+    {
+        "sentence": "Is he sad because he didn't get the job as the nude drawn model?",
+        "label": "Yeah, he really has had a really hard time finding work. He really thought he had this one."
+    },
+    {
+        "sentence": "One dance. Any song you want.",
+        "label": "Oh, my favorite one. California Dreaming."
+    },
+    {
+        "sentence": "There's no greater bond than people who are related by blood because our blood runneth over.",
+        "label": "I like when you do analogies. It makes me feel warm in my cold, cold chest."
+    },
+    {
+        "sentence": "New York City is very dirty. When you get home you have to wipe the soot off your arms.",
+        "label": "Do you think so? I think it's charming. What I do is I wipe the soot off onto my kitchen/dining room/bathroom table and then I draw designs in there, like a little mandala."
+    },
+    {
+        "sentence": "We would love to loan you the additional $30 million. Can you tell me what you're growing again?",
+        "label": "It's an ant farm. But, it's going to be the biggest one ever."
+    },
+    {
+        "sentence": "How do we get rid off the 80's radio ghost? How do we let it finish its business?",
+        "label": "We have to open up the bell house again and let it sing all the songs for the whole length."
+    },
+    {
+        "sentence": "It's Trumpet Davis, playing his jazz music.",
+        "label": "He's just played a little bit, but I hope he sings. I want to hear that dulcet voice."
+    },
+    {
+        "sentence": "That's sort of the problem, nobody likes it.",
+        "label": "You say nobody like us going on stilts on trapeze?"
+    },
+    {
+        "sentence": "The egg salad sandwich is warm to the touch. But I don't know if that matters.",
+        "label": "I think it matters. Egg salad sandwiches are supposed to be cold to room temperature."
+    },
+    {
+        "sentence": "I can't believe you forgot the line cook party.",
+        "label": "I just got so excited about Facebook Watch."
+    },
+    {
+        "sentence": "Okay, I don't understand.  There's, like, a weird message about screening your sexual partners.",
+        "label": "I think it's very topical.  You can't have a thing where most of the thing's about blood and not reference HIV and AIDS."
+    },
+    {
+        "sentence": "Not only do you not pay extra, I'm gonna pay you to take it. I'm not the smartest businessman in the world, but I am the most well dressed.",
+        "label": "You do look terrific, that's true."
+    },
+    {
+        "sentence": "This is the captain speaking. If you're acting crazy, please stop yelling.",
+        "label": "Is there a camera back here? I feel like the goddamn pilot has commented on everything that we're doing."
+    },
+    {
+        "sentence": "Let's send Eve back to the future.",
+        "label": "Yes. That's literally exactly what I just said."
+    },
+    {
+        "sentence": "What are we going to do? Featherman's up there waiting on us.",
+        "label": "I can see him up there in his little window."
+    },
+    {
+        "sentence": "So, you have decided to visit Dr. Lombardi.",
+        "label": "Yes, I have. I saw you advertised on the back of one of my Pennysaver magazines and it says that you can get rid of the voices in your head. You can become a new woman. And I'm ready."
+    },
+    {
+        "sentence": "I'm still not sure what this little thing is attached to my wrist.",
+        "label": "It's a security device for your breathing taint."
+    },
+    {
+        "sentence": "I'm just waiting to take either one of your parking spots because this place is jam packed.",
+        "label": "It's crazy busy. Must be a lot of sick people today."
+    },
+    {
+        "sentence": "Let me distract you a bit with this. Look at this collection of your CDs from the band you were in, Nickelback.",
+        "label": "I'm a huge fan, all of us are. Everybody in the world loves Nickelback."
+    },
+    {
+        "sentence": "A part of me has died.",
+        "label": "Shut up down there, Cookie."
+    },
+    {
+        "sentence": "Welcome to the greatest sight mankind has ever seen. This woman is blind and she can do two things. She can catch things thrown at her and she can tell you what books you have overdue at a library.",
+        "label": "That's right. Everybody got one, at least one. Even those of you who have never been to a library."
+    },
+    {
+        "sentence": "Excuse me, folks, I have to get to aisle four.",
+        "label": "Whoa, that's Mr. Grocery!"
+    },
+    {
+        "sentence": "Come here little rat. ",
+        "label": "Don't spook him. Don't freak him out."
+    },
+    {
+        "sentence": "We're going to kill Peck, while shooting?",
+        "label": "We're going to shoot him while we're shooting. There's going to be two shooters."
+    },
+    {
+        "sentence": "Parrots, you are not going to survive here at college. I'm  very worried for you.",
+        "label": "You're worried for us? We're three parrots that got into college. I think we're doing good."
+    },
+    {
+        "sentence": "Well, how do you feel about \"Ally's Adventures Through the Looking Mirror?\" It's filled with wonderful, wonderful bedtime stories.",
+        "label": "A looking mirror sounds like a thing a pervert has."
+    },
+    {
+        "sentence": "I have to go to the bathroom.",
+        "label": "Then good lucking get off that romper."
+    },
+    {
+        "sentence": "Margaret, Elaine did the gentleman arrive yet, who wants to buy the property?",
+        "label": "Yes, he's right behind you. He's standing right there."
+    },
+    {
+        "sentence": "Is this conversation about towels some kind of Icelandic riddle?",
+        "label": "Yes, but it's also just a practical conversation about your lack of towel."
+    },
+    {
+        "sentence": "Did you know that Miss Pearl was in the movie Foxy Brown?",
+        "label": "She told us that. I kind of get the feeling she leads all her stories with that."
+    },
+    {
+        "sentence": "Ho, ho ho. Welcome to heaven.",
+        "label": "Oh my gosh, Santa? And you're black?"
+    },
+    {
+        "sentence": "Sir, I don't understand what you're asking. What did I do wrong or right here in selling these comic books?",
+        "label": "Kevin, I'm just glad these numbers are real. Kevin, you're employee of the month."
+    },
+    {
+        "sentence": "The light is going out. My insides are seeping out.",
+        "label": "I can see your brush. You might want to cover that up."
+    },
+    {
+        "sentence": "Whatever it is it's big enough to accommodate an airship that also does stunt shows.",
+        "label": "And multiple other airships throughout the ages."
+    },
+    {
+        "sentence": "I know. It's like you were hiding your true identity, so you felt you couldn't let your freak flag fly.",
+        "label": "That's right. I kept my freak flag furled."
+    },
+    {
+        "sentence": "My mouth is so dry.",
+        "label": "Honey, let me swab some of this condensation from the window and feed it to you in the palm of my hand."
+    },
+    {
+        "sentence": "I have one quarter of a Starbucks egg salad sandwich. To be honest, I'm starving, but I'd rather not eat it.",
+        "label": "Yeah, I have a couple cake pops in my pocket."
+    },
+    {
+        "sentence": "This was the plan I was thinking of. If we open up the hatch a little tiny bit, some water will get in. But if we can get out there super fast, then we could swim right up to the top.",
+        "label": "That is a white person plan."
+    },
+    {
+        "sentence": "Maybe Doris and Clem's time has passed.",
+        "label": "Maybe your time will pass soon."
+    },
+    {
+        "sentence": "It means streets, but it's just their name.",
+        "label": "Oh, the mean streets? Rock n rollers love the mean streets."
+    },
+    {
+        "sentence": "Now, about the cooking. That seems to be the thing you're having the most trouble with.",
+        "label": "To be honest, I did not think about the amount of knife work that would be required and these bandages keep getting wet so I have to keep stopping and changing them."
+    },
+    {
+        "sentence": "Son, I hope you'll always tell the truth about everything and never be ashamed of your dad and your moms.",
+        "label": "Get a job where you can speak up because this is really fucking annoying, hearing you whisper."
+    },
+    {
+        "sentence": "I'm very poor, I live on the street, and I would love some money from you.",
+        "label": "I only have cards, like credit cards. Here's my Neiman Marcus card."
+    },
+    {
+        "sentence": "But I've just been spreading a gospel of love and peace. I've helped the poor. I've brought people back from the dead!",
+        "label": "Yeah, but you act like a weirdo and you walk like a duck."
+    },
+    {
+        "sentence": "That spineless sponge of a man!",
+        "label": "That's our father you're talking about!  Really, if there's a villain in this house, it's Stefano.  But, now I propose we bring a new family member into our group.  Someone also of our family blood.  Mother!"
+    },
+    {
+        "sentence": "LV247 requesting identification from interstellar ship.",
+        "label": "That's easy, it's Clarkie, Chief, and me - the rookie."
+    },
+    {
+        "sentence": "I mean, it's working out great if you can identify Felix.",
+        "label": "It was also really weird that the others readily volunteered that information."
+    },
+    {
+        "sentence": "Maybe just point at him and be like \"Let's go!\"?",
+        "label": "Yeah, I'm gonna signal my hands kind of like a trombone."
+    },
+    {
+        "sentence": "They have an unusually good orange julius here. You know, they use fresh Florida oranges.",
+        "label": "That's great. Maybe it will make up for traveling with my wife."
+    },
+    {
+        "sentence": "I'm a little worried this is above my... I'm the social media manager for this aquarium. I just don't think this falls into my category.",
+        "label": "I work in the gift shop, you think I want to be dealing with this?"
+    },
+    {
+        "sentence": "Is it OK if I stay here for a while before I go to jail?",
+        "label": "I mean, sure. But you can't leave and we'll come back to get you later."
+    },
+    {
+        "sentence": "These bowls look to be reasonably priced.",
+        "label": "The bowl bowls are priced as they look to be priced, but the taxes are a bit steep."
+    },
+    {
+        "sentence": "Are you all OK? We saw these two fierce animals in the cars outside.",
+        "label": "Are you talking about these two tranquil beasts? Look at this one? He's got a rose in his mouth for you. And this little scrawny one looks like he's growling, but really, he's smiling."
+    },
+    {
+        "sentence": "Hey, we're due court in a little while. This is weird for us to be talking to each other, but I just wanted to say, I guess good luck out there, you know?",
+        "label": "Thanks. I mean, I'm representing myself. I don't have a law degree. All I have is my good word, which is bullshit."
+    },
+    {
+        "sentence": "My wedding planer was like \"what do you want your wedding to be like? and I said Neverending Story themed. So, that's why my limo is dressed up like Falcor.",
+        "label": "That's wonderful. I love that it's furry and scale-y."
+    },
+    {
+        "sentence": "Time for bed. We brought you your favorite: beef and butterscotch.",
+        "label": "This is very sticky, and this is just loose meat. So I guess I dunk the meat in the butterscotch?"
+    },
+    {
+        "sentence": "You do resemble Dakota, if I were to get her on the phone?...",
+        "label": "Well, I'd have a lot to say to her."
+    },
+    {
+        "sentence": "Just get a running start and the force of the ramp should just take you right through the window.",
+        "label": "Is that really an upgrade from the rope?"
+    },
+    {
+        "sentence": "I said hanker. I know you haven't heard that word since our honeymoon.",
+        "label": "I have not. And to be honest, I was so busy speaking in unison with others that I don't know that I caught what you were saying."
+    },
+    {
+        "sentence": "Stop right there. What's going on? I'm park security.",
+        "label": "Oh, I thought you were a mobster. You've got a real strong Italian look to you."
+    },
+    {
+        "sentence": "Curtis, you should know. I've been giving Jennifer a big allowance.",
+        "label": "But Marjorie, for how long? $50, that's quite a great sum she's got."
+    },
+    {
+        "sentence": "The security guards I tied up had a Twinkee in their pocket.",
+        "label": "That will do. What do we do for candles?"
+    },
+    {
+        "sentence": "Mrs. White, I'm Meredith's Dad, Mr. Harbor.",
+        "label": "Hi Mr.Harbor, I'm sorry, I thought maybe you were Meredith's brother."
+    },
+    {
+        "sentence": "What's the time? Just because we don't have anywhere to be, but if we did, I'd like to know the time.",
+        "label": "What do I look like, 411?"
+    },
+    {
+        "sentence": "The queen is dead. Long live the king.",
+        "label": "From this day on, we will have no more trollbeads in the store."
+    },
+    {
+        "sentence": "The secret ingredient in the doughnuts is rocket fuel.",
+        "label": "Rocket fuel? Well, that is a crime. You can't put that in something people eat."
+    },
+    {
+        "sentence": "I look smooth as Summer Chintz China.",
+        "label": "Summer Chitz China? Is that like a chinette dining plate?"
+    },
+    {
+        "sentence": "Secrets, secrets are no fun unless of course you tell someone.",
+        "label": "Secrets, secrets must be kept. Secrets, secrets, I'm gonna murder you."
+    },
+    {
+        "sentence": "My name is Clarence.",
+        "label": "I'm Clarence's mother. I don't like to use my first name."
+    },
+    {
+        "sentence": "He landed on his neck, you guys.",
+        "label": "You know it was? I think he was looking back up at the window like \"I shouldn't have done that.\" And then the gravity caused him to turn around."
+    },
+    {
+        "sentence": "Well, I think we just landed so we might as well get on out EVA suits and go check out the terrian.",
+        "label": "Good idea. Remember, we have to put the EVA suits on over our flying suits."
+    },
+    {
+        "sentence": "Well, since you're leaving me for another, I guess now's a great time for you to hear that I am leaving you for another.",
+        "label": "Yeah, that's what we were saying while you were talking on top of everyone."
+    },
+    {
+        "sentence": "We are the spirit and intent of this painting.",
+        "label": "Oh, so I am in a painting? OK, that makes sense. I was just taking a walk. I live in New York, the best city in the world."
+    },
+    {
+        "sentence": "Well it seems we are at an impasse.",
+        "label": "Yeah I'm afraid we are, maybe we can duke it out to decide things?"
+    },
+    {
+        "sentence": "I was wondering if you would sign my copy of Bulgeman Number Four.",
+        "label": "Yeah sure I can do that, I'll sign right there on the bulge!"
+    },
+    {
+        "sentence": "Everybody left and went to their houses and their jobs for a couple days.",
+        "label": "It was a Sunday show and then it was delayed until Friday night."
+    },
+    {
+        "sentence": "Mr. Stanfield, do you really want an 80's radio haunting a Circuit City?",
+        "label": "Sounds bad for business."
+    },
+    {
+        "sentence": "We heard some actors talking and it's going to be pretty rocky tonight. It's going to be all understudies.",
+        "label": "Yeah and they're kids from the inner city, so I think a fight might break out."
+    },
+    {
+        "sentence": "Rodney, tell us about your family. Please Rodney. Please!",
+        "label": "Alright, alright, stop jumping up and down everybody."
+    },
+    {
+        "sentence": "Rudy, who would you rather have entering the kingdom of your television station, the people who are entering the kingdom of hell or people entering the kingdom of heaven?",
+        "label": "Well, it's TV. We like to get ratings. So, I think some people who are going to hell would be interesting."
+    },
+    {
+        "sentence": "Rita, I feel like maybe we should form an alliance. You know what I mean? Because I don't know what's going on with those two.",
+        "label": "Oh god, he's clearly unstable and she's obviously got mommy issues."
+    },
+    {
+        "sentence": "I've been bagging groceries that way ever since. One egg per bag.",
+        "label": "I remember that day. I was your boss. I promoted you."
+    },
+    {
+        "sentence": "What is the blood from?",
+        "label": "It's probably from an animal."
+    },
+    {
+        "sentence": "Oh, I don't know.  I mean, I've listed two pretty good examples.",
+        "label": "I know.  You have.  Look, you're not on trial here.  I guess this one is on me to come up with more examples.  Well, they're always putting on golf cleats.  I know that much.  "
+    },
+    {
+        "sentence": "Hey Melissa, your phone was going off.",
+        "label": "Oh, I didn't even look at it. I was watching the new Will & Grace."
+    },
+    {
+        "sentence": "It's really great that your recognized that this is a Build-a-Bear.",
+        "label": "I did a little time at Build-a-Bear, so I know one when I see one."
+    },
+    {
+        "sentence": "The sweats were all that were available at the womens shelter.",
+        "label": "They have a really robust selection of sweatsuits though, so that's nice. "
+    },
+    {
+        "sentence": "Who let that chicken in here? This is a sterile space.?",
+        "label": "That's a sign of good luck. Chicken, what do you think my young boy is going to grow up to be?"
+    },
+    {
+        "sentence": "I don't even know why we came to this universe.",
+        "label": "Now that you mention it, I don't either. I thought it was your idea."
+    },
+    {
+        "sentence": "Yeah, the baby man is supposed to be in this region somewhere. Nobody's found the tomb.",
+        "label": "This sounds like a real adventure we could have."
+    },
+    {
+        "sentence": "Why did you insist on bringing us to this fancy hotel?",
+        "label": "Because they have the best eggs."
+    },
+    {
+        "sentence": "We're kind of like a bunch of hobos standing around a fire. One of us can bring a cracker. Others can bring ketchup packages. Together, we can form a meal.",
+        "label": "Now, that sounds like a young adult novel."
+    },
+    {
+        "sentence": "You will be better off with a man like Bert. Until our relationship went south, I was a very happy woman.",
+        "label": "I'm glad you had that happiness. Everyone deserves it."
+    },
+    {
+        "sentence": "I tortured a legally blind man by seeing. And another woman, who didn't seem to have anything wrong other than the fact that her elbow was severely mauled, I made her feel bad because she can't feel emotions and I felt my emotions in front of her.",
+        "label": "Yes, that's pretty terrible. The lord looks down on people who do things like that. I think you should do 20,000 Hail Mary's. That's a severe crime and the punishment should fit the crime. We're Catholics, so we suffer."
+    },
+    {
+        "sentence": "Ma'am did you not see that the temperature is in the 100's today?",
+        "label": "I do see that and I am merely saying that it feels good to my body."
+    },
+    {
+        "sentence": "This is a cold case, isn't it? It happened millions of years ago.",
+        "label": "There are no cold cases. There's only cold hearts in murderers."
+    },
+    {
+        "sentence": "I'll take this scarf and take a tourniquet around her leg and oh my god, that's so much blood.",
+        "label": "Look at her eyes. Her eyes are going all crazy white."
+    },
+    {
+        "sentence": "How much does it cost to take a picture with the ladies?",
+        "label": "It's $5 in single bills, not in fives. You can't feed fives into the vending machine and that's how Leg Cramp and I eat."
+    },
+    {
+        "sentence": "It's a little soon to be calling me mom. I've only been married to your dad for five years.",
+        "label": "I'm sorry, Rosemary."
+    },
+    {
+        "sentence": "This is a terrible recording. What am I listening to?",
+        "label": "It's our future, Fantastic Sam. It's a kid doing a stand up set."
+    },
+    {
+        "sentence": "The Thadeous family has a long distinguished history of witchcraft.",
+        "label": "I'm pretty sure that's why you've been cursed to be here."
+    },
+    {
+        "sentence": "So, you girls. You're from Malibu, huh? And you want to know about prostitution? We'll tell you everything you need to do.",
+        "label": "Yeah, first thing is to make sure you got all your shots."
+    },
+    {
+        "sentence": "Why is everyone standing around? Are you all hiding from customers?",
+        "label": "I'm helping this young lady. She needs a new toilet."
+    },
+    {
+        "sentence": "Wow, it's really coming down.",
+        "label": "Yeah, I forgot my umbrella."
+    },
+    {
+        "sentence": "It looks like you've eaten a lot of doughnuts that didn't have anything in them.",
+        "label": "I've had a few doughnuts, OK. I eat a dozen doughnuts a day. People love a fat hairdresser."
+    },
+    {
+        "sentence": "You also said that I could maybe get a Tonka truck.",
+        "label": "Are you back talking me, soldier?"
+    },
+    {
+        "sentence": "Hey, he knows it's Bill Clinton's pen and he's holding onto it.",
+        "label": "I admit no such thing. This is just a nice pen that I've had for quite some time."
+    },
+    {
+        "sentence": "Not just that!  I also added lotion to toilet tissue.  I got a lot of ideas for every industry, but food is my heart.",
+        "label": "That's right!  Puffs Plus toilet tissue!  That was beautiful!"
+    },
+    {
+        "sentence": "I don't know if you are familiar with this theory I read about. It proposes that all shells in another universe are on land mammals.",
+        "label": "Well, we should solve the problems on our planet before we start worrying about other planets."
+    },
+    {
+        "sentence": "OK, we should run the machine. We'll have to x-ray his entire head.",
+        "label": "The whole thing. A lot of people cut corners and they'll just x-ray the forehead."
+    },
+    {
+        "sentence": "I just assumed you spelled your name Teen.",
+        "label": "You know, it's funny. I grew up in Naval Base and they always thought it was Tine."
+    },
+    {
+        "sentence": "Ladies and gentlemen, once again, we're just deplaning everyone. Once that's done, we're going to de-ice and get everyone back on the plane.",
+        "label": "Well, alright, but I just figured out we were on a plane. I'm not sure how we got here."
+    },
+    {
+        "sentence": "Yeah, that car is an equal opportunity offender.",
+        "label": "Yeah no kidding. Also, it's kind of cool to admit where you're at on the scale of wokeness these days."
+    },
+    {
+        "sentence": "I mean we've been in Belfast, Maine for a week. We've got to bring back some good stuff. How about some seafood?",
+        "label": "Let's just think about this for one second. The lobster's been delicious, but I'm not taking that on the planes!"
+    },
+    {
+        "sentence": "I can't do anything, because I'm stuck. But you can get on that train to Detroit.",
+        "label": "I should leave the camp?"
+    },
+    {
+        "sentence": "This singles St. Valentine's Day in July blimp ride is going to be quite the show.",
+        "label": "You're single too? Did you see my blocks?"
+    },
+    {
+        "sentence": "I'm afraid there's no reimbursement for crime. But I don't know how you thought you were going to make money off of children anyway. They're virtual money pits. Do you know how much college costs, let alone food and doctors and sticky-hand cleaner?",
+        "label": "I guess I never thought about it. I just wanted to meet their famous parents."
+    },
+    {
+        "sentence": "The did threaten to \"process us\" and I don't know what that means.",
+        "label": "That sounds like future death to me. Like some kind of thing where Tony is like the king of a cloning company or something like that."
+    },
+    {
+        "sentence": "I do not understand. What would you like to do?",
+        "label": "Oh, sorry about that smart phone. I was having a little squabble with my wife."
+    },
+    {
+        "sentence": "Look up Ben Jafarge on Wikipedia.",
+        "label": "Hold on, I'm trying to figure out my phone. I just got the new iPhone SS. It's a super sport."
+    },
+    {
+        "sentence": "My producers are coming tonight from Bass Fishing and Jackpot King. They were expecting to see ham bone tonight, so I think they will be unimpressed by the sword swallowing.",
+        "label": "Should you live, Alfred, I think they will be pretty impressed by it."
+    },
+    {
+        "sentence": "It looks like an upside-down aeroplane.",
+        "label": "Well that's interesting. That adds to the graveyard of many other aeroplanes that are also seafaring crafts."
+    },
+    {
+        "sentence": "Tom, we're trying to get a nice gift for our parents. Do you recommend a russet or the red ones?",
+        "label": "Russets are for a 30th anniversary. 50th anniversary would be fingerlings."
+    },
+    {
+        "sentence": "I'd like to turn both of you into living zoo animals that entertain the real fans as they walk through. I'll let you keep the organ in there.",
+        "label": "It's a way for people to stay connected to the past."
+    },
+    {
+        "sentence": "If you're gone, it's just me and my cat, Ben.",
+        "label": "You know who else has a cat? That weird lady that we tried to hit with a bone."
+    },
+    {
+        "sentence": "I'm just going to take my stuff to another laundry mat.",
+        "label": "Please don't do that. I'll get blamed. You know, I work on commission."
+    },
+    {
+        "sentence": "I want a new nanny.",
+        "label": "I want a new charge. Okay? That's what I call you: my charge."
+    },
+    {
+        "sentence": "Wait, don't leave. Let me finish folding these towels first.",
+        "label": "Folding towels is all you do, woman. All you do is fold towels and make dinner. Take care of me, pay the bills, wash my car. Sometimes I want a woman to be lazy."
+    },
+    {
+        "sentence": "I guess you're coming. Everyone hop on my back.",
+        "label": "Here we go. Flying into the sky. There's the storm cloud we're looking for."
+    },
+    {
+        "sentence": "Can you even print branded stuff if I don't have the copyright to it?",
+        "label": "Oh, yeah. You're good. This is the valley. Anything goes here."
+    },
+    {
+        "sentence": "It's really important to my mom that I find someone to spend my life with.",
+        "label": "I see, but are you doing this for her or for yourself?"
+    },
+    {
+        "sentence": "What a wearying thing it is to be a God over so many universes. Should I destroy them all and start again? Is that too extreme?",
+        "label": "I think they're asking for help. Every time someone asks for help, you don't need to spite them."
+    },
+    {
+        "sentence": "I'll get you another bourbon. You want this one with mostly ice again.",
+        "label": "Yeah, just, I want it to smell like bourbon. Give me like a notion of bourbon."
+    },
+    {
+        "sentence": "I want my wife to have the extra towel. Does it cost extra?",
+        "label": "We'll consider it a honeymoon special. It's awfully romantic that you want to get her a second towel."
+    },
+    {
+        "sentence": "During the act of making love, I don't know how anyone can deal with Richard's face.",
+        "label": "I've asked him to not show me his face during those times now."
+    },
+    {
+        "sentence": "Jesus Christ, that child has a gun!",
+        "label": "Oh my god, Jimmy Dillon Tristan."
+    },
+    {
+        "sentence": "I just really want this murder to work out for us.",
+        "label": "I do too. I have an idea. This guy hates dogs."
+    },
+    {
+        "sentence": "So we're not gonna have to reach sexual maturity early and have children in here?",
+        "label": "Hey, Tobias, can you give me five minutes?"
+    },
+    {
+        "sentence": "Hey guys. I couldn't help but notice that you guys kind of turned away and you were just kind of talking amongst yourselves.",
+        "label": "It was a girl talk thing."
+    },
+    {
+        "sentence": "I'll make sure we sing that song any time anyone has a birthday at the restaurant.",
+        "label": "Well, we can also sing the regular happy birthday song now that it's in the public domain."
+    },
+    {
+        "sentence": "She's got a beautiful voice. Is that why you got the piano?",
+        "label": "Isn't it beautiful? We used to sing to each other."
+    },
+    {
+        "sentence": "Oh my god, that giant's coming over here.",
+        "label": "His name is Claude and he's part of my tribunal. I'd appreciate it if you were nice to him."
+    },
+    {
+        "sentence": "Hang on a minute. I've got to cover up all of this ice cream right now because I'm about to rage out, and if I rage out all of the flavors are going to get mixed together, and we can't have that?",
+        "label": "So what, you're going to put the lids back on the tubs?"
+    },
+    {
+        "sentence": "We get we get them all, sir.",
+        "label": "All right. Do you get the one where people think that your logo is a Satanist thing?"
+    },
+    {
+        "sentence": "Maybe I should change my name from Claptrap to Carson. Or maybe you could give me a name, Carol.",
+        "label": "Aw, kiddo, I think that's such a huge responsibility. I'm honored. I think your name should be something powerful. Something valiant. So how about Erik? It's a Viking's name, I think. You saved all of our lives."
+    },
+    {
+        "sentence": "Life, is but a show that recurs every half fortnight.",
+        "label": "Is that the WB frog talking?"
+    },
+    {
+        "sentence": "I would like a water sample. They're free, right?",
+        "label": "Yes, these are free, but these bigger bottles over here are for sale."
+    },
+    {
+        "sentence": "See these things on my chest? These are all buttons that they gave me for being a long way away from fronts. I told people where to go and do things.",
+        "label": "Yeah, there's a lot of salad on your shirt there, General."
+    },
+    {
+        "sentence": "LeBron, the rest of the team has left. You're going to have to take these kids and play the basketball game.",
+        "label": "Just these two adorable children? Do you have a net because they are flying around this room."
+    },
+    {
+        "sentence": "I would never take time off work. I love it here.",
+        "label": "What's she going to do, sit around not making money?"
+    },
+    {
+        "sentence": "Okay. Well, thanks for the book about ross perot, sis. Yeah. Appreciate this coupon. I guess saving money is cool.",
+        "label": "Those are the most sincere thank yous I have ever received."
+    },
+    {
+        "sentence": "I can't do anything without the smoke smell getting on my nerves.",
+        "label": "Mom, that's a beautiful song. I know how hard it is for you when daddy smokes. That was really beautiful singing."
+    },
+    {
+        "sentence": "So is this where we do the dishes at Cracker Barrel?",
+        "label": "This is where people at least suggest the idea of washing dishes. Mostly they just sit here and we spray them a couple times."
+    },
+    {
+        "sentence": "Mommy?  Daddy?  Uncle Jim is scaring me.",
+        "label": "He's all scaring us, Beatrix.  We're terrified of him.  He's changed."
+    },
+    {
+        "sentence": "Wow, that wind is still blowing outside and keeping business away.",
+        "label": "They did not forecast this. We should have a backup plan for windy days."
+    },
+    {
+        "sentence": "Is that your writer friend with my wife down there in the parking lot?",
+        "label": "I don't know I've just been watching what's happening, not who the people are. I find that's easier and when I'm doing my little covert tryst watching."
+    },
+    {
+        "sentence": "I'm so happy we got married.",
+        "label": "Me too. I told you I wasn't old. I have the spirit of a young lady."
+    },
+    {
+        "sentence": "You're so smart. Did I also read that you got two simultaneous PhDs?",
+        "label": "You read that. In semibiotics and also medicine."
+    },
+    {
+        "sentence": "That guy is my nemesis. We went to middle school together and he just loves throwing parties and having people over to his house, the McCormick place. Maybe you've heard of it?",
+        "label": "I have, but what's funny is that he's very shy."
+    },
+    {
+        "sentence": "This is definitely a special town, especially if we're going to allow you to remain alive and not incarcerated after you murdered 100 people.",
+        "label": "Yeah, I'm just going to take these diamonds and get the fuck out of here. Then you won't have to worry about it."
+    },
+    {
+        "sentence": "I feel like you're attacking me right now, Madame President. I'm the messenger.",
+        "label": "I'm sorry. I'm getting very heated right now.  I understand you're bringing me the message, but nonetheless."
+    },
+    {
+        "sentence": "I had a dream that I would discover an ancient civilization that nobody ever heard of before, right here.",
+        "label": "Right here in Fallsburg?"
+    },
+    {
+        "sentence": "I tell you, I don't keep up with the goings on too much in this area because I'm a bit of a hermit. You're the first people I've seen in weeks and weeks. That's why I came out, I heard voices.",
+        "label": "Can I say, you seem pretty outgoing for a hermit."
+    },
+    {
+        "sentence": "You're already starting to speak more like a human being and less like a robot.",
+        "label": "This is actually how I'm supposed to sound?"
+    },
+    {
+        "sentence": "I can't figure out if it's a coincidence or if you're blaming us for the king's disappearance",
+        "label": "I'm blaming you because that drunkard came in here and stole the king."
+    },
+    {
+        "sentence": "Would you like a hot dog, half man dog?",
+        "label": "No, I just get them for free because I work here."
+    },
+    {
+        "sentence": "Well, I barely heard you walk in here, so it must be working.",
+        "label": "Thank you. It is. I should be a cat burgler."
+    },
+    {
+        "sentence": "I masturbated on a cat.",
+        "label": "Twice."
+    },
+    {
+        "sentence": "I juggle crawdads. Does that count as an instrument?",
+        "label": "It's percussive. Hell, yeah. That will make a slapping sound. I'll get my cousin to sample it and we'll lay it down on a track. It will be the craw daddy track."
+    },
+    {
+        "sentence": "Why? Why would they let us perform open heart surgery?",
+        "label": "Because if the mother fucker died, they could blame it on us."
+    },
+    {
+        "sentence": "What about somebody that sword swallows? That's what I'm doing in the show tonight.",
+        "label": "It said you were doing ham bone in the flyer though."
+    },
+    {
+        "sentence": "Where is the bag of circus peanuts?",
+        "label": "It's gone. I ate them all and the plastic bag."
+    },
+    {
+        "sentence": "I am worried about our space force. I fear that we are going the wrong way.",
+        "label": "Well, that boy is still out there, full of gay sperm."
+    },
+    {
+        "sentence": "Yes, I have certain things I'd like to say about this very complicated case.",
+        "label": "Me too. I've been around longer than most of you and I got wisdom."
+    },
+    {
+        "sentence": "I like it. You're real folksy. That's cool.",
+        "label": "Thanks so much. Maybe I'll run for office."
+    },
+    {
+        "sentence": "I remember the tragedy of that accident, it was awful.",
+        "label": "It spread all the way out here to the Indian Reservation, huh? It was a local story. Didn't know it would be such a big deal."
+    },
+    {
+        "sentence": "The spilled lettuce does look good though on your pants.",
+        "label": "I thought it was like a cool patch."
+    },
+    {
+        "sentence": "Take a right to enter Detroit, the city.",
+        "label": "Here we go, our journey's end."
+    },
+    {
+        "sentence": "Craig, we were supposed to bring the bad guys in alive! Shit!",
+        "label": "In my defense, he said \"get her\". It set me off. I saw red."
+    },
+    {
+        "sentence": "Whoa, wait am minute. Are you the archangel Gabriel? I thought you looked familiar.",
+        "label": "Yeah, it's like me and Michael. We're the two most popular."
+    }
+]

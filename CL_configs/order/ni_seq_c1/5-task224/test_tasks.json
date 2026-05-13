@@ -1,0 +1,22 @@
+[
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task195_sentiment140_classification"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task1310_amazonreview_rating_classification"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task273_europarl_classification"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task611_mutual_multi_turn_dialogue"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task224_scruples_anecdotes_ethical_judgment"
+    }
+]

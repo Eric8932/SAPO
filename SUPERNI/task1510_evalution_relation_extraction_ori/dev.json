@@ -1,0 +1,2598 @@
+[
+    {
+        "sentence": "person can have or can contain offspring",
+        "label": "person HasA offspring"
+    },
+    {
+        "sentence": "person can have or can contain parent",
+        "label": "person HasA parent"
+    },
+    {
+        "sentence": "person can have or can contain sex",
+        "label": "person HasA sex"
+    },
+    {
+        "sentence": "person can have or can contain skin",
+        "label": "person HasA skin"
+    },
+    {
+        "sentence": "person can have or can contain sleep",
+        "label": "person HasA sleep"
+    },
+    {
+        "sentence": "person can have or can contain something",
+        "label": "person HasA something"
+    },
+    {
+        "sentence": "person can have or can contain soul",
+        "label": "person HasA soul"
+    },
+    {
+        "sentence": "person can have or can contain tooth",
+        "label": "person HasA tooth"
+    },
+    {
+        "sentence": "person is a kind of human_be",
+        "label": "person IsA human_be"
+    },
+    {
+        "sentence": "person is a kind of human_body",
+        "label": "person IsA human_body"
+    },
+    {
+        "sentence": "person is a kind of individual",
+        "label": "person IsA individual"
+    },
+    {
+        "sentence": "person is a kind of mammal",
+        "label": "person IsA mammal"
+    },
+    {
+        "sentence": "person is a kind of organism",
+        "label": "person IsA organism"
+    },
+    {
+        "sentence": "person is a kind of woman",
+        "label": "person IsA woman"
+    },
+    {
+        "sentence": "person is a member of world",
+        "label": "person MemberOf world"
+    },
+    {
+        "sentence": "person is made of meat",
+        "label": "person MadeOf meat"
+    },
+    {
+        "sentence": "person is made of water",
+        "label": "person MadeOf water"
+    },
+    {
+        "sentence": "person is part of humanity",
+        "label": "person PartOf humanity"
+    },
+    {
+        "sentence": "person is part of society",
+        "label": "person PartOf society"
+    },
+    {
+        "sentence": "pet can be characterized by alive",
+        "label": "pet HasProperty alive"
+    },
+    {
+        "sentence": "pet can be characterized by fun",
+        "label": "pet HasProperty fun"
+    },
+    {
+        "sentence": "pet can be used as the opposite of wild",
+        "label": "pet Antonym wild"
+    },
+    {
+        "sentence": "pet is a kind of animal",
+        "label": "pet IsA animal"
+    },
+    {
+        "sentence": "phone can be used with the same meaning of call",
+        "label": "phone Synonym call"
+    },
+    {
+        "sentence": "phone can be used with the same meaning of ring",
+        "label": "phone Synonym ring"
+    },
+    {
+        "sentence": "phone can be used with the same meaning of telephone",
+        "label": "phone Synonym telephone"
+    },
+    {
+        "sentence": "phone is a kind of machine",
+        "label": "phone IsA machine"
+    },
+    {
+        "sentence": "Phone is a kind of tool",
+        "label": "phone IsA tool"
+    },
+    {
+        "sentence": "phone is made of plastic",
+        "label": "phone MadeOf plastic"
+    },
+    {
+        "sentence": "photograph can be characterized by flat",
+        "label": "photograph HasProperty flat"
+    },
+    {
+        "sentence": "photograph can be characterized by instant",
+        "label": "photograph HasProperty instant"
+    },
+    {
+        "sentence": "phrase is a kind of construction",
+        "label": "phrase IsA construction"
+    },
+    {
+        "sentence": "phrase is part of sentence",
+        "label": "phrase PartOf sentence"
+    },
+    {
+        "sentence": "piano can be characterized by solid",
+        "label": "piano HasProperty solid"
+    },
+    {
+        "sentence": "piano can have or can contain keyboard",
+        "label": "piano HasA keyboard"
+    },
+    {
+        "sentence": "pick can be used as the opposite of give",
+        "label": "pick Antonym give"
+    },
+    {
+        "sentence": "pick can be used with the same meaning of choose",
+        "label": "pick Synonym choose"
+    },
+    {
+        "sentence": "pick is a kind of choose",
+        "label": "pick IsA choose"
+    },
+    {
+        "sentence": "pick is a kind of device",
+        "label": "pick IsA device"
+    },
+    {
+        "sentence": "pick is a kind of pierce",
+        "label": "pick IsA pierce"
+    },
+    {
+        "sentence": "pick is a kind of tool",
+        "label": "pick IsA tool"
+    },
+    {
+        "sentence": "pick is made of aluminum",
+        "label": "pick MadeOf aluminum"
+    },
+    {
+        "sentence": "pick is made of metal",
+        "label": "pick MadeOf metal"
+    },
+    {
+        "sentence": "picture can be used as the opposite of movie",
+        "label": "picture Antonym movie"
+    },
+    {
+        "sentence": "picture can be used with the same meaning of movie",
+        "label": "picture Synonym movie"
+    },
+    {
+        "sentence": "picture is part of book",
+        "label": "picture PartOf book"
+    },
+    {
+        "sentence": "picture_frame is a kind of frame",
+        "label": "picture_frame IsA frame"
+    },
+    {
+        "sentence": "picture_frame is made of wood",
+        "label": "picture_frame MadeOf wood"
+    },
+    {
+        "sentence": "piece can be used as the opposite of all",
+        "label": "piece Antonym all"
+    },
+    {
+        "sentence": "piece can be used as the opposite of complete",
+        "label": "piece Antonym complete"
+    },
+    {
+        "sentence": "piece can be used as the opposite of whole",
+        "label": "piece Antonym whole"
+    },
+    {
+        "sentence": "piece is a kind of part",
+        "label": "piece IsA part"
+    },
+    {
+        "sentence": "piece is part of collection",
+        "label": "piece PartOf collection"
+    },
+    {
+        "sentence": "piece is part of whole",
+        "label": "piece PartOf whole"
+    },
+    {
+        "sentence": "pierce is true then also cut is true",
+        "label": "pierce Entails cut"
+    },
+    {
+        "sentence": "pig can be characterized by intelligent",
+        "label": "pig HasProperty intelligent"
+    },
+    {
+        "sentence": "pig can be used with the same meaning of policeman",
+        "label": "pig Synonym policeman"
+    },
+    {
+        "sentence": "pig can have or can contain bone",
+        "label": "pig HasA bone"
+    },
+    {
+        "sentence": "pillow can be characterized by comfortable",
+        "label": "pillow HasProperty comfortable"
+    },
+    {
+        "sentence": "pillow can be characterized by soft",
+        "label": "pillow HasProperty soft"
+    },
+    {
+        "sentence": "pillow can have or can contain feather",
+        "label": "pillow HasA feather"
+    },
+    {
+        "sentence": "pillow is made of cotton",
+        "label": "pillow MadeOf cotton"
+    },
+    {
+        "sentence": "pillow is made of feather",
+        "label": "pillow MadeOf feather"
+    },
+    {
+        "sentence": "pillow is part of bed",
+        "label": "pillow PartOf bed"
+    },
+    {
+        "sentence": "pin can be characterized by sharp",
+        "label": "pin HasProperty sharp"
+    },
+    {
+        "sentence": "pin can be characterized by straight",
+        "label": "pin HasProperty straight"
+    },
+    {
+        "sentence": "pin can be characterized by thin",
+        "label": "pin HasProperty thin"
+    },
+    {
+        "sentence": "pin can be used with the same meaning of nail",
+        "label": "pin Synonym nail"
+    },
+    {
+        "sentence": "pin can have or can contain point",
+        "label": "pin HasA point"
+    },
+    {
+        "sentence": "pin is a kind of leg",
+        "label": "pin IsA leg"
+    },
+    {
+        "sentence": "pipe can be characterized by hollow",
+        "label": "pipe HasProperty hollow"
+    },
+    {
+        "sentence": "pipe can be characterized by hot",
+        "label": "pipe HasProperty hot"
+    },
+    {
+        "sentence": "pipe can be used as the opposite of cigarette",
+        "label": "pipe Antonym cigarette"
+    },
+    {
+        "sentence": "pipe is a kind of wind_instrument",
+        "label": "pipe IsA wind_instrument"
+    },
+    {
+        "sentence": "pipe is made of metal",
+        "label": "pipe MadeOf metal"
+    },
+    {
+        "sentence": "pit can be used with the same meaning of cavity",
+        "label": "pit Synonym cavity"
+    },
+    {
+        "sentence": "pit is a kind of cavity",
+        "label": "pit IsA cavity"
+    },
+    {
+        "sentence": "pit is a kind of depression",
+        "label": "pit IsA depression"
+    },
+    {
+        "sentence": "pit is a kind of hole",
+        "label": "pit IsA hole"
+    },
+    {
+        "sentence": "pit is a kind of place",
+        "label": "pit IsA place"
+    },
+    {
+        "sentence": "pit is a kind of trap",
+        "label": "pit IsA trap"
+    },
+    {
+        "sentence": "pitch is a kind of play",
+        "label": "pitch IsA play"
+    },
+    {
+        "sentence": "pitcher is a kind of person",
+        "label": "pitcher IsA person"
+    },
+    {
+        "sentence": "pitcher is a kind of player",
+        "label": "pitcher IsA player"
+    },
+    {
+        "sentence": "Pitcher is a kind of vessel",
+        "label": "pitcher IsA vessel"
+    },
+    {
+        "sentence": "pitcher is made of clay",
+        "label": "pitcher MadeOf clay"
+    },
+    {
+        "sentence": "place can be used with the same meaning of seat",
+        "label": "place Synonym seat"
+    },
+    {
+        "sentence": "place can be used with the same meaning of spot",
+        "label": "place Synonym spot"
+    },
+    {
+        "sentence": "place can be used with the same meaning of square",
+        "label": "place Synonym square"
+    },
+    {
+        "sentence": "place is a kind of rank",
+        "label": "place IsA rank"
+    },
+    {
+        "sentence": "plain can be characterized by flat",
+        "label": "plain HasProperty flat"
+    },
+    {
+        "sentence": "plain can be used as the opposite of complex",
+        "label": "plain Antonym complex"
+    },
+    {
+        "sentence": "plain can be used as the opposite of complicate",
+        "label": "plain Antonym complicate"
+    },
+    {
+        "sentence": "plain can be used as the opposite of decorate",
+        "label": "plain Antonym decorate"
+    },
+    {
+        "sentence": "plain can be used as the opposite of fancy",
+        "label": "plain Antonym fancy"
+    },
+    {
+        "sentence": "plain can be used as the opposite of pattern",
+        "label": "plain Antonym pattern"
+    },
+    {
+        "sentence": "plain can be used as the opposite of unique",
+        "label": "plain Antonym unique"
+    },
+    {
+        "sentence": "plain can be used with the same meaning of ordinary",
+        "label": "plain Synonym ordinary"
+    },
+    {
+        "sentence": "plain is a kind of land",
+        "label": "plain IsA land"
+    },
+    {
+        "sentence": "plan is a kind of business",
+        "label": "plan IsA business"
+    },
+    {
+        "sentence": "plan is a kind of idea",
+        "label": "plan IsA idea"
+    },
+    {
+        "sentence": "plan is a kind of think",
+        "label": "plan IsA think"
+    },
+    {
+        "sentence": "plan is made of step",
+        "label": "plan MadeOf step"
+    },
+    {
+        "sentence": "plane can be characterized by fast",
+        "label": "plane HasProperty fast"
+    },
+    {
+        "sentence": "plane can be characterized by fly",
+        "label": "plane HasProperty fly"
+    },
+    {
+        "sentence": "plane can be used with the same meaning of airplane",
+        "label": "plane Synonym airplane"
+    },
+    {
+        "sentence": "plane can have or can contain person",
+        "label": "plane HasA person"
+    },
+    {
+        "sentence": "plane can have or can contain tail",
+        "label": "plane HasA tail"
+    },
+    {
+        "sentence": "plane can have or can contain wing",
+        "label": "plane HasA wing"
+    },
+    {
+        "sentence": "plane is a kind of cut",
+        "label": "plane IsA cut"
+    },
+    {
+        "sentence": "plane is a kind of machine",
+        "label": "plane IsA machine"
+    },
+    {
+        "sentence": "plane is a kind of vehicle",
+        "label": "plane IsA vehicle"
+    },
+    {
+        "sentence": "planet can be characterized by beautiful",
+        "label": "planet HasProperty beautiful"
+    },
+    {
+        "sentence": "planet can be characterized by big",
+        "label": "planet HasProperty big"
+    },
+    {
+        "sentence": "planet can be characterized by large",
+        "label": "planet HasProperty large"
+    },
+    {
+        "sentence": "planet can have or can contain moon",
+        "label": "planet HasA moon"
+    },
+    {
+        "sentence": "planet can have or can contain size",
+        "label": "planet HasA size"
+    },
+    {
+        "sentence": "planet is a kind of world",
+        "label": "planet IsA world"
+    },
+    {
+        "sentence": "plant can be characterized by alive",
+        "label": "plant HasProperty alive"
+    },
+    {
+        "sentence": "plant can be characterized by green",
+        "label": "plant HasProperty green"
+    },
+    {
+        "sentence": "plant can be characterized by stationary",
+        "label": "plant HasProperty stationary"
+    },
+    {
+        "sentence": "plant can be used as the opposite of meat",
+        "label": "plant Antonym meat"
+    },
+    {
+        "sentence": "plant can be used as the opposite of rock",
+        "label": "plant Antonym rock"
+    },
+    {
+        "sentence": "plant can have or can contain flower",
+        "label": "plant HasA flower"
+    },
+    {
+        "sentence": "plant can have or can contain leave",
+        "label": "plant HasA leave"
+    },
+    {
+        "sentence": "plant can have or can contain liquid",
+        "label": "plant HasA liquid"
+    },
+    {
+        "sentence": "plant can have or can contain root",
+        "label": "plant HasA root"
+    },
+    {
+        "sentence": "plant is a kind of action",
+        "label": "plant IsA action"
+    },
+    {
+        "sentence": "plant is a kind of organism",
+        "label": "plant IsA organism"
+    },
+    {
+        "sentence": "plant is made of cell",
+        "label": "plant MadeOf cell"
+    },
+    {
+        "sentence": "plant is part of nature",
+        "label": "plant PartOf nature"
+    },
+    {
+        "sentence": "plastic can be characterized by cheap",
+        "label": "plastic HasProperty cheap"
+    },
+    {
+        "sentence": "plastic can be characterized by clear",
+        "label": "plastic HasProperty clear"
+    },
+    {
+        "sentence": "plastic can be characterized by hard",
+        "label": "plastic HasProperty hard"
+    },
+    {
+        "sentence": "plastic can be characterized by solid",
+        "label": "plastic HasProperty solid"
+    },
+    {
+        "sentence": "plastic is part of tv",
+        "label": "plastic PartOf tv"
+    },
+    {
+        "sentence": "plate is made of china",
+        "label": "plate MadeOf china"
+    },
+    {
+        "sentence": "plate is made of glass",
+        "label": "plate MadeOf glass"
+    },
+    {
+        "sentence": "play can be characterized by entertain",
+        "label": "play HasProperty entertain"
+    },
+    {
+        "sentence": "play can be characterized by fun",
+        "label": "play HasProperty fun"
+    },
+    {
+        "sentence": "play can be used as the opposite of grind",
+        "label": "play Antonym grind"
+    },
+    {
+        "sentence": "play can be used as the opposite of nothing",
+        "label": "play Antonym nothing"
+    },
+    {
+        "sentence": "play can be used as the opposite of rest",
+        "label": "play Antonym rest"
+    },
+    {
+        "sentence": "play can be used as the opposite of study",
+        "label": "play Antonym study"
+    },
+    {
+        "sentence": "play can be used as the opposite of work",
+        "label": "play Antonym work"
+    },
+    {
+        "sentence": "play can be used with the same meaning of drama",
+        "label": "play Synonym drama"
+    },
+    {
+        "sentence": "play is a kind of act",
+        "label": "play IsA act"
+    },
+    {
+        "sentence": "Play is a kind of film",
+        "label": "play IsA film"
+    },
+    {
+        "sentence": "play is a kind of fun",
+        "label": "play IsA fun"
+    },
+    {
+        "sentence": "play is a kind of move",
+        "label": "play IsA move"
+    },
+    {
+        "sentence": "play is a kind of perform",
+        "label": "play IsA perform"
+    },
+    {
+        "sentence": "play is a kind of performance",
+        "label": "play IsA performance"
+    },
+    {
+        "sentence": "play is a kind of show",
+        "label": "play IsA show"
+    },
+    {
+        "sentence": "play is a kind of use",
+        "label": "play IsA use"
+    },
+    {
+        "sentence": "play_game can be characterized by fun",
+        "label": "play_game HasProperty fun"
+    },
+    {
+        "sentence": "player is a kind of person",
+        "label": "player IsA person"
+    },
+    {
+        "sentence": "player is part of team",
+        "label": "player PartOf team"
+    },
+    {
+        "sentence": "Please can be used as the opposite of disgust",
+        "label": "please Antonym disgust"
+    },
+    {
+        "sentence": "pleasure can be used as the opposite of unhappiness",
+        "label": "pleasure Antonym unhappiness"
+    },
+    {
+        "sentence": "pleasure can be used with the same meaning of fancy",
+        "label": "pleasure Synonym fancy"
+    },
+    {
+        "sentence": "pleasure can be used with the same meaning of happiness",
+        "label": "pleasure Synonym happiness"
+    },
+    {
+        "sentence": "pleasure can be used with the same meaning of joy",
+        "label": "pleasure Synonym joy"
+    },
+    {
+        "sentence": "pleasure can be used with the same meaning of satisfaction",
+        "label": "pleasure Synonym satisfaction"
+    },
+    {
+        "sentence": "Pleasure is a kind of emotion",
+        "label": "pleasure IsA emotion"
+    },
+    {
+        "sentence": "pleasure is a kind of feel",
+        "label": "pleasure IsA feel"
+    },
+    {
+        "sentence": "plow is a kind of till",
+        "label": "plow IsA till"
+    },
+    {
+        "sentence": "Plow is a kind of tool",
+        "label": "plow IsA tool"
+    },
+    {
+        "sentence": "plow is true then also dig is true",
+        "label": "plow Entails dig"
+    },
+    {
+        "sentence": "pluck is a kind of pull",
+        "label": "pluck IsA pull"
+    },
+    {
+        "sentence": "pluto is made of rock",
+        "label": "pluto MadeOf rock"
+    },
+    {
+        "sentence": "poem can be used with the same meaning of lyric",
+        "label": "poem Synonym lyric"
+    },
+    {
+        "sentence": "point can be used as the opposite of flat",
+        "label": "point Antonym flat"
+    },
+    {
+        "sentence": "point can be used with the same meaning of end",
+        "label": "point Synonym end"
+    },
+    {
+        "sentence": "point can be used with the same meaning of mark",
+        "label": "point Synonym mark"
+    },
+    {
+        "sentence": "point can be used with the same meaning of place",
+        "label": "point Synonym place"
+    },
+    {
+        "sentence": "point can be used with the same meaning of sharp",
+        "label": "point Synonym sharp"
+    },
+    {
+        "sentence": "point can be used with the same meaning of spot",
+        "label": "point Synonym spot"
+    },
+    {
+        "sentence": "point can be used with the same meaning of time",
+        "label": "point Synonym time"
+    },
+    {
+        "sentence": "point can be used with the same meaning of view",
+        "label": "point Synonym view"
+    },
+    {
+        "sentence": "point is a kind of mark",
+        "label": "point IsA mark"
+    },
+    {
+        "sentence": "point is part of knife",
+        "label": "point PartOf knife"
+    },
+    {
+        "sentence": "point is part of needle",
+        "label": "point PartOf needle"
+    },
+    {
+        "sentence": "point is part of pencil",
+        "label": "point PartOf pencil"
+    },
+    {
+        "sentence": "point is part of pin",
+        "label": "point PartOf pin"
+    },
+    {
+        "sentence": "point is part of score",
+        "label": "point PartOf score"
+    },
+    {
+        "sentence": "point is part of sword",
+        "label": "point PartOf sword"
+    },
+    {
+        "sentence": "poison can be used as the opposite of drug",
+        "label": "poison Antonym drug"
+    },
+    {
+        "sentence": "poison can be used as the opposite of food",
+        "label": "poison Antonym food"
+    },
+    {
+        "sentence": "poison can be used as the opposite of good",
+        "label": "poison Antonym good"
+    },
+    {
+        "sentence": "poison can be used as the opposite of healthy",
+        "label": "poison Antonym healthy"
+    },
+    {
+        "sentence": "poison can be used as the opposite of safe",
+        "label": "poison Antonym safe"
+    },
+    {
+        "sentence": "poison can be used with the same meaning of contaminate",
+        "label": "poison Synonym contaminate"
+    },
+    {
+        "sentence": "poison can be used with the same meaning of corrupt",
+        "label": "poison Synonym corrupt"
+    },
+    {
+        "sentence": "poison is a kind of corrupt",
+        "label": "poison IsA corrupt"
+    },
+    {
+        "sentence": "poison is a kind of drug",
+        "label": "poison IsA drug"
+    },
+    {
+        "sentence": "poison is a kind of kill",
+        "label": "poison IsA kill"
+    },
+    {
+        "sentence": "police can be used with the same meaning of law",
+        "label": "police Synonym law"
+    },
+    {
+        "sentence": "police is a kind of human",
+        "label": "police IsA human"
+    },
+    {
+        "sentence": "police is a kind of person",
+        "label": "police IsA person"
+    },
+    {
+        "sentence": "police is part of government",
+        "label": "police PartOf government"
+    },
+    {
+        "sentence": "policeman can be used as the opposite of criminal",
+        "label": "policeman Antonym criminal"
+    },
+    {
+        "sentence": "Policeman is a kind of job",
+        "label": "policeman IsA job"
+    },
+    {
+        "sentence": "policeman is a member of police",
+        "label": "policeman MemberOf police"
+    },
+    {
+        "sentence": "polish can be used as the opposite of rough",
+        "label": "polish Antonym rough"
+    },
+    {
+        "sentence": "polish can be used with the same meaning of perfect",
+        "label": "polish Synonym perfect"
+    },
+    {
+        "sentence": "polish can be used with the same meaning of wax",
+        "label": "polish Synonym wax"
+    },
+    {
+        "sentence": "polish is a kind of perfect",
+        "label": "polish IsA perfect"
+    },
+    {
+        "sentence": "political_ideology is made of ideal",
+        "label": "political_ideology MadeOf ideal"
+    },
+    {
+        "sentence": "political_ideology is part of ideology",
+        "label": "political_ideology PartOf ideology"
+    },
+    {
+        "sentence": "politician can be characterized by corrupt",
+        "label": "politician HasProperty corrupt"
+    },
+    {
+        "sentence": "politician is a kind of human",
+        "label": "politician IsA human"
+    },
+    {
+        "sentence": "politician is a kind of leader",
+        "label": "politician IsA leader"
+    },
+    {
+        "sentence": "pollution can be characterized by bad",
+        "label": "pollution HasProperty bad"
+    },
+    {
+        "sentence": "pollution can be characterized by evil",
+        "label": "pollution HasProperty evil"
+    },
+    {
+        "sentence": "pool can be characterized by relax",
+        "label": "pool HasProperty relax"
+    },
+    {
+        "sentence": "pool can be used with the same meaning of pond",
+        "label": "pool Synonym pond"
+    },
+    {
+        "sentence": "pool can have or can contain water",
+        "label": "pool HasA water"
+    },
+    {
+        "sentence": "pool is a kind of game",
+        "label": "pool IsA game"
+    },
+    {
+        "sentence": "pool is a kind of group",
+        "label": "pool IsA group"
+    },
+    {
+        "sentence": "poop can be characterized by disgust",
+        "label": "poop HasProperty disgust"
+    },
+    {
+        "sentence": "poop can be characterized by unpleasant",
+        "label": "poop HasProperty unpleasant"
+    },
+    {
+        "sentence": "Pop can be used with the same meaning of soft_drink",
+        "label": "pop Synonym soft_drink"
+    },
+    {
+        "sentence": "pop is a kind of business",
+        "label": "pop IsA business"
+    },
+    {
+        "sentence": "pop is a kind of sound",
+        "label": "pop IsA sound"
+    },
+    {
+        "sentence": "population can be used as the opposite of person",
+        "label": "population Antonym person"
+    },
+    {
+        "sentence": "population is a kind of person",
+        "label": "population IsA person"
+    },
+    {
+        "sentence": "positive can be used as the opposite of bad",
+        "label": "positive Antonym bad"
+    },
+    {
+        "sentence": "positive can be used as the opposite of evil",
+        "label": "positive Antonym evil"
+    },
+    {
+        "sentence": "Positive can be used as the opposite of uncertain",
+        "label": "positive Antonym uncertain"
+    },
+    {
+        "sentence": "post is a kind of record",
+        "label": "post IsA record"
+    },
+    {
+        "sentence": "pot can have or can contain flower",
+        "label": "pot HasA flower"
+    },
+    {
+        "sentence": "pot can have or can contain water",
+        "label": "pot HasA water"
+    },
+    {
+        "sentence": "pot is a kind of cannabis",
+        "label": "pot IsA cannabis"
+    },
+    {
+        "sentence": "pot is a kind of pan",
+        "label": "pot IsA pan"
+    },
+    {
+        "sentence": "pot is made of clay",
+        "label": "pot MadeOf clay"
+    },
+    {
+        "sentence": "potato is a kind of plant",
+        "label": "potato IsA plant"
+    },
+    {
+        "sentence": "potato is part of plant",
+        "label": "potato PartOf plant"
+    },
+    {
+        "sentence": "pound is a kind of blow",
+        "label": "pound IsA blow"
+    },
+    {
+        "sentence": "power can be characterized by corrupt",
+        "label": "power HasProperty corrupt"
+    },
+    {
+        "sentence": "power can be used with the same meaning of control",
+        "label": "power Synonym control"
+    },
+    {
+        "sentence": "power can be used with the same meaning of energy",
+        "label": "power Synonym energy"
+    },
+    {
+        "sentence": "power can be used with the same meaning of hold",
+        "label": "power Synonym hold"
+    },
+    {
+        "sentence": "power can be used with the same meaning of main",
+        "label": "power Synonym main"
+    },
+    {
+        "sentence": "power can be used with the same meaning of muscle",
+        "label": "power Synonym muscle"
+    },
+    {
+        "sentence": "power can be used with the same meaning of pull",
+        "label": "power Synonym pull"
+    },
+    {
+        "sentence": "power can be used with the same meaning of weight",
+        "label": "power Synonym weight"
+    },
+    {
+        "sentence": "power is a kind of business",
+        "label": "power IsA business"
+    },
+    {
+        "sentence": "practice can be used as the opposite of performance",
+        "label": "practice Antonym performance"
+    },
+    {
+        "sentence": "practice can be used as the opposite of theory",
+        "label": "practice Antonym theory"
+    },
+    {
+        "sentence": "practice can be used with the same meaning of exercise",
+        "label": "practice Synonym exercise"
+    },
+    {
+        "sentence": "practice can be used with the same meaning of train",
+        "label": "practice Synonym train"
+    },
+    {
+        "sentence": "practice can be used with the same meaning of trial",
+        "label": "practice Synonym trial"
+    },
+    {
+        "sentence": "praise can be characterized by good",
+        "label": "praise HasProperty good"
+    },
+    {
+        "sentence": "praise can be characterized by important",
+        "label": "praise HasProperty important"
+    },
+    {
+        "sentence": "praise can be characterized by live",
+        "label": "praise HasProperty live"
+    },
+    {
+        "sentence": "praise can be characterized by sweet",
+        "label": "praise HasProperty sweet"
+    },
+    {
+        "sentence": "praise is part of church",
+        "label": "praise PartOf church"
+    },
+    {
+        "sentence": "present can be used as the opposite of late",
+        "label": "present Antonym late"
+    },
+    {
+        "sentence": "present is a kind of time",
+        "label": "present IsA time"
+    },
+    {
+        "sentence": "president can be characterized by important",
+        "label": "president HasProperty important"
+    },
+    {
+        "sentence": "press can be used as the opposite of lift",
+        "label": "press Antonym lift"
+    },
+    {
+        "sentence": "press can be used as the opposite of pull",
+        "label": "press Antonym pull"
+    },
+    {
+        "sentence": "pretend can be used with the same meaning of act",
+        "label": "pretend Synonym act"
+    },
+    {
+        "sentence": "pretend can be used with the same meaning of lie",
+        "label": "pretend Synonym lie"
+    },
+    {
+        "sentence": "price can be used as the opposite of free",
+        "label": "price Antonym free"
+    },
+    {
+        "sentence": "price is a kind of value",
+        "label": "price IsA value"
+    },
+    {
+        "sentence": "pride is a kind of feel",
+        "label": "pride IsA feel"
+    },
+    {
+        "sentence": "pride is a kind of satisfaction",
+        "label": "pride IsA satisfaction"
+    },
+    {
+        "sentence": "priest is a kind of clergyman",
+        "label": "priest IsA clergyman"
+    },
+    {
+        "sentence": "priest is a kind of person",
+        "label": "priest IsA person"
+    },
+    {
+        "sentence": "priest is part of order",
+        "label": "priest PartOf order"
+    },
+    {
+        "sentence": "prime can be used with the same meaning of bloom",
+        "label": "prime Synonym bloom"
+    },
+    {
+        "sentence": "Prime can be used with the same meaning of quality",
+        "label": "prime Synonym quality"
+    },
+    {
+        "sentence": "Prime is a kind of number",
+        "label": "prime IsA number"
+    },
+    {
+        "sentence": "prince is a kind of person",
+        "label": "prince IsA person"
+    },
+    {
+        "sentence": "Print is a kind of reproduce",
+        "label": "print IsA reproduce"
+    },
+    {
+        "sentence": "prison can be characterized by bad",
+        "label": "prison HasProperty bad"
+    },
+    {
+        "sentence": "prison can be characterized by unpleasant",
+        "label": "prison HasProperty unpleasant"
+    },
+    {
+        "sentence": "prison is a kind of build",
+        "label": "prison IsA build"
+    },
+    {
+        "sentence": "private can be used as the opposite of open",
+        "label": "private Antonym open"
+    },
+    {
+        "sentence": "private can be used as the opposite of see",
+        "label": "private Antonym see"
+    },
+    {
+        "sentence": "private can be used as the opposite of share",
+        "label": "private Antonym share"
+    },
+    {
+        "sentence": "problem can be characterized by bad",
+        "label": "problem HasProperty bad"
+    },
+    {
+        "sentence": "problem can be used as the opposite of good",
+        "label": "problem Antonym good"
+    },
+    {
+        "sentence": "problem can be used as the opposite of solution",
+        "label": "problem Antonym solution"
+    },
+    {
+        "sentence": "problem can be used as the opposite of solve",
+        "label": "problem Antonym solve"
+    },
+    {
+        "sentence": "problem can be used with the same meaning of challenge",
+        "label": "problem Synonym challenge"
+    },
+    {
+        "sentence": "problem can be used with the same meaning of matter",
+        "label": "problem Synonym matter"
+    },
+    {
+        "sentence": "problem is a kind of question",
+        "label": "problem IsA question"
+    },
+    {
+        "sentence": "produce can be used as the opposite of consume",
+        "label": "produce Antonym consume"
+    },
+    {
+        "sentence": "produce can be used as the opposite of destroy",
+        "label": "produce Antonym destroy"
+    },
+    {
+        "sentence": "produce is a kind of food",
+        "label": "produce IsA food"
+    },
+    {
+        "sentence": "produce is a kind of make",
+        "label": "produce IsA make"
+    },
+    {
+        "sentence": "professor is a kind of job",
+        "label": "professor IsA job"
+    },
+    {
+        "sentence": "professor is a member of staff",
+        "label": "professor MemberOf staff"
+    },
+    {
+        "sentence": "profit can be used as the opposite of benefit",
+        "label": "profit Antonym benefit"
+    },
+    {
+        "sentence": "profit can be used as the opposite of negative",
+        "label": "profit Antonym negative"
+    },
+    {
+        "sentence": "program can have or can contain bug",
+        "label": "program HasA bug"
+    },
+    {
+        "sentence": "program is a kind of performance",
+        "label": "program IsA performance"
+    },
+    {
+        "sentence": "program is a kind of work",
+        "label": "program IsA work"
+    },
+    {
+        "sentence": "program is made of instruction",
+        "label": "program MadeOf instruction"
+    },
+    {
+        "sentence": "Promotion is a kind of change",
+        "label": "promotion IsA change"
+    },
+    {
+        "sentence": "property can be used with the same meaning of land",
+        "label": "property Synonym land"
+    },
+    {
+        "sentence": "property is a kind of object",
+        "label": "property IsA object"
+    },
+    {
+        "sentence": "property is part of culture",
+        "label": "property PartOf culture"
+    },
+    {
+        "sentence": "prosecution is part of trial",
+        "label": "prosecution PartOf trial"
+    },
+    {
+        "sentence": "protect can be used as the opposite of hurt",
+        "label": "protect Antonym hurt"
+    },
+    {
+        "sentence": "protect can be used as the opposite of injure",
+        "label": "protect Antonym injure"
+    },
+    {
+        "sentence": "protect can be used as the opposite of save",
+        "label": "protect Antonym save"
+    },
+    {
+        "sentence": "protect can be used as the opposite of vulnerable",
+        "label": "protect Antonym vulnerable"
+    },
+    {
+        "sentence": "protect can be used with the same meaning of cover",
+        "label": "protect Synonym cover"
+    },
+    {
+        "sentence": "protect can be used with the same meaning of save",
+        "label": "protect Synonym save"
+    },
+    {
+        "sentence": "proton is part of atom",
+        "label": "proton PartOf atom"
+    },
+    {
+        "sentence": "proud can be used as the opposite of humble",
+        "label": "proud Antonym humble"
+    },
+    {
+        "sentence": "puff is part of smoke",
+        "label": "puff PartOf smoke"
+    },
+    {
+        "sentence": "puff is true then also smoke is true",
+        "label": "puff Entails smoke"
+    },
+    {
+        "sentence": "pull can be used as the opposite of push",
+        "label": "pull Antonym push"
+    },
+    {
+        "sentence": "pull can be used with the same meaning of get",
+        "label": "pull Synonym get"
+    },
+    {
+        "sentence": "pull can be used with the same meaning of handle",
+        "label": "pull Synonym handle"
+    },
+    {
+        "sentence": "pull is a kind of injure",
+        "label": "pull IsA injure"
+    },
+    {
+        "sentence": "pull is a kind of move",
+        "label": "pull IsA move"
+    },
+    {
+        "sentence": "pull is a kind of remove",
+        "label": "pull IsA remove"
+    },
+    {
+        "sentence": "punishment can be used as the opposite of crime",
+        "label": "punishment Antonym crime"
+    },
+    {
+        "sentence": "punishment can be used as the opposite of praise",
+        "label": "punishment Antonym praise"
+    },
+    {
+        "sentence": "punishment can be used as the opposite of reward",
+        "label": "punishment Antonym reward"
+    },
+    {
+        "sentence": "punishment can be used with the same meaning of beat",
+        "label": "punishment Synonym beat"
+    },
+    {
+        "sentence": "pupil can be used as the opposite of teacher",
+        "label": "pupil Antonym teacher"
+    },
+    {
+        "sentence": "pupil can be used with the same meaning of follower",
+        "label": "pupil Synonym follower"
+    },
+    {
+        "sentence": "pupil can be used with the same meaning of student",
+        "label": "pupil Synonym student"
+    },
+    {
+        "sentence": "pupil is part of class",
+        "label": "pupil PartOf class"
+    },
+    {
+        "sentence": "pupil is part of eye",
+        "label": "pupil PartOf eye"
+    },
+    {
+        "sentence": "puppy can be characterized by love",
+        "label": "puppy HasProperty love"
+    },
+    {
+        "sentence": "puppy can be characterized by soft",
+        "label": "puppy HasProperty soft"
+    },
+    {
+        "sentence": "puppy is a kind of animal",
+        "label": "puppy IsA animal"
+    },
+    {
+        "sentence": "puppy is a kind of dog",
+        "label": "puppy IsA dog"
+    },
+    {
+        "sentence": "purpose can be used with the same meaning of effect",
+        "label": "purpose Synonym effect"
+    },
+    {
+        "sentence": "purpose can be used with the same meaning of end",
+        "label": "purpose Synonym end"
+    },
+    {
+        "sentence": "purpose can be used with the same meaning of matter",
+        "label": "purpose Synonym matter"
+    },
+    {
+        "sentence": "purpose can be used with the same meaning of mean",
+        "label": "purpose Synonym mean"
+    },
+    {
+        "sentence": "purpose can be used with the same meaning of object",
+        "label": "purpose Synonym object"
+    },
+    {
+        "sentence": "purpose can be used with the same meaning of plan",
+        "label": "purpose Synonym plan"
+    },
+    {
+        "sentence": "purpose can be used with the same meaning of reason",
+        "label": "purpose Synonym reason"
+    },
+    {
+        "sentence": "purpose is a kind of goal",
+        "label": "purpose IsA goal"
+    },
+    {
+        "sentence": "push can be used with the same meaning of approach",
+        "label": "push Synonym approach"
+    },
+    {
+        "sentence": "push can be used with the same meaning of press",
+        "label": "push Synonym press"
+    },
+    {
+        "sentence": "push is true then also move is true",
+        "label": "push Entails move"
+    },
+    {
+        "sentence": "quality can be used as the opposite of bad",
+        "label": "quality Antonym bad"
+    },
+    {
+        "sentence": "quality can be used as the opposite of cheap",
+        "label": "quality Antonym cheap"
+    },
+    {
+        "sentence": "quality can be used as the opposite of low",
+        "label": "quality Antonym low"
+    },
+    {
+        "sentence": "quality can be used as the opposite of rubbish",
+        "label": "quality Antonym rubbish"
+    },
+    {
+        "sentence": "quality is a kind of degree",
+        "label": "quality IsA degree"
+    },
+    {
+        "sentence": "queen can be characterized by female",
+        "label": "queen HasProperty female"
+    },
+    {
+        "sentence": "queen can be characterized by old",
+        "label": "queen HasProperty old"
+    },
+    {
+        "sentence": "queen can be characterized by royal",
+        "label": "queen HasProperty royal"
+    },
+    {
+        "sentence": "queen can be used with the same meaning of homosexual",
+        "label": "queen Synonym homosexual"
+    },
+    {
+        "sentence": "queen is a kind of bitch",
+        "label": "queen IsA bitch"
+    },
+    {
+        "sentence": "queen is a kind of insect",
+        "label": "queen IsA insect"
+    },
+    {
+        "sentence": "queen is a kind of person",
+        "label": "queen IsA person"
+    },
+    {
+        "sentence": "queen is a kind of woman",
+        "label": "queen IsA woman"
+    },
+    {
+        "sentence": "quench is true then also consume is true",
+        "label": "quench Entails consume"
+    },
+    {
+        "sentence": "question can be used as the opposite of statement",
+        "label": "question Antonym statement"
+    },
+    {
+        "sentence": "question can be used with the same meaning of problem",
+        "label": "question Synonym problem"
+    },
+    {
+        "sentence": "Quiet can be used as the opposite of movement",
+        "label": "quiet Antonym movement"
+    },
+    {
+        "sentence": "quiet can be used as the opposite of shout",
+        "label": "quiet Antonym shout"
+    },
+    {
+        "sentence": "quiet can be used as the opposite of sound",
+        "label": "quiet Antonym sound"
+    },
+    {
+        "sentence": "quiet can be used as the opposite of talk",
+        "label": "quiet Antonym talk"
+    },
+    {
+        "sentence": "quilt is a kind of blanket",
+        "label": "quilt IsA blanket"
+    },
+    {
+        "sentence": "quilt is made of fabric",
+        "label": "quilt MadeOf fabric"
+    },
+    {
+        "sentence": "quilt is true then also sew is true",
+        "label": "quilt Entails sew"
+    },
+    {
+        "sentence": "rabbit can be characterized by fast",
+        "label": "rabbit HasProperty fast"
+    },
+    {
+        "sentence": "rabbit can have or can contain fur",
+        "label": "rabbit HasA fur"
+    },
+    {
+        "sentence": "rabbit is a kind of meat",
+        "label": "rabbit IsA meat"
+    },
+    {
+        "sentence": "rabbit is a member of warren",
+        "label": "rabbit MemberOf warren"
+    },
+    {
+        "sentence": "rabbit is part of animal",
+        "label": "rabbit PartOf animal"
+    },
+    {
+        "sentence": "race can be characterized by fun",
+        "label": "race HasProperty fun"
+    },
+    {
+        "sentence": "race can be characterized by time",
+        "label": "race HasProperty time"
+    },
+    {
+        "sentence": "race can be used as the opposite of slow",
+        "label": "race Antonym slow"
+    },
+    {
+        "sentence": "Race is a kind of act",
+        "label": "race IsA act"
+    },
+    {
+        "sentence": "race is a kind of move",
+        "label": "race IsA move"
+    },
+    {
+        "sentence": "race is a kind of play",
+        "label": "race IsA play"
+    },
+    {
+        "sentence": "race is a kind of sport",
+        "label": "race IsA sport"
+    },
+    {
+        "sentence": "rack can be used with the same meaning of stand",
+        "label": "rack Synonym stand"
+    },
+    {
+        "sentence": "rack is a kind of support",
+        "label": "rack IsA support"
+    },
+    {
+        "sentence": "rack is true then also stretch is true",
+        "label": "rack Entails stretch"
+    },
+    {
+        "sentence": "radio can be used as the opposite of television",
+        "label": "radio Antonym television"
+    },
+    {
+        "sentence": "radio can be used as the opposite of tv",
+        "label": "radio Antonym tv"
+    },
+    {
+        "sentence": "Rage is a kind of action",
+        "label": "rage IsA action"
+    },
+    {
+        "sentence": "rain can be characterized by cold",
+        "label": "rain HasProperty cold"
+    },
+    {
+        "sentence": "rain can be characterized by depress",
+        "label": "rain HasProperty depress"
+    },
+    {
+        "sentence": "rain can be characterized by fall",
+        "label": "rain HasProperty fall"
+    },
+    {
+        "sentence": "rain can be characterized by water",
+        "label": "rain HasProperty water"
+    },
+    {
+        "sentence": "rain can be characterized by wet",
+        "label": "rain HasProperty wet"
+    },
+    {
+        "sentence": "rain can be used as the opposite of dry",
+        "label": "rain Antonym dry"
+    },
+    {
+        "sentence": "rain can be used as the opposite of snow",
+        "label": "rain Antonym snow"
+    },
+    {
+        "sentence": "rain can be used as the opposite of sun",
+        "label": "rain Antonym sun"
+    },
+    {
+        "sentence": "rain can be used as the opposite of sunshine",
+        "label": "rain Antonym sunshine"
+    },
+    {
+        "sentence": "rain can have or can contain oxygen",
+        "label": "rain HasA oxygen"
+    },
+    {
+        "sentence": "rain is a kind of water",
+        "label": "rain IsA water"
+    },
+    {
+        "sentence": "rain is a kind of weather",
+        "label": "rain IsA weather"
+    },
+    {
+        "sentence": "rain is made of water",
+        "label": "rain MadeOf water"
+    },
+    {
+        "sentence": "rain is part of weather",
+        "label": "rain PartOf weather"
+    },
+    {
+        "sentence": "raise can be used as the opposite of cut",
+        "label": "raise Antonym cut"
+    },
+    {
+        "sentence": "raise can be used as the opposite of down",
+        "label": "raise Antonym down"
+    },
+    {
+        "sentence": "raise can be used as the opposite of fall",
+        "label": "raise Antonym fall"
+    },
+    {
+        "sentence": "raise can be used as the opposite of push",
+        "label": "raise Antonym push"
+    },
+    {
+        "sentence": "raise can be used with the same meaning of lift",
+        "label": "raise Synonym lift"
+    },
+    {
+        "sentence": "raise is a kind of construct",
+        "label": "raise IsA construct"
+    },
+    {
+        "sentence": "raise is a kind of move",
+        "label": "raise IsA move"
+    },
+    {
+        "sentence": "ram can be used with the same meaning of pack",
+        "label": "ram Synonym pack"
+    },
+    {
+        "sentence": "Ram is a kind of device",
+        "label": "ram IsA device"
+    },
+    {
+        "sentence": "ram is a kind of sheep",
+        "label": "ram IsA sheep"
+    },
+    {
+        "sentence": "ram is a kind of weapon",
+        "label": "ram IsA weapon"
+    },
+    {
+        "sentence": "ram is part of computer",
+        "label": "ram PartOf computer"
+    },
+    {
+        "sentence": "ranch can be characterized by large",
+        "label": "ranch HasProperty large"
+    },
+    {
+        "sentence": "ranch can have or can contain bedroom",
+        "label": "ranch HasA bedroom"
+    },
+    {
+        "sentence": "ranch can have or can contain horse",
+        "label": "ranch HasA horse"
+    },
+    {
+        "sentence": "ranch is a kind of build",
+        "label": "ranch IsA build"
+    },
+    {
+        "sentence": "ranch is a kind of place",
+        "label": "ranch IsA place"
+    },
+    {
+        "sentence": "range is a kind of scale",
+        "label": "range IsA scale"
+    },
+    {
+        "sentence": "rank is a kind of line",
+        "label": "rank IsA line"
+    },
+    {
+        "sentence": "rank is a kind of stand",
+        "label": "rank IsA stand"
+    },
+    {
+        "sentence": "rapid can be used as the opposite of slow",
+        "label": "rapid Antonym slow"
+    },
+    {
+        "sentence": "rapid is part of river",
+        "label": "rapid PartOf river"
+    },
+    {
+        "sentence": "razor is made of metal",
+        "label": "razor MadeOf metal"
+    },
+    {
+        "sentence": "reach can be used as the opposite of leave",
+        "label": "reach Antonym leave"
+    },
+    {
+        "sentence": "reach can be used as the opposite of miss",
+        "label": "reach Antonym miss"
+    },
+    {
+        "sentence": "reach can be used as the opposite of pull",
+        "label": "reach Antonym pull"
+    },
+    {
+        "sentence": "reach is a kind of arrive",
+        "label": "reach IsA arrive"
+    },
+    {
+        "sentence": "reach is a kind of move",
+        "label": "reach IsA move"
+    },
+    {
+        "sentence": "read can be characterized by fun",
+        "label": "read HasProperty fun"
+    },
+    {
+        "sentence": "read can be characterized by good",
+        "label": "read HasProperty good"
+    },
+    {
+        "sentence": "read can be characterized by important",
+        "label": "read HasProperty important"
+    },
+    {
+        "sentence": "read can be used as the opposite of arithmetic",
+        "label": "read Antonym arithmetic"
+    },
+    {
+        "sentence": "read can be used as the opposite of listen",
+        "label": "read Antonym listen"
+    },
+    {
+        "sentence": "read can be used as the opposite of picture",
+        "label": "read Antonym picture"
+    },
+    {
+        "sentence": "read can be used as the opposite of speak",
+        "label": "read Antonym speak"
+    },
+    {
+        "sentence": "read can be used as the opposite of watch",
+        "label": "read Antonym watch"
+    },
+    {
+        "sentence": "read can be used as the opposite of write",
+        "label": "read Antonym write"
+    },
+    {
+        "sentence": "read can be used with the same meaning of learn",
+        "label": "read Synonym learn"
+    },
+    {
+        "sentence": "read can be used with the same meaning of study",
+        "label": "read Synonym study"
+    },
+    {
+        "sentence": "read can be used with the same meaning of understand",
+        "label": "read Synonym understand"
+    },
+    {
+        "sentence": "read is a kind of learn",
+        "label": "read IsA learn"
+    },
+    {
+        "sentence": "read is a kind of study",
+        "label": "read IsA study"
+    },
+    {
+        "sentence": "read is a kind of talk",
+        "label": "read IsA talk"
+    },
+    {
+        "sentence": "real can be used as the opposite of ghost",
+        "label": "real Antonym ghost"
+    },
+    {
+        "sentence": "real can be used as the opposite of pretend",
+        "label": "real Antonym pretend"
+    },
+    {
+        "sentence": "reason is a kind of fact",
+        "label": "reason IsA fact"
+    },
+    {
+        "sentence": "recess can be characterized by good",
+        "label": "recess HasProperty good"
+    },
+    {
+        "sentence": "recognize can be used as the opposite of unknown",
+        "label": "recognize Antonym unknown"
+    },
+    {
+        "sentence": "recognize is true then also know is true",
+        "label": "recognize Entails know"
+    },
+    {
+        "sentence": "record can be used as the opposite of cd",
+        "label": "record Antonym cd"
+    },
+    {
+        "sentence": "record can be used as the opposite of play",
+        "label": "record Antonym play"
+    },
+    {
+        "sentence": "record can be used as the opposite of tape",
+        "label": "record Antonym tape"
+    },
+    {
+        "sentence": "record can be used with the same meaning of log",
+        "label": "record Synonym log"
+    },
+    {
+        "sentence": "record can have or can contain information",
+        "label": "record HasA information"
+    },
+    {
+        "sentence": "record is a kind of fact",
+        "label": "record IsA fact"
+    },
+    {
+        "sentence": "recreation can be characterized by fun",
+        "label": "recreation HasProperty fun"
+    },
+    {
+        "sentence": "recreation can be characterized by healthy",
+        "label": "recreation HasProperty healthy"
+    },
+    {
+        "sentence": "recreation can be used with the same meaning of relaxation",
+        "label": "recreation Synonym relaxation"
+    },
+    {
+        "sentence": "recycle can be characterized by friendly",
+        "label": "recycle HasProperty friendly"
+    },
+    {
+        "sentence": "recycle can be characterized by good",
+        "label": "recycle HasProperty good"
+    },
+    {
+        "sentence": "red can be characterized by color",
+        "label": "red HasProperty color"
+    },
+    {
+        "sentence": "red is a kind of color",
+        "label": "red IsA color"
+    },
+    {
+        "sentence": "Red is a kind of movie",
+        "label": "red IsA movie"
+    },
+    {
+        "sentence": "reduce can be used as the opposite of expand",
+        "label": "reduce Antonym expand"
+    },
+    {
+        "sentence": "reduce can be used as the opposite of grow",
+        "label": "reduce Antonym grow"
+    },
+    {
+        "sentence": "reduce can be used as the opposite of growth",
+        "label": "reduce Antonym growth"
+    },
+    {
+        "sentence": "reduce can be used as the opposite of make",
+        "label": "reduce Antonym make"
+    },
+    {
+        "sentence": "reduce can be used as the opposite of up",
+        "label": "reduce Antonym up"
+    },
+    {
+        "sentence": "reduce can be used with the same meaning of cut",
+        "label": "reduce Synonym cut"
+    },
+    {
+        "sentence": "reduce is a kind of separate",
+        "label": "reduce IsA separate"
+    },
+    {
+        "sentence": "refuse can be characterized by waste",
+        "label": "refuse HasProperty waste"
+    },
+    {
+        "sentence": "refuse can be used as the opposite of take",
+        "label": "refuse Antonym take"
+    },
+    {
+        "sentence": "refuse can be used as the opposite of want",
+        "label": "refuse Antonym want"
+    },
+    {
+        "sentence": "Refuse can be used with the same meaning of rubbish",
+        "label": "refuse Synonym rubbish"
+    },
+    {
+        "sentence": "refuse can be used with the same meaning of trash",
+        "label": "refuse Synonym trash"
+    },
+    {
+        "sentence": "Regret can be used as the opposite of feel_good",
+        "label": "regret Antonym feel_good"
+    },
+    {
+        "sentence": "Regular is a kind of soldier",
+        "label": "regular IsA soldier"
+    },
+    {
+        "sentence": "Relationship is a kind of state",
+        "label": "relationship IsA state"
+    },
+    {
+        "sentence": "relax can be used as the opposite of stress",
+        "label": "relax Antonym stress"
+    },
+    {
+        "sentence": "relax is a kind of act",
+        "label": "relax IsA act"
+    },
+    {
+        "sentence": "relax is a kind of change",
+        "label": "relax IsA change"
+    },
+    {
+        "sentence": "relaxation can be used as the opposite of stress",
+        "label": "relaxation Antonym stress"
+    },
+    {
+        "sentence": "relaxation can be used with the same meaning of relax",
+        "label": "relaxation Synonym relax"
+    },
+    {
+        "sentence": "relaxation is part of recreation",
+        "label": "relaxation PartOf recreation"
+    },
+    {
+        "sentence": "relief can be used with the same meaning of comfort",
+        "label": "relief Synonym comfort"
+    },
+    {
+        "sentence": "relief is a kind of aid",
+        "label": "relief IsA aid"
+    },
+    {
+        "sentence": "relief is a kind of comfort",
+        "label": "relief IsA comfort"
+    },
+    {
+        "sentence": "religion can be characterized by bad",
+        "label": "religion HasProperty bad"
+    },
+    {
+        "sentence": "religion can be characterized by confuse",
+        "label": "religion HasProperty confuse"
+    },
+    {
+        "sentence": "religion can be characterized by cool",
+        "label": "religion HasProperty cool"
+    },
+    {
+        "sentence": "religion can be characterized by evil",
+        "label": "religion HasProperty evil"
+    },
+    {
+        "sentence": "religion can be used as the opposite of science",
+        "label": "religion Antonym science"
+    },
+    {
+        "sentence": "Religion is a kind of ideology",
+        "label": "religion IsA ideology"
+    },
+    {
+        "sentence": "religion is part of culture",
+        "label": "religion PartOf culture"
+    },
+    {
+        "sentence": "remember is a kind of dream",
+        "label": "remember IsA dream"
+    },
+    {
+        "sentence": "rent can be used as the opposite of free",
+        "label": "rent Antonym free"
+    },
+    {
+        "sentence": "rent is a kind of contract",
+        "label": "rent IsA contract"
+    },
+    {
+        "sentence": "report is a kind of document",
+        "label": "report IsA document"
+    },
+    {
+        "sentence": "report is a kind of story",
+        "label": "report IsA story"
+    },
+    {
+        "sentence": "republican is a kind of politician",
+        "label": "republican IsA politician"
+    },
+    {
+        "sentence": "residence can be used with the same meaning of dwell",
+        "label": "residence Synonym dwell"
+    },
+    {
+        "sentence": "residence is a kind of address",
+        "label": "residence IsA address"
+    },
+    {
+        "sentence": "residence is a kind of build",
+        "label": "residence IsA build"
+    },
+    {
+        "sentence": "residence is a kind of house",
+        "label": "residence IsA house"
+    },
+    {
+        "sentence": "residence is a kind of place",
+        "label": "residence IsA place"
+    },
+    {
+        "sentence": "respect can be used as the opposite of disgust",
+        "label": "respect Antonym disgust"
+    },
+    {
+        "sentence": "respect can be used as the opposite of dislike",
+        "label": "respect Antonym dislike"
+    },
+    {
+        "sentence": "respect can be used as the opposite of nasty",
+        "label": "respect Antonym nasty"
+    },
+    {
+        "sentence": "respect can be used with the same meaning of admire",
+        "label": "respect Synonym admire"
+    },
+    {
+        "sentence": "respect is a kind of emotion",
+        "label": "respect IsA emotion"
+    },
+    {
+        "sentence": "respect is a kind of see",
+        "label": "respect IsA see"
+    },
+    {
+        "sentence": "rest can be used as the opposite of action",
+        "label": "rest Antonym action"
+    },
+    {
+        "sentence": "rest can be used as the opposite of active",
+        "label": "rest Antonym active"
+    },
+    {
+        "sentence": "rest can be used as the opposite of awake",
+        "label": "rest Antonym awake"
+    },
+    {
+        "sentence": "rest can be used as the opposite of busy",
+        "label": "rest Antonym busy"
+    },
+    {
+        "sentence": "rest can be used as the opposite of energy",
+        "label": "rest Antonym energy"
+    },
+    {
+        "sentence": "rest can be used as the opposite of tire",
+        "label": "rest Antonym tire"
+    },
+    {
+        "sentence": "rest can be used as the opposite of use",
+        "label": "rest Antonym use"
+    },
+    {
+        "sentence": "rest can be used as the opposite of wake",
+        "label": "rest Antonym wake"
+    },
+    {
+        "sentence": "rest can be used as the opposite of work",
+        "label": "rest Antonym work"
+    },
+    {
+        "sentence": "rest can be used with the same meaning of break",
+        "label": "rest Synonym break"
+    },
+    {
+        "sentence": "rest can be used with the same meaning of lie",
+        "label": "rest Synonym lie"
+    },
+    {
+        "sentence": "rest can be used with the same meaning of peace",
+        "label": "rest Synonym peace"
+    },
+    {
+        "sentence": "rest can be used with the same meaning of place",
+        "label": "rest Synonym place"
+    },
+    {
+        "sentence": "rest can be used with the same meaning of relax",
+        "label": "rest Synonym relax"
+    },
+    {
+        "sentence": "rest can be used with the same meaning of sleep",
+        "label": "rest Synonym sleep"
+    },
+    {
+        "sentence": "rest can be used with the same meaning of support",
+        "label": "rest Synonym support"
+    },
+    {
+        "sentence": "rest is a kind of death",
+        "label": "rest IsA death"
+    },
+    {
+        "sentence": "rest is a kind of support",
+        "label": "rest IsA support"
+    },
+    {
+        "sentence": "result can be used as the opposite of begin",
+        "label": "result Antonym begin"
+    },
+    {
+        "sentence": "Result is a kind of end",
+        "label": "result IsA end"
+    },
+    {
+        "sentence": "result is a kind of happen",
+        "label": "result IsA happen"
+    },
+    {
+        "sentence": "retire can be used with the same meaning of go_to_bed",
+        "label": "retire Synonym go_to_bed"
+    },
+    {
+        "sentence": "reverse is a kind of gear",
+        "label": "reverse IsA gear"
+    },
+    {
+        "sentence": "reverse is a kind of run",
+        "label": "reverse IsA run"
+    },
+    {
+        "sentence": "reverse is a kind of side",
+        "label": "reverse IsA side"
+    },
+    {
+        "sentence": "reverse is part of car",
+        "label": "reverse PartOf car"
+    },
+    {
+        "sentence": "reward can be used as the opposite of fee",
+        "label": "reward Antonym fee"
+    },
+    {
+        "sentence": "reward can be used as the opposite of steal",
+        "label": "reward Antonym steal"
+    },
+    {
+        "sentence": "Reward can be used as the opposite of stick",
+        "label": "reward Antonym stick"
+    },
+    {
+        "sentence": "reward can be used with the same meaning of payment",
+        "label": "reward Synonym payment"
+    },
+    {
+        "sentence": "reward is a kind of payment",
+        "label": "reward IsA payment"
+    },
+    {
+        "sentence": "ribbon can be characterized by red",
+        "label": "ribbon HasProperty red"
+    },
+    {
+        "sentence": "ribbon can be characterized by thin",
+        "label": "ribbon HasProperty thin"
+    },
+    {
+        "sentence": "ribbon can be characterized by yellow",
+        "label": "ribbon HasProperty yellow"
+    },
+    {
+        "sentence": "rice can be used as the opposite of potato",
+        "label": "rice Antonym potato"
+    },
+    {
+        "sentence": "rice is a kind of grain",
+        "label": "rice IsA grain"
+    },
+    {
+        "sentence": "rich can be used as the opposite of plain",
+        "label": "rich Antonym plain"
+    },
+    {
+        "sentence": "ride can be characterized by smooth",
+        "label": "ride HasProperty smooth"
+    },
+    {
+        "sentence": "ride can be used as the opposite of park",
+        "label": "ride Antonym park"
+    },
+    {
+        "sentence": "ride can be used as the opposite of walk",
+        "label": "ride Antonym walk"
+    },
+    {
+        "sentence": "ride can be used with the same meaning of transportation",
+        "label": "ride Synonym transportation"
+    },
+    {
+        "sentence": "ride is a kind of travel",
+        "label": "ride IsA travel"
+    },
+    {
+        "sentence": "ride_horse can be characterized by fun",
+        "label": "ride_horse HasProperty fun"
+    },
+    {
+        "sentence": "right can be used as the opposite of wrong",
+        "label": "right Antonym wrong"
+    },
+    {
+        "sentence": "ring can be characterized by blue",
+        "label": "ring HasProperty blue"
+    },
+    {
+        "sentence": "ring is a kind of sound",
+        "label": "ring IsA sound"
+    },
+    {
+        "sentence": "ring is made of gold",
+        "label": "ring MadeOf gold"
+    },
+    {
+        "sentence": "ring is part of plant",
+        "label": "ring PartOf plant"
+    },
+    {
+        "sentence": "rinse can be used with the same meaning of wash",
+        "label": "rinse Synonym wash"
+    },
+    {
+        "sentence": "rinse is part of wash",
+        "label": "rinse PartOf wash"
+    },
+    {
+        "sentence": "rise can be used as the opposite of descend",
+        "label": "rise Antonym descend"
+    },
+    {
+        "sentence": "rise can be used as the opposite of down",
+        "label": "rise Antonym down"
+    },
+    {
+        "sentence": "Rise can be used as the opposite of go_down",
+        "label": "rise Antonym go_down"
+    },
+    {
+        "sentence": "rise can be used as the opposite of lie_down",
+        "label": "rise Antonym lie_down"
+    },
+    {
+        "sentence": "rise can be used as the opposite of low",
+        "label": "rise Antonym low"
+    },
+    {
+        "sentence": "rise can be used as the opposite of lower",
+        "label": "rise Antonym lower"
+    },
+    {
+        "sentence": "rise can be used as the opposite of reduce",
+        "label": "rise Antonym reduce"
+    },
+    {
+        "sentence": "rise can be used as the opposite of set",
+        "label": "rise Antonym set"
+    },
+    {
+        "sentence": "rise can be used as the opposite of sink",
+        "label": "rise Antonym sink"
+    },
+    {
+        "sentence": "rise can be used as the opposite of sunset",
+        "label": "rise Antonym sunset"
+    },
+    {
+        "sentence": "rise can be used with the same meaning of climb",
+        "label": "rise Synonym climb"
+    },
+    {
+        "sentence": "rise can be used with the same meaning of raise",
+        "label": "rise Synonym raise"
+    },
+    {
+        "sentence": "rise is a kind of change",
+        "label": "rise IsA change"
+    },
+    {
+        "sentence": "river can be characterized by cold",
+        "label": "river HasProperty cold"
+    },
+    {
+        "sentence": "river can be characterized by cool",
+        "label": "river HasProperty cool"
+    },
+    {
+        "sentence": "river can be used as the opposite of desert",
+        "label": "river Antonym desert"
+    },
+    {
+        "sentence": "river can be used as the opposite of dry",
+        "label": "river Antonym dry"
+    },
+    {
+        "sentence": "river can be used as the opposite of land",
+        "label": "river Antonym land"
+    },
+    {
+        "sentence": "river can be used as the opposite of sea",
+        "label": "river Antonym sea"
+    },
+    {
+        "sentence": "river can be used as the opposite of stream",
+        "label": "river Antonym stream"
+    },
+    {
+        "sentence": "river can have or can contain water",
+        "label": "river HasA water"
+    },
+    {
+        "sentence": "river is a kind of place",
+        "label": "river IsA place"
+    },
+    {
+        "sentence": "river is a kind of stream",
+        "label": "river IsA stream"
+    },
+    {
+        "sentence": "river is made of water",
+        "label": "river MadeOf water"
+    },
+    {
+        "sentence": "road can be characterized by grey",
+        "label": "road HasProperty grey"
+    },
+    {
+        "sentence": "road can be characterized by outside",
+        "label": "road HasProperty outside"
+    },
+    {
+        "sentence": "road can be used as the opposite of pavement",
+        "label": "road Antonym pavement"
+    },
+    {
+        "sentence": "road can be used as the opposite of sidewalk",
+        "label": "road Antonym sidewalk"
+    },
+    {
+        "sentence": "road can be used as the opposite of street",
+        "label": "road Antonym street"
+    },
+    {
+        "sentence": "road can have or can contain traffic",
+        "label": "road HasA traffic"
+    },
+    {
+        "sentence": "road is a kind of place",
+        "label": "road IsA place"
+    },
+    {
+        "sentence": "road is made of pavement",
+        "label": "road MadeOf pavement"
+    },
+    {
+        "sentence": "Robot is a kind of machine",
+        "label": "robot IsA machine"
+    },
+    {
+        "sentence": "robot is a kind of worker",
+        "label": "robot IsA worker"
+    },
+    {
+        "sentence": "robot is made of metal",
+        "label": "robot MadeOf metal"
+    },
+    {
+        "sentence": "rock can be characterized by dry",
+        "label": "rock HasProperty dry"
+    },
+    {
+        "sentence": "rock can be characterized by hard",
+        "label": "rock HasProperty hard"
+    },
+    {
+        "sentence": "rock can be characterized by heavy",
+        "label": "rock HasProperty heavy"
+    },
+    {
+        "sentence": "rock can be characterized by solid",
+        "label": "rock HasProperty solid"
+    },
+    {
+        "sentence": "rock can be used as the opposite of dirt",
+        "label": "rock Antonym dirt"
+    },
+    {
+        "sentence": "rock can be used as the opposite of water",
+        "label": "rock Antonym water"
+    },
+    {
+        "sentence": "rock can be used with the same meaning of stone",
+        "label": "rock Synonym stone"
+    },
+    {
+        "sentence": "rock can have or can contain crystal",
+        "label": "rock HasA crystal"
+    },
+    {
+        "sentence": "rock is a kind of hard",
+        "label": "rock IsA hard"
+    },
+    {
+        "sentence": "rock is a kind of music",
+        "label": "rock IsA music"
+    },
+    {
+        "sentence": "rock is made of mineral",
+        "label": "rock MadeOf mineral"
+    },
+    {
+        "sentence": "roll can be used as the opposite of bounce",
+        "label": "roll Antonym bounce"
+    },
+    {
+        "sentence": "roll can be used as the opposite of sit",
+        "label": "roll Antonym sit"
+    },
+    {
+        "sentence": "roll can be used as the opposite of stationary",
+        "label": "roll Antonym stationary"
+    },
+    {
+        "sentence": "roll can be used as the opposite of stop",
+        "label": "roll Antonym stop"
+    },
+    {
+        "sentence": "roll is a kind of move",
+        "label": "roll IsA move"
+    },
+    {
+        "sentence": "roll is a kind of turn",
+        "label": "roll IsA turn"
+    },
+    {
+        "sentence": "rollercoaster can be characterized by fun",
+        "label": "rollercoaster HasProperty fun"
+    },
+    {
+        "sentence": "roof can be characterized by red",
+        "label": "roof HasProperty red"
+    },
+    {
+        "sentence": "roof can be used with the same meaning of ceiling",
+        "label": "roof Synonym ceiling"
+    },
+    {
+        "sentence": "roof is part of build",
+        "label": "roof PartOf build"
+    },
+    {
+        "sentence": "roof is part of bus",
+        "label": "roof PartOf bus"
+    },
+    {
+        "sentence": "roof is part of cave",
+        "label": "roof PartOf cave"
+    },
+    {
+        "sentence": "roof is part of construction",
+        "label": "roof PartOf construction"
+    },
+    {
+        "sentence": "roof is part of house",
+        "label": "roof PartOf house"
+    },
+    {
+        "sentence": "roof is part of truck",
+        "label": "roof PartOf truck"
+    },
+    {
+        "sentence": "room can be characterized by dark",
+        "label": "room HasProperty dark"
+    },
+    {
+        "sentence": "room can be used as the opposite of full",
+        "label": "room Antonym full"
+    },
+    {
+        "sentence": "room can be used as the opposite of outside",
+        "label": "room Antonym outside"
+    },
+    {
+        "sentence": "room can be used with the same meaning of place",
+        "label": "room Synonym place"
+    },
+    {
+        "sentence": "room can be used with the same meaning of space",
+        "label": "room Synonym space"
+    },
+    {
+        "sentence": "room can have or can contain chair",
+        "label": "room HasA chair"
+    },
+    {
+        "sentence": "room can have or can contain door",
+        "label": "room HasA door"
+    },
+    {
+        "sentence": "room can have or can contain furniture",
+        "label": "room HasA furniture"
+    },
+    {
+        "sentence": "room can have or can contain wall",
+        "label": "room HasA wall"
+    },
+    {
+        "sentence": "room can have or can contain window",
+        "label": "room HasA window"
+    },
+    {
+        "sentence": "room is a kind of apartment",
+        "label": "room IsA apartment"
+    },
+    {
+        "sentence": "room is a kind of build",
+        "label": "room IsA build"
+    },
+    {
+        "sentence": "room is a kind of home",
+        "label": "room IsA home"
+    },
+    {
+        "sentence": "room is a kind of place",
+        "label": "room IsA place"
+    },
+    {
+        "sentence": "room is part of build",
+        "label": "room PartOf build"
+    },
+    {
+        "sentence": "room is part of house",
+        "label": "room PartOf house"
+    },
+    {
+        "sentence": "rooster can be characterized by bird",
+        "label": "rooster HasProperty bird"
+    },
+    {
+        "sentence": "rooster can be characterized by chicken",
+        "label": "rooster HasProperty chicken"
+    },
+    {
+        "sentence": "rooster can have or can contain comb",
+        "label": "rooster HasA comb"
+    },
+    {
+        "sentence": "rooster is a kind of chicken",
+        "label": "rooster IsA chicken"
+    },
+    {
+        "sentence": "root can be used as the opposite of trunk",
+        "label": "root Antonym trunk"
+    },
+    {
+        "sentence": "root is a kind of grow",
+        "label": "root IsA grow"
+    },
+    {
+        "sentence": "root is a kind of growth",
+        "label": "root IsA growth"
+    },
+    {
+        "sentence": "root is a kind of number",
+        "label": "root IsA number"
+    },
+    {
+        "sentence": "root is part of plant",
+        "label": "root PartOf plant"
+    },
+    {
+        "sentence": "root is part of tooth",
+        "label": "root PartOf tooth"
+    }
+]

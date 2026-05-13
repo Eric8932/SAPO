@@ -1,0 +1,27 @@
+[
+    {
+        "sampling strategy": "full",
+        "dataset_name": "C-STANCE"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "FOMC"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "MeetingBank"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "Py150"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "ScienceQA"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "NumGLUE-cm"
+    }
+
+]

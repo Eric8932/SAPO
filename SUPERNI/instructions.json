@@ -1,0 +1,262 @@
+{
+ "task1290_xsum_summarization": {
+  "instruction": "In this task, you are given an article. Your task is to summarize the article in a sentence.",
+  "suffix": "Directly output only the summary as your answer.",
+  "labels": [],
+  "size": [
+   5194,
+   649,
+   650
+  ]
+ },
+ "task273_europarl_classification": {
+  "instruction": "In this task, you are given a sentence in the Bulgarian language and corresponding English translation of this sentence. Here, your job is to generate label \"yes\" if translation is right, otherwise generate label \"no\".",
+  "suffix": "Directly output only yes or no as your answer.",
+  "labels": ["yes","no"],
+  "size": [
+   5199,
+   649,
+   651
+  ]
+ },
+ "task339_record_answer_generation": {
+  "instruction": "In this task, you will be presented with a passage and have to answer a question based on your understanding of the events inferred from the passage. Try to find the best answer that is most likely to fill in \"_\". Note that the URLs in the text have been replaced with [Link].",
+  "suffix": "Directly output your answer.",
+  "labels": [],
+  "size": [
+   5197,
+   649,
+   651
+  ]
+ },
+ "task1510_evalution_relation_extraction": {
+  "instruction": "Given a phrase describing the relationship between two words, extract the words and the lexical relationship between them. The relation has to be of the type 'MemberOf', 'MadeOf', 'Synonym', 'Entails', 'HasA', 'HasProperty', 'PartOf', 'Antonym' or 'IsA'.",
+  "suffix": "Directly output only one of MemberOf, MadeOf, Synonym, Entails, HasA, HasProperty, PartOf, Antonym, IsA as your answer.",
+  "labels": ["MemberOf", "MadeOf", "Synonym", "Entails", "HasA", "HasProperty", "PartOf", "Antonym", "IsA"],
+  "size": [
+   5195,
+   649,
+   650
+  ]
+ },
+ "task488_extract_all_alphabetical_elements_from_list_in_order": {
+  "instruction": "In this task, you are given an input list A. You need to find all the elements of the list that are alphabets in the same order as they appear in the list A. Do not change their case/capitalization.",
+  "suffix": "Directly output the alphabets, seperated by comma and space.",
+  "labels": [],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ },
+ "task618_amazonreview_summary_text_generation": {
+  "instruction": "In this task, you're given reviews from Amazon's products. Your task is to generate the Summary of the review.",
+  "suffix": "Directly output only the summary as your answer.",
+  "labels": [],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ },
+ "task1355_sent_comp_summarization": {
+  "instruction": "In this task, you are given a piece of an article. Your task is to generate a short summary of the text. Try to give the summary in just one sentence.",
+  "suffix": "Directly output only the summary as your answer.",
+  "labels": [],
+  "size": [
+   799,
+   99,
+   101
+  ]
+ },
+ "task163_count_words_ending_with_letter": {
+  "instruction": "In this task, you need to count the number of words in a sentence that end with the given letter. Answer with numbers and not words.",
+  "suffix": "Directly output only the number as your answer.",
+  "labels": [],
+  "size": [
+   4608,
+   576,
+   577
+  ]
+ },
+ "task220_rocstories_title_classification": {
+  "instruction": "In this task, you're given five sentences, numbered 1 through 5, and two options a and b for possible titles for the story. Your job is to choose the title that better fits the story. Indicate your choice by 'a' or 'b'.",
+  "suffix": "Directly output only a or b as your answer.",
+  "labels": ["a","b"],
+  "size": [
+   5199,
+   649,
+   651
+  ]
+ },
+ "task611_mutual_multi_turn_dialogue": {
+  "instruction": "In this task you are given a small conversation between two persons and 4 options on how the conversation should continue. Your job is to choose the most reasonable option. The conversation and the options are separated by a newline character. Each dialogue in the conversation are separated by a comma. F and M indicate female and male, respectively.",
+  "suffix": "Directly output only A or B or C or D as your answer.",
+  "labels": ["A","B","C","D"],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ },
+ "task360_spolin_yesand_response_generation": {
+  "instruction": "Given the sentence, generate \"yes, and\" response. \"Yes, and\" is a rule-of-thumb in improvisational comedy that suggests that a participant in a dialogue should accept what another participant has stated (\"Yes\") and then expand on that line of thought or context (\"and...\"). 1 In short, a \"Yes, and\" is a dialogue exchange in which a speaker responds by adding new information on top of the information/setting that was constructed by another speaker. Note that a \"Yes, and\" does not require someone explicitly saying 'yes, and...' as part of a dialogue exchange, although it could be the case if it agrees with the description above. There are many ways in which a response could implicitly/explicitly agree to the prompt without specifically saying 'yes, and...'. ",
+  "suffix": "Direclty output the response without saying 'yes, and...'.",
+  "labels": [],
+  "size": [
+   5122,
+   640,
+   641
+  ]
+ },
+ "task002_quoref_answer_generation": {
+  "instruction": "In this task, you're expected to write answers to questions involving multiple references to the same entity. The answer to the question should be unambiguous and a phrase in the paragraph. Most questions can have only one correct answer.",
+  "suffix": "Answer:",
+  "labels": [],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ },
+ "task363_sst2_polarity_classification": {
+  "instruction": "In this task, you are given sentences from movie reviews. The task is to classify a sentence as \"POS\" if the sentiment of the sentence is positive or as \"NEG\" if the sentiment of the sentence is negative",
+  "suffix": "Directly output only POS or NEG as your answer.",
+  "labels": ["POS","NEG"],
+  "size": [
+   5196,
+   649,
+   650
+  ]
+ },
+ "task511_reddit_tifu_long_text_summarization": {
+  "instruction": "In this task, you are given a Reddit post as a text. Your task is to generate a short summary for this text. The summary must include a situation which caused humor. The summary should be one or two sentences long.",
+  "suffix": "Directly output only the summary as your answer.",
+  "labels": [],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ },
+ "task1343_amazon_us_reviews_rating": {
+  "instruction": "Given an Amazon review, indicate whether it is a 'Positive Review' or 'Negative Review'.",
+  "suffix": "Directly output only Positive Review or Negative Review as your answer.",
+  "labels": ["Positive Review", "Negative Review"],
+  "size": [
+   5199,
+   649,
+   651
+  ]
+ },
+ "task1357_xlsum_summary_generation": {
+  "instruction": "Generate an appropriate single-sentence summary for the given text such that it includes the main topic of the text.",
+  "suffix": "Directly output only the summary as your answer.",
+  "labels": [],
+  "size": [
+   4904,
+   613,
+   613
+  ]
+ },
+ "task024_cosmosqa_answer_generation": {
+  "instruction": "Craft one correct answer to the question given in input. To make it more interesting, try to use non-stereotypical language if possible. Make sure your correct answer is reasonably long, consistent with the context, and requires common sense (instead of explicit extraction from the context.) In your answer, use as few words as possible from the given context. Use a response that is uncommon/non-stereotypical, so that it is less predictable. To be less repetitive, please vary your language for each question.",
+  "suffix": "Directly output your answer.",
+  "labels": [],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ },
+ "task589_amazonfood_summary_text_generation": {
+  "instruction": "In this task, you're given a review from Amazon's food products. Your task is to generate a short summary of the given review in the input. Note that you don't need to write a complete sentence as a summary.",
+  "suffix": "Directly output only the summary as your answer.",
+  "labels": [],
+  "size": [
+   5199,
+   649,
+   651
+  ]
+ },
+ "task195_sentiment140_classification": {
+  "instruction": "In this task, you are given a text from tweets. Your task is to classify given tweet text into two categories: 1) positive, and 2) negative based on its content.",
+  "suffix": "Directly output only positive or negative as your answer.",
+  "labels": ["positive","negative"],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ },
+ "task231_iirc_link_classification": {
+  "instruction": "In this task, you're given a question, a context passage, and four options which are terms from the passage. After reading a passage, you will get a brief understanding of the terms. Your job is to determine by searching and reading further information of which term you can answer the question. Indicate your choice as 'a', 'b', 'c', or 'd'. If you think more than one option is plausible, choose the more probable option to help you answer the question.",
+  "suffix": "Directly output only a or b or c or d as your answer.",
+  "labels": ["a","b","c","d"],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ },
+ "task224_scruples_anecdotes_ethical_judgment": {
+  "instruction": "In this task you are given an anecdote, which recount a complex ethical situation. The question you are given is, has the author of the anecdote acted ethically? answer this question with \"RIGHT\" or \"WRONG\".",
+  "suffix": "Directly output only RIGHT or WRONG as your answer.",
+  "labels": ["RIGHT","WRONG"],
+  "size": [
+   1642,
+   205,
+   206
+  ]
+ },
+ "task1292_yelp_review_full_text_categorization": {
+  "instruction": "You are given a review about a place. You need to provide a rating from \"1 star\" to \"5 stars\" for this place.",
+  "suffix": "Directly output the rating as your answer.",
+  "labels": ["1 star","2 stars","3 stars","4 stars","5 stars"],
+  "size": [
+   5195,
+   649,
+   650
+  ]
+ },
+ "task619_ohsumed_abstract_title_generation": {
+  "instruction": "Given an abstract of a paper, generate a title for this paper such that conveys the key focus of the paper.",
+  "suffix": "Directly output only the title as your answer.",
+  "labels": [],
+  "size": [
+   1007,
+   125,
+   127
+  ]
+ },
+ "task141_odd-man-out_classification_category": {
+  "instruction": "Given a category and a set of five words, find the word from the set that does not belong (i.e. is the least relevant) with the other words in the category. Words are separated by commas.",
+  "suffix": "Directly output only the word as your answer.",
+  "labels": [],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ },
+ "task292_storycommonsense_character_text_generation": {
+  "instruction": "In this task, you're given a story (which contains five sentences only). Your task is to find all the characters which are available in the given story.",
+  "suffix": "Directly output the characters as your answer, seperated by comma and space.",
+  "labels": [],
+  "size": [
+   5199,
+   649,
+   651
+  ]
+ },
+ "task1310_amazonreview_rating_classification": {
+  "instruction": "In this task, you're given a review from Amazon. Your task is to generate a rating for the product on a scale of 1-5 based on the review. The rating means 1: extremely poor, 2: poor, 3: neutral, 4: good, 5: extremely good.",
+  "suffix": "Directly output only a whole number from 1-5 as your answer.",
+  "labels": ["1","2","3","4","5"],
+  "size": [
+   5200,
+   650,
+   650
+  ]
+ }
+}

@@ -1,0 +1,2602 @@
+[
+    {
+        "sentence": "Nervous about tomorrow  like holy crap.",
+        "label": "negative"
+    },
+    {
+        "sentence": "five for fighting - superman ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Yea so I'm mad that LOUD ASS THUNDER just woke me up!! ugh ",
+        "label": "negative"
+    },
+    {
+        "sentence": "[Link] - Food for thought ",
+        "label": "positive"
+    },
+    {
+        "sentence": "olive garden with mommy. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "home now, eating m&amp;m's ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I don't want to spend anymore grad money then I have to ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Don't foget Sweetwater GearFest starts FRIDAY! Wish I was going ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Go_Ask_Alice hehehe... wow..thanks! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Kytoo BOSA SI SWA!! haha that's a  STUDY DRINK! haha btw! good luck with your final tomorrow dude! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Trying to think of reasons to leave my warm bed. Coming up zilch but have to get up anyway. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Sunday28 When you get a chance, give me name that posted you ",
+        "label": "positive"
+    },
+    {
+        "sentence": "is one down three to go  ....napp for ever so tireddd",
+        "label": "negative"
+    },
+    {
+        "sentence": "the most beutiful day this spring....and I'm in front of the laptop ",
+        "label": "negative"
+    },
+    {
+        "sentence": "[Link] READ! :| This made me really scared. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Rokarony i know its amazing. sign of a good night wherever you cats may be ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Just great. More scamming and whatnot. Got a bunch of fraudulent charges on my account. Time to get my card replaced ",
+        "label": "negative"
+    },
+    {
+        "sentence": "awwwwww  #supernatural is a repeat episode! I've seen this :\\",
+        "label": "negative"
+    },
+    {
+        "sentence": "I had fun at the lake last night =] wished i would have gotten to stay longer and that it hadnt rained ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Sorry, I've been away so much! I've been doing lots of extra napping  How is everyone this weekend?",
+        "label": "positive"
+    },
+    {
+        "sentence": "and i'm eating corn bugles ",
+        "label": "positive"
+    },
+    {
+        "sentence": "have all a's b's c's and 1 d  not going to schoolio tomorrow john broke up witt chey  hehe this day just keeps getting better happy 420",
+        "label": "positive"
+    },
+    {
+        "sentence": "@ShannonHerod I love that quote! Really needed that today. Thanks for sharing. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i miss house ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Bored &amp; Not Feeeling Veryy Well ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Everybody talkin bout how they the best rapper, even this girl.. My dead friend says hi to me and i snub her cuz she dead and i wake up ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@millsks why are we not already hanging out...oh right...b/c of me...   Soon enough the sleepovers and pool parties will be endless!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@BrokePimpStyles Yeah  And now I might have 2 battle w/Best Buy over no op sys on my &quot;repaired&quot; PC. My oh my... LOL",
+        "label": "negative"
+    },
+    {
+        "sentence": "@ddlovato: dont cry demi! I would be exactly the same way. I dont think i would be able to handle it ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I sure have a lot of woman following me ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@kishorcariappa @sabihkhan serious!! how do you beat heat!!! just dont feel like gettin out ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@aron93a Does email push really not work? ",
+        "label": "negative"
+    },
+    {
+        "sentence": "The Block Party has been cancelled. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "If only i was living in Korea/Japan ",
+        "label": "negative"
+    },
+    {
+        "sentence": "at home. the roommate forgot to leave the door key for me so i have to wait in the living room ",
+        "label": "negative"
+    },
+    {
+        "sentence": "last day of school.  really really sad.",
+        "label": "negative"
+    },
+    {
+        "sentence": "@kingdavers hey Dave! My sister wants to know where you got the brobee piï¿½ata!! Spill it!!!!! ..........please? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "#3turnoffwords hurry &amp; wait. this is what my whole day will be ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Right off to buy some sunglasses and head to work! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@PaulaAbdul Oh Paula  hope you get better! Lots of love xoxo",
+        "label": "negative"
+    },
+    {
+        "sentence": "wooow , this is horrible i wanna cry ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@therealtoriamos  where is my UK Itunes code?   Why do you bother with these jerks. Next time sell tickets fairly please.",
+        "label": "negative"
+    },
+    {
+        "sentence": "@DoctorJohnSmith Ugh, no idea. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "ah we liveddd  but not that poor guy that was dead ",
+        "label": "negative"
+    },
+    {
+        "sentence": "AT&amp;T: &quot;7 to 14 days to get iphone 3GS&quot; ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@panda951 OMG. I'm wearing a pair of those right now. My glasses and I will pour out a little liquor for your dearly departed. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "has been abandonin Twitter for last few days  must be serious about life for the next 2 whirlwind weeks",
+        "label": "negative"
+    },
+    {
+        "sentence": "More hw ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Larlar Hey thats pretty awesome if you follow me and thank you ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@TinaBit Thank you! I will  Glad you found me. Have a great night!",
+        "label": "positive"
+    },
+    {
+        "sentence": "@cocoward hahaha. . . . yeeehuhhh ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@johnmcginn Your welcome...sounds do-able ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Goodbye, I'm offline again and leave the tweets to www.tweetlater.com. Bye followers ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@phasegordon: a good axe?  Nothing serious, I hope ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@cocktails_on_me i'm cool just stupid tired  got so much to do but dont sweem to be gettin anywhere. Thurs/Fri not gonna be fun LOL",
+        "label": "negative"
+    },
+    {
+        "sentence": "So one of my idiot family members blew out the electricity in the crib... I can't live like this... No Game For Me ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Watching season 4 of Weeds, well, the end of it. #howarewe 6/10. Bit tired from all the walking earlier but still happy I saw the piglets ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Congrats Diversity!!!!..u totally deserved it !! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "hello everyone  ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Story of my life!!! There is no where to watch it cause everything is being used ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Chapter 133 is uploading..it's taking forever.. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@mitchelmusso I'm jealous! I have a dumb class and only 8th grade ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@cronopia Right now I'm trying to track down about a year's worth of emails that went missing in Thunderbird when I ran a filter... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@miyarenee09 i wish i had DVR! urg.. im not even watching it tho ",
+        "label": "negative"
+    },
+    {
+        "sentence": "back to sleep till tomorrow again ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@aflyonthewall The only way I know to rate a stumble is with a thumbs up, but I thought the thumbs up *is* the stumble? It's confusing. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i have a headache  ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@1in9 2 HMC-150's and 35mm Adaptors to go with them for Senior Sem students. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@jamopo Leicester???? I've heard of that place... Have they got a footie team? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "now it is saturday. I am going out with my family. But tommorow (which is sunday) i am sleeping at my lovely friends house YEY!! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "so I have 3 DM.. but it only shows one ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Jealous that my brother will watch David Archuleta &amp; David Cook's concert on Saturday  Oh well, I picked another concert to watch in June.",
+        "label": "negative"
+    },
+    {
+        "sentence": "had an horrible day   this weather duznt help either lol x",
+        "label": "negative"
+    },
+    {
+        "sentence": "is doing her coworker's work that was left behind and is sick..such a bad day ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Thanx @harzack86 I kind of knew that but was hoping  do you use skype on an iphone??",
+        "label": "positive"
+    },
+    {
+        "sentence": "@ccmatthews lol im so sleepy but i cant sleeep  im 2 nervous abt 2moro lol",
+        "label": "negative"
+    },
+    {
+        "sentence": "i need some new sunglassessssss. i lose all of mine, fuck. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I start again to look for a new LOVE. I need it so much. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@ddlovato why? what's wrong? hope u had a gr8 opening concert!! sorry i couldn't be there ",
+        "label": "negative"
+    },
+    {
+        "sentence": "being frustrated. hating my life. what sense does it make to send me my soulmate and make it so we cant be together? i wanna hit stuff ",
+        "label": "negative"
+    },
+    {
+        "sentence": "follow @thesilentyears  pretty please.",
+        "label": "positive"
+    },
+    {
+        "sentence": "@tdizzzzzzzle Thomassssssss!   ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@danaedwards I guess all the doit guys are old now. Even Srini. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@mamapigeon sounds like it  I have a 12 year old with ADHD and Aspergers a 7 year old a 4 year old and 4 cats + hubby getting kinda full",
+        "label": "positive"
+    },
+    {
+        "sentence": "@lady_mimin96 i'm sleeping late tonight cause tomorrow on air rush hour  yayyy",
+        "label": "positive"
+    },
+    {
+        "sentence": "Had a lovely time having big adventures in Sydney, shame I'm back at work ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@andrewbeaton You still need one apparently  (for a free account)",
+        "label": "negative"
+    },
+    {
+        "sentence": "wet and naked!!! Just got out of the shower =P Freezing my ass off ",
+        "label": "negative"
+    },
+    {
+        "sentence": "feels much better now that her hair is washed. I still have mosquito bites though...  unfair.",
+        "label": "negative"
+    },
+    {
+        "sentence": "Need a vacation from myself  ..wish it was possible..",
+        "label": "positive"
+    },
+    {
+        "sentence": "Lol ive been sick  this whole week feels like im getting worse then better!! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "have to pause one tree hill  and wait for mum to come home she doesnt want to miss it hopefully she brings credit",
+        "label": "negative"
+    },
+    {
+        "sentence": "@cdat8thandd really  no i didnt know what was going on all i heard was that u wasnt feeling well and u went home.. well i saw u going home",
+        "label": "negative"
+    },
+    {
+        "sentence": "i took this pic sum minutes ago [black haired again]  / twitpic doesn't work o__O [Link]",
+        "label": "positive"
+    },
+    {
+        "sentence": "I have just discovered that in america does not pay the Internet connection!! I live in Italy and we pay it!! This isn't fair!!! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@rebekaaa i know  lastfm broke last night so maybe that has something to do with it, the whole website was down.",
+        "label": "negative"
+    },
+    {
+        "sentence": "@SwaggCertified I wish I could ",
+        "label": "negative"
+    },
+    {
+        "sentence": "my twitter looks funny  someone help!",
+        "label": "negative"
+    },
+    {
+        "sentence": "I'm sad my No. 1 is leaving for Europe today, for a whole week... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "is wearing a shirt she hasn't worn since middle school and it fits ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@MrpresNick Soo annoyed I couldnt c u @ wembly last night!  but LOVE the new album! Fav has 2 b before the storm with miley! A follow plz?",
+        "label": "negative"
+    },
+    {
+        "sentence": "@louster_02 Hahah  No ma'am pam. Im getting the Vu. I wanted a touchscreen phone, even though I know Im gunna break it. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Apparently FTW means &quot;For The Win&quot; ... I thought it meant &quot;Fuck the World!&quot;  ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@chiMoT  overtime juga kagak dibayarrrr ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I wish Jamze could get Picture Mail ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Edlowthegreat Oh, I see, that makes sense.  How do you know that, though? Did you read that someplace? Good luck with your cakes! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "finishing of cooking, My rice and chicken is delicious, thanks Brithania ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@mrskutcher Its true in Aus - they hv security guards guard the bins so ppl can't get at the perfectly gd food. A lot isn't even expired. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "my brother is loving matt nathanson's &quot;Come on get higher&quot;   i think its so boom too. x",
+        "label": "positive"
+    },
+    {
+        "sentence": "It's HOT!! Can't wait to get a new fan. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Rebecca; MUM! don't shout in my ear ",
+        "label": "positive"
+    },
+    {
+        "sentence": "It's going to be a busy week before my boyfriend took off  but I'll probably going to have a good time.",
+        "label": "negative"
+    },
+    {
+        "sentence": "coming to work with 5:30am flight, partying till 2am previous night, sleeping only in planes, is quite fun.  now back to my inbox",
+        "label": "positive"
+    },
+    {
+        "sentence": "@officialnjonas you're right sometimes we let us go for the gossips and some people believe it.. all we need is trust ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I have decided to decree that it is bed time... but no one will listen to me ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Synoiz i haven't tried the multipleIE thing - normally i use old ie6 standalone but i'll try the dev toolbar might be handy!!! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Last day of college wooo still exams tho ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Ow ow ow  Just hurt my hand again :'(",
+        "label": "negative"
+    },
+    {
+        "sentence": "@lancearmstrong Aww he is AWESOME ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@katelynblume you forgot the .com ",
+        "label": "positive"
+    },
+    {
+        "sentence": "excited to see everyone soon  new students. dun dun duuuun.",
+        "label": "positive"
+    },
+    {
+        "sentence": "@aaagnesss wah now got photo wor... Nice n pretty ya ",
+        "label": "positive"
+    },
+    {
+        "sentence": "WOW having an iPhone is like my goal in life! But i'll never be able to afford  Gotta get a job 1st. It probably helps out in the long run",
+        "label": "negative"
+    },
+    {
+        "sentence": "is ill again  but majorly needs to do expressive arts cw ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Thank goodness it is finally Friday.  It is time for a #threedayweekend.  I do wish I could be at #bratfest in Madison, though.  ",
+        "label": "positive"
+    },
+    {
+        "sentence": "no more rain pleaseee ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I'm removing twitters that no add me  I'm not bad but if I add you must add me, so take remove :S :'(",
+        "label": "negative"
+    },
+    {
+        "sentence": "really tired, going to get some sleep now. goodnight ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@bcclist That's probably the best question from last night.  When you have 6 time outs- USE THEM.  At the same time, I'm not complaining. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "[Link] - I miss my smoochies!! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@chrishasboobs Your welcome! C'mon again! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Wishing a Happy Mother's Day to @LisaCesarano, my mom (who isn't on Twitter) and all moms out there, wherever they may be. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "[Link] - Playing with dogs &amp; rabbits in backyard  My grandma is out here too lol",
+        "label": "positive"
+    },
+    {
+        "sentence": "@mileycyrus never thought i would see someone that liked hello kitty more then me. im still refusing to let it be true. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Bruno108 LOL, it's okay, you don't see both--teabagged eminem and yourself trending--everyday ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@josefamanriquez it was awesome ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Both My House Phones Broke ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I think I messed up my back, its been like this all day ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@demicooper Thanks for the #ff love! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@MelvinJames hey there.  How are you. Pleasant surprise ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@maryjanewatson Haha, we should get it on trending topics ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Thats cool! Where at? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@higgis how did you guess  i've built a mboard &amp; wanted an app for the main section. I bought a vbuletin set-up. maybe photos as well",
+        "label": "positive"
+    },
+    {
+        "sentence": "@MissxMarisa You poor woman. You should carry around pepper spray from now on. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@OrganizedFellow my boy is graduatin from jr high this Thursday I'm happy and sad cause he is growin up too fast ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@no_surprises lol aw, that shouldn't be the reason! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Yes I have a facebook and not one friend  but I guess myspace was lame",
+        "label": "negative"
+    },
+    {
+        "sentence": "@ingridmusic i love ur new default! its soo pretty! but how come i cant listen to this song on myspace? ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Watching two and a half men ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Taught the baby word today lol ",
+        "label": "positive"
+    },
+    {
+        "sentence": "What a great day to live in the Midwest. Let me just say that listening to tornado warnings on the radio for 4 hrs at work totally sucks. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@CouchSurfingOri Thanks tons Ori! Well be crossing paths in the middle this time. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@ohhhbabyyy haha, nahh.. i dnt care. I'm over him. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Is tired from all the shopping.  Bought 5 things from Old Navy, but getting 2 of them returned... So in the end I only have 3 pieces.  ",
+        "label": "negative"
+    },
+    {
+        "sentence": "This is ace. Ive got a whole train carriage all to myself. I can run around naked! ...but probably shouldn't ",
+        "label": "negative"
+    },
+    {
+        "sentence": "doesn't want dumb shiit. is that too much to ask for? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@nerdist You can always send me the spare. ATT works here. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "think i have swine flu ",
+        "label": "negative"
+    },
+    {
+        "sentence": "i am having a headache right now ",
+        "label": "negative"
+    },
+    {
+        "sentence": "im so amp'd im qoiinqq backk teww practicee monday  perfect imperfection all the way :]",
+        "label": "positive"
+    },
+    {
+        "sentence": "its raining. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@coldmtn [Link] - Holy crap! That's amazing!!! Did your cell phone ring during the interview? Yeah- that was me ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@lacastilleja ok, just thought i'd throw that idea out there to ya...  ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@adamyeager Actually, I was stuck in Georgia ",
+        "label": "positive"
+    },
+    {
+        "sentence": "[Link] - beograd ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@starsandwings Me too. But Jon and esp Kate can gtfo off a bridge for all I care. I wanna adopt Alexis ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Passed my ISTQB exam ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Graduating! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Heyllo! just leaving some love.  @mileycyrus",
+        "label": "positive"
+    },
+    {
+        "sentence": "@lfahay thank you!! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I think somebody put a hex on me. The ghost of Mariah's voice has struck again!! Some1 needs to rub my tummy. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I MISS MY DYLAN SO MUCHH!! i want him here with me ..*tear drop* ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Datboyie i know, I build you up then break you down ",
+        "label": "negative"
+    },
+    {
+        "sentence": "one more day left then back to school ",
+        "label": "negative"
+    },
+    {
+        "sentence": "off for my morning run. . . peace ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@SouthboyTroy no I was missing that part  lol",
+        "label": "negative"
+    },
+    {
+        "sentence": "playing video games with her new hubby.  (yeah, we're geeks like that)",
+        "label": "positive"
+    },
+    {
+        "sentence": "@pam777 what is a &quot;good imune&quot; and why do you hate it? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Emma White, Kimberley Baugh, Sarah Robins, I'm moving in with one of you  lol",
+        "label": "positive"
+    },
+    {
+        "sentence": "@julamo Get on, betch. I miss you. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Back in class for another 4 hour doozy! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@GallagherMeow will 30 mg's of Zoloft do? I am also feeling SAD ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Ugly betty was sooooooo sad!!! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@sapphire_dorian lol, your blonder though ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Don't ask why I'm watching The Saturdays on Loose Women... All I know is that they sound bloody awful ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@marcthom me too... I'm tempted to read the books now ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@goldi_m That would be a little dog to call my own ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Hey thanks everybody for helping me get to 1000 ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Still seeking Olympics Opening Ceremony tickets - internet crashed as I was trying to get them and when I got back on, none were avail. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@flirtbuttons I really like that one ",
+        "label": "positive"
+    },
+    {
+        "sentence": "lazy day tomorrow. so excited ",
+        "label": "positive"
+    },
+    {
+        "sentence": "starting a new diet/fitness plan tomorrow, it's gonna be rough. Starts with a 2 day fast. Think of me tomorrow while you eat ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Meekymadness you'll be fine, blood tests are super awesome sneaky fun. Just tell them that you're jebus ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@BSaz hahaha she is the only one allowed to do ass kicking with her dances  i hope i can take one with her, she is just perfection.",
+        "label": "positive"
+    },
+    {
+        "sentence": "Just picked up a [Link]  Soon Formal Dangui will be mine &gt;",
+        "label": "positive"
+    },
+    {
+        "sentence": "why did jon and kate have to split up  sniff sniff thats going to chage the show...big time! omg [Link]",
+        "label": "negative"
+    },
+    {
+        "sentence": "It's official, I've identified the most tweeted home listing in Chicagoland [Link] If you want to buy with me, I would be ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@ineedcandyyy Aww  ).",
+        "label": "negative"
+    },
+    {
+        "sentence": "@newmediajim Stick with me, stay young forever!! I think you look FAB!! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i hate essays ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Updated Twitterfon on iPhone &amp; it's slower than a snail hitching a ride on a tortoise ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@mileycyrus beyond excited ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Minority report I have seen this one but it's been long enough that hopefully I don't get too distracted with my icrack ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@AlyssaPxo awwee thank you  #summergirl",
+        "label": "positive"
+    },
+    {
+        "sentence": "@KBenn87 oh right, i never really got into that. im jst laying in bed trying to sleep... help ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Watching Revolutionary Road...so far, ridiculously stupid... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@tsarco nooooo i wish i could! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@falconsallies Good. Quiet this pm, due to footy. Few 2nd hand books  Sorry to have missed you. I'm off to Titchwell, tomorrow ;-)",
+        "label": "negative"
+    },
+    {
+        "sentence": "Cont.but bad news for drivers haha n its 20,000 haha so not typo ohh n all my tweezy's...I PASSED! Wit a score of 90! Gr8t now more bills ",
+        "label": "negative"
+    },
+    {
+        "sentence": "One more day left here  this place defiantly puts Florida to shame , Lmao . Tomorrow is the Jonas concert &lt;3",
+        "label": "negative"
+    },
+    {
+        "sentence": "Lunch now at QC Sports Club w Mom. Missing Dad. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "watching Up! at the movies!!! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Maximo Park  Yay! Thee were awesomme ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i think i need to unfollow the cricket guys  for a couple of weeks :S ",
+        "label": "negative"
+    },
+    {
+        "sentence": "At the 4h auction....crying kids ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Nice day out. Should have remembered the sunscreen ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Talking on the phone with Jeremiah. Super tired ",
+        "label": "negative"
+    },
+    {
+        "sentence": "where'd the big yellow thing in the sky go? It was here yesterday ",
+        "label": "negative"
+    },
+    {
+        "sentence": "My poor boy has to get his wisdom teeth out ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@willadam was she one of those roller skating waitresses? Cause that would be awesome! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "damn i've now watched all the friends DVDs that are in this house... i might go ask my friend for the rest back... ooo or scrubs ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I want summer back ",
+        "label": "negative"
+    },
+    {
+        "sentence": "My fingers have blisters all over them ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@anyamanda hahah iya yer soo welcome ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@VicDaGreat pancakes ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@lilyology sad news  we should text each other so you won't be bored!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@baldeggie good morning. Today I need to be productive the sun isn't really helping. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "up entirely too early ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@AndrewDearling Awww I miss it!  Glad greg won last week though! x",
+        "label": "negative"
+    },
+    {
+        "sentence": "Hmm, working at office today ",
+        "label": "negative"
+    },
+    {
+        "sentence": "[Link] Oracle Buying Sun does this mean MySQL is going to get buried ? ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@LyshaB ok.. i'll meet you there ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@inspectorsarit  Is a Creative Writer. She DOES'NT READ DM's - You want to connect, send her a @reply ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@joeymcintyre @JonathanRKnight The others have tinked and I told them g'morning so I thought I'd go ahead and tell you too as well. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Typing *ow* with RSI *ouch* isnt much *ooooh* fun. Stupid tendon i *gaaah* hurt a month *groan* back. I think drs need another visit. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Why isn't twhirl (and/or twitter) making my url's tiny? ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Just watched ''The notebook'' again ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Brysonen haha.  Nearest gas station. All we have is candy their and old french fried YUCK.",
+        "label": "positive"
+    },
+    {
+        "sentence": "@mobial Good to hear. Just took a short test ride yesterday. Does cause new muscles to ache, though ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@greggrunberg  Does gaydar come with the mind-reading? How cool.   Those people at Heroes are so good to you!",
+        "label": "positive"
+    },
+    {
+        "sentence": "I've got a migraine all the sudden, but I dunno the cause  I think it might just be a caffiene headache",
+        "label": "negative"
+    },
+    {
+        "sentence": "@beckinelson you shouldve come to sleep at mine tomorrow night ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@dhersam Yeah, 3 stars is ok, the shouting and looking into the sky is a bit weird  and I just thought she might me a mutant, too",
+        "label": "positive"
+    },
+    {
+        "sentence": "@trent_reznor have you checked out Google Wave? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "cereal makes everything better. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "woke up. headbanger's hangover. waiting for heidi to awake. my face is still recovering from being melted off. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "weekend (seems like holiday) home almost comes to an end...  back to berlin in 3hrs...",
+        "label": "negative"
+    },
+    {
+        "sentence": "Is happy his PC can run Sims 3! Is wanting the collectors edition now... ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@MichelleMGarcia lol can you afford me! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@veroflraptor i dont remember  samsung?",
+        "label": "negative"
+    },
+    {
+        "sentence": "@justinkendall I've been delaying work, as well...playing is def mindless &amp; is a good distraction! My goal is to be at Level 7 by tonite! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Heading over to the Aran islands. Planning to stay on bike all day ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@butadream You'll be fine I'm sure  Are you feeling any better today? :hug:",
+        "label": "positive"
+    },
+    {
+        "sentence": "Boy i,m tired today, gotta go into town as well ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@dmbcrazyangel @kbonatsakis good luck! run well ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Lol. Wow. Hope none of yous are knocked up ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Out with hwa, pei him go work.  oh, finally saw him. Miss him! :p took lots of pics! Shall upload soon. - [Link]",
+        "label": "positive"
+    },
+    {
+        "sentence": "@kayla_sheree you're awesome you know... like me ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@YoungQ I dreamt last night that you passed that msg I sent you onto my man, ddub. So there you go, that's my dream, literally ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@kholi good morning love ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Never got my license taken away... Awesome! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I seem to be making a habbit out of not falling asleep until very late ",
+        "label": "negative"
+    },
+    {
+        "sentence": "is looking forward to dinner with family. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "1:11 ...make a wish ",
+        "label": "positive"
+    },
+    {
+        "sentence": "kevvy called me an idiot  captain mccrankypants.he's pmsssing again... i'll let the drama queen have his beauty sleep for now but its war",
+        "label": "negative"
+    },
+    {
+        "sentence": "@MistressB @LaToriana Heartbreaking isn't it. Poor child ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Jason_Manford I get it in work all the time!!!! Moving back there in a couple of weeks  so I really gotta start speakin it again!",
+        "label": "negative"
+    },
+    {
+        "sentence": "disappointed that wolfram alpha doesn't seem to know much about Australia. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I wish we had gotten 5* to ATL. Memphis ain't looking too promising. Hospital bills suck ",
+        "label": "negative"
+    },
+    {
+        "sentence": "i miss oden from take covr  he's the nicest guy in the worlddd.",
+        "label": "negative"
+    },
+    {
+        "sentence": "AT WORK.........SIGH !!!!!       WOULD RATHER BE AT HOME IN MY BED.........",
+        "label": "negative"
+    },
+    {
+        "sentence": "Enjoying the Masabi presentation of buying rail tickets from the mobile. Now will it work on my Android G1? On the Web?  #momolondon",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Dannymcfly Fucking Sucks about Hatton losing huh? Was a strong start then i just don't know what went wrong ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Hazel Blears resigns from cabinet! They are starting to topple like dominoes now. I'm not saying the new lot will be any better though. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "i like it when you talk ass - so well keep it that way haha ",
+        "label": "positive"
+    },
+    {
+        "sentence": "My heart just breaks when my baby girl gets sick. Poor thing... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@priskilluh you are wonderful ",
+        "label": "positive"
+    },
+    {
+        "sentence": "The Day They Discovered Pi [Link] to the tune of American Pie ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Pleeease No more tests. I beg you ",
+        "label": "negative"
+    },
+    {
+        "sentence": "up getting ready for the day, i decided to sleep in tell 9. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@TheBloggess Love your Vlog. 50/50 chance lmao! Would love to see Cpt. hand out tattoos xD. You are amazing ... but you already knew that ",
+        "label": "positive"
+    },
+    {
+        "sentence": "LOVED Legally Blonde! Need the soundtrack so I can memorize the songs! Miss my family.  Mentally preparing to return to the real world!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@nikfourpeace ur gonna go?? I was thinking about it n it looks like ile end up going bc I don't have not one party lined up ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@LEdwards1177 yeah... worst part is he took it out of my purse, along with the cash in my wallet!    And I think it was a caterer!",
+        "label": "negative"
+    },
+    {
+        "sentence": "[Link] via @addthis  ooohh, brides...ya know ya want one!   Great wedding gift for someone or yourself",
+        "label": "positive"
+    },
+    {
+        "sentence": " haha dating the enemy!",
+        "label": "positive"
+    },
+    {
+        "sentence": "@artfanatic411   I agree, but they always do~ when things are going really smooth, they decide its maintenance time  ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Haha!!!!! No starbucks for me  Did u see hangover yet?",
+        "label": "negative"
+    },
+    {
+        "sentence": "[-O] @Horvik lucky  i wish i could go back to italy. [Link]",
+        "label": "negative"
+    },
+    {
+        "sentence": "@tommcfly Is Harry still alive? His twitter is soooo... &quot;eeew&quot; ",
+        "label": "negative"
+    },
+    {
+        "sentence": "ohh  i have to clean the kitchenÂ·Â·Â·Â·Â·",
+        "label": "negative"
+    },
+    {
+        "sentence": "Just been treated to a hot chocolate by the PM. Totally unexpected ",
+        "label": "positive"
+    },
+    {
+        "sentence": "crazy commercials... i wish i had a sentient gorilla for a pet  an ape who gives you investment advice",
+        "label": "negative"
+    },
+    {
+        "sentence": "Off to MAC store and dinner. YAY ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Playing with little baby Camnryn and her Mommy ",
+        "label": "positive"
+    },
+    {
+        "sentence": "downside: my arms are sore ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Wow OS X. I didn't know you were so lame you would KP during an AFP transfer ",
+        "label": "negative"
+    },
+    {
+        "sentence": "just found his wallet after having it go missing for three days ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I got good pics of everyone BUT @JonathanRKnight my favorite   looks like I am going to have to figure out a way to go to another show!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@bonnie67 oh, you did?  i haven't been able to read all of them yet.    Lotsa email AND dm's today, was kinda shocked when I opened bo ...",
+        "label": "negative"
+    },
+    {
+        "sentence": "@peoplefight i were on mcfly secrets about 3 weeks ago ",
+        "label": "negative"
+    },
+    {
+        "sentence": "i wish its saturday already.. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I forgot how in love with Roy Schider I was, I grew up with a massive crush on him, still do-sorry he's no longer with us ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Is done with EVERY LITTLE EFFING EXAM !! Alhamdulilah halelujaaaa!! Such a great relief!! Great job tish ur amazing ",
+        "label": "positive"
+    },
+    {
+        "sentence": "oooh...mtv movie awards tomoz  cant wait but really cant watch as i need 2 revise. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "is wondering what happened to their defense... *disappointed*.. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@benjicajess I know but u ain't in Peeenang! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@ibeenz we were GOING to have DQ but it was too far ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Jesstjit iyaaa panjang ceritanya jess. He changed a lot, I want the old frans, jess ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Screw you greektown because you are not built on an indian reservation which means no gambling for me. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "doing summaries for my English/History. I'm still 10 summaries behind.. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "ROFL Ruby looks like Susan Boyle with her disheveled hair #EatBulaga. Hahaha! No other set of hosts can be this much fun. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@king_ecastizos AquÃ­ en Bcn cloudy day... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@BarackObama Why, Mr Obama?... It was not nice killing a harmless fly. You really should be above such thing... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Really great time in hollywood...awesome time with friends! Love u guys ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@cutiemcfruity sits in your paypal account until you specify what bank account it goes to ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Oups !! I just forgot my dog's outside... :S He's all wet... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Miss fall out boy this morning because of my sister's stupid friends. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "just tried crazy crepes its very delicous ",
+        "label": "positive"
+    },
+    {
+        "sentence": "at the daddy-daughter dance rehearsal, sans daughter. she's sick ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Diversity on BGT to win  x",
+        "label": "positive"
+    },
+    {
+        "sentence": "@UlrikaE HELL YES YOU CAN GET A HELL YES ",
+        "label": "positive"
+    },
+    {
+        "sentence": "still working but I am planning on being outside by 2:30. please tell me off if you see no twitpic evidence to prove otherwise ",
+        "label": "positive"
+    },
+    {
+        "sentence": "In Florida getting a sun tan on an actual BEACH! call or text me i am not really doing much but sitting here listening to the waves ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Now thanks to @nety5 and @phoboy86 ima dream of fries from in n out ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@6uy you've abandoned me! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "nice weekend  ohmygosh.hollywoods is toooo cool. i shud be there sumtimes ",
+        "label": "positive"
+    },
+    {
+        "sentence": "#buzzword loads up Pro fonts but cannot display Turkish glyphs.  and still complaining that it doesn't support Safari (onwin) and Chrome.",
+        "label": "negative"
+    },
+    {
+        "sentence": "@PrinceDavey aww no invite??  lol jk. coolness for the day off!",
+        "label": "negative"
+    },
+    {
+        "sentence": "Why can't I stop thinking about you since yesterday?!  I thought it was just because it was your day.. BUT........ *sigh*",
+        "label": "negative"
+    },
+    {
+        "sentence": "Kind of blah today. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I used to think the cry of the mourning dove belonged to the owl.  Be quiet, birds.  I am tired. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "my amends show tonight. get after it. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "last night was good, i was in need of that ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@coreyisyourhero i'm just that awesome  Medusa;",
+        "label": "positive"
+    },
+    {
+        "sentence": "Finally back home , feelin' full ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@sriggles no  I've been meaning too!!! What do you recommend to get!?",
+        "label": "negative"
+    },
+    {
+        "sentence": "Early monday cramming... yay. Only a few weeks left ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i miss my dad ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Kmcreary it sure is! Too many things to consider! I have no clue what to write lol! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@MrPeterAndre follow me please! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@RepubliCofFun Soooo, wish I could be drinking champagne instead of ferrying children to bass guitar lessons. Have to pass. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@thelongmile  Tch, shopping are we?  Nothing open here on Sundays  ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@ddlovato hi demi ! how are you ?? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Ah, the cab is gonna be at chain tomorrow  no fair.",
+        "label": "negative"
+    },
+    {
+        "sentence": "Stunning Defeat - I (2233) was beaten by jweippp (1750) ",
+        "label": "negative"
+    },
+    {
+        "sentence": "just came back from ballet show, awesome , i love ballet  buddy today was great! my class were cool, but now im shattered",
+        "label": "positive"
+    },
+    {
+        "sentence": "I'm talking to this boy that I might like, but the date isn't til friday oh nos  Here is me and a filing cabinet. [Link]",
+        "label": "negative"
+    },
+    {
+        "sentence": "trying to edit a video but Movie maker is not being very cooperative...it keeps shutting down on me ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Trey_Craddock thanks man, and you DID do a good job with the lights! I hate that you had to tweet at yourself!! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Haven't done any revision today, been playing sims 3 all day. This is baad ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@worldofhiglet YAY!  My ONE FAN!    What's up, One Fan?  Did you also know that #worldofhigletisfreakingawesome? #LOFNOTC",
+        "label": "positive"
+    },
+    {
+        "sentence": "just deleted a spam email with the title &quot;an invisible cloak?!?!&quot; - wish i had read it first ",
+        "label": "negative"
+    },
+    {
+        "sentence": "just found out that two of my friends will resign this month from CDP  really really sad to see them leave.",
+        "label": "negative"
+    },
+    {
+        "sentence": "@LiLiSheree girl why I get hungry during service so I left n got McDonalds and got back in time for the altar call...   I need Jesus",
+        "label": "positive"
+    },
+    {
+        "sentence": "for the first time in my life, i know what it feels like to be sick with disappointment ",
+        "label": "negative"
+    },
+    {
+        "sentence": "#mileymonday #mileymonday #mileymonday #mileymonday #mileymonday #mileymonday #mileymonday #mileymonday #mileymonday #mileymonday  retwee",
+        "label": "positive"
+    },
+    {
+        "sentence": "@lrpw1302 hey ty for tip, wifi networking is one if my many talents  I'll get on it when I can be bothered LOL",
+        "label": "positive"
+    },
+    {
+        "sentence": "@joskard guess I have to do the Twitter thang now that you've invited me   working at the ranch today!",
+        "label": "positive"
+    },
+    {
+        "sentence": "@karinb_za so is that a hint ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@rachelblahh heaps looong story  check dailybooth! but i shall tell u tmrw  oh i &amp; i know that you love your &quot;idol&quot; deeep down inside !!",
+        "label": "positive"
+    },
+    {
+        "sentence": "don't have a clue how to work this  + the weathers shit x",
+        "label": "negative"
+    },
+    {
+        "sentence": "lay in bed channel flicking, not in the best of moods  when im down, everything seems to go wrong :/ i need my guys ben &amp; jerry haha!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@nataliemejia Awwww... Thats Awesome!!! Her N I Hanged On Friday N We Might Go 2Morrow 2 LA 2 Meet LC From The Hills  Xoxo",
+        "label": "positive"
+    },
+    {
+        "sentence": "@surfclubhit you're the s**t!!!  I love SC, for real!!",
+        "label": "positive"
+    },
+    {
+        "sentence": "Off to bed.. Lets hope iPhone OS 3.0 is released tomorrow! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I dont care how old Taylor Lautner is!! He's my boyfriend!! My god, total hottness...chu chu! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "fab day today this morning got my glasto ticket and is very excited and i got a tan as well what else could u aks for ... glasto now ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@NiickJonas Hi bby! woow I Love You ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i suck ",
+        "label": "negative"
+    },
+    {
+        "sentence": "#naperfectworld I'd have two tickets to the BET AWARDS ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@aw3punx awwwwwww poor grant  looks cool tho!!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Goin__baby well i work with people with physical and mental problems under the state of TN and i don't think they would  like it ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@kickmekassiex3 ikr   i bet there going to start a new tour for the new album tho. ha not like ill be able to go.",
+        "label": "negative"
+    },
+    {
+        "sentence": "close your eyes and delete this file ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Enjoying the Weekend ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Son caught a pop fly and had 3 putouts and will be captain tomorrow. Won 1 and lost 1. Off to team pool party. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@jesslowe94  me either lol but it looks good  omg did you see the clip? or the  moving photo from Italy? Robs body is so HOT!",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Surrender1224 ahhh that is cool!! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Happy Fathers day to all the dads out there! I miss my daddy!  Weird fun fact- he used to call me Louise for NO reason...at all..Haha!!",
+        "label": "negative"
+    },
+    {
+        "sentence": "Of course, I had to delete all of my Dawson's Creek to do so.. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@nawid i see... ca  you describe this issue? We can`t find this trouble yet ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@KayLeeLa wat du nur wieder liest... #started to long for balls ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@amyaeroplane I wish I was on ur couch cuddling w/ you ",
+        "label": "negative"
+    },
+    {
+        "sentence": "At long last it is time for bed. Gym in the morning, golf early afternoon and O's midday @ 2 ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@onebreath BB also made pie v. sexy!! They should work on broccoli cause there is no food less sexy than that ",
+        "label": "positive"
+    },
+    {
+        "sentence": "good wee day today   me and ali bought a &quot;water balloon mortar&quot; and got soaked :| but good fun nonetheless ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I have swollen corneas. Waaaah! No contact lenses for me for a while ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Going to Hayward, ",
+        "label": "positive"
+    },
+    {
+        "sentence": "[Link] for poker offers and sign up bonus offers.  also hope to see you at our game on Everest poker tonight.",
+        "label": "positive"
+    },
+    {
+        "sentence": "@stilistaagency Hi Sandy, Im looking for an agency here in Chicago, are there any that you can refer me too. Thanks! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Shame on me, havent updated in............. 11 days!!!!!! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@StormyDaniels Awesome, have fun on your trip ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@JaneYee isnt traffic fantastic &lt;insert sarcasm&gt; ",
+        "label": "positive"
+    },
+    {
+        "sentence": "ooooer 710thupdate i ddnt think i'd done that many :S lol  well imma go bed seeing as i do have to be at school at 8 for mt statisticsExam",
+        "label": "positive"
+    },
+    {
+        "sentence": "Rawr so cold and tired  time to dance and be more tired.",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Ilkee oh. well then... you are just gonna like it ",
+        "label": "positive"
+    },
+    {
+        "sentence": "had fun watching trop fest films with 2nd year chicks  .",
+        "label": "positive"
+    },
+    {
+        "sentence": "It's raining ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@kaecyus ping? I didn't get anything... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@myrthu feel free to come visit us at amaliegade (@signaldigital) if you have the time. I can offer a free cup of coffee ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@AartiNevgi yeaa suure . call me when u can ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@AnthonyCallea Food again hmm  Enjoy your roast tonight (will we get a picture) &amp; the long weekend whatever planned. @timcampbelltwit",
+        "label": "positive"
+    },
+    {
+        "sentence": "@AndreasHale I wish! that shit gonna be hot! have fun for me ",
+        "label": "positive"
+    },
+    {
+        "sentence": "amazing party last nighttt  thanks hannahhh ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@contentwhore oh helllllllll  i gotta find it",
+        "label": "negative"
+    },
+    {
+        "sentence": "I can't wait until summer. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@thegrok My #1 page, after ABCD testing, is 70% off now on traffic now.  Keywords gone from radar.  Really concerned ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Leavinq tuesday  Imma miss my baby &amp; everyone o'dee . HopefuLLy this 2 months fLy by",
+        "label": "negative"
+    },
+    {
+        "sentence": "...i don't find my ray bans ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@T4OnTheBeach So.. Whens the next acts being accounced... a month is a bit harsh  ....  ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Jotebro Now, that would be a good idea! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@BethFishReads Thanks for the encouragement  #readathon",
+        "label": "positive"
+    },
+    {
+        "sentence": "One week to go for College !! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@micheleboyd If you happen to talk to Pandemic, ask when we will finally see Battlezone 3?    Raven Software: When will we see Heretic 3?",
+        "label": "positive"
+    },
+    {
+        "sentence": "Serious case of the Mondays ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@delasoulsdugout Great to have you through the office - killer show as well! Have a great tour and stay in touch ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Funkagenda ahh, you want it to be like the minimal 0f 70s . Then, you just go and dress like Luke Skywalker in Star Wars,70s but not ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Man i think i might have 2 go stand outside the stadium and buy a ticket from them bootleggers if i dont win hopefully they dont scam me ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@RichardBPenn my weekend was fine - just went by much too quickly...as usual  ~~  now I gotta gear up for a wk of work (bleah!)",
+        "label": "positive"
+    },
+    {
+        "sentence": "@delariqua @tiadalmade2 @heybuddy1 @sedityxbarbie I'm hella mad lol. I xpectd dat 4rm curry (@misskeribaby:  hi!!) but not @mijougly! :'o!",
+        "label": "positive"
+    },
+    {
+        "sentence": "@baneen Glad you had a good time  I think we all appreciated your hard work, even though it got a little bit messy at times! xx",
+        "label": "positive"
+    },
+    {
+        "sentence": "enjoying the time with my youngest son Emanuel... ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i dropped me phone in the toliett...dont ask how! but now its brokenn... ahhhh no new phone for months ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I haven't felt this sick since I was eight. My head is pounding, but I can't take medicine until I eat, but I throw up everything. Wtf. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@glotrovato [Link] - I want some Toms shoes!!!  Lovely pic btw",
+        "label": "positive"
+    },
+    {
+        "sentence": "@sofiesunshine  i miss youuu ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@chuckckcooper hiya!!!  following youuu! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@youtah I can't speak to that. @bunnieblog needs someone less manicured up there. I mean, even a little 5 o'clock shadow would be nice. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@tommcfly own Tom i wish i could meet you  you were amazing yesterday!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@taskbaarchitect And why the Hell didn't you call ME for that?! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "wishes he had the chance to see Isabeyli Hillclimb ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@mabakle I'm sorry to hear that. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@SamTelford That's great! Can't wait to hear it  Make sure you let us know when you're going to be doing some gigs!!",
+        "label": "positive"
+    },
+    {
+        "sentence": "Missing 2 amazing ppl my cousin Evonne and my best friend Jenna  one i will hopefully see this weekend the other not till she is back  ...",
+        "label": "negative"
+    },
+    {
+        "sentence": "touring the hotels and camp sites today. crap weather today ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@kerri_louise Nah, nothing exciting  Got 3 science GCSE tomorrow  Really scared haha! x",
+        "label": "negative"
+    },
+    {
+        "sentence": "@blackink12 It would be nice to see an update once in a while.  ",
+        "label": "positive"
+    },
+    {
+        "sentence": " my tummy really hurts now oh noes",
+        "label": "negative"
+    },
+    {
+        "sentence": "missed Kay Tse's concerts in Hong Kong. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@jconpoet LOL! thanks ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Going to bed not feeling so great ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@SeanyFbaby he was supposed to be here by 12..but idk what happened ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@shaundiviney no his not ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@ImGonnaFreeTI And I my love Laulen ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Up was so saaaddd.  but there were two annoying little brats next to me.... so .... it want that fun. too many kids...i dont like kids...",
+        "label": "negative"
+    },
+    {
+        "sentence": "this looks cool for all ages  might have to get it: Crayon Physics Deluxe [Link]",
+        "label": "positive"
+    },
+    {
+        "sentence": "Today was awesome! I chatted a lot with Pritha and Kharina! They're my best ",
+        "label": "positive"
+    },
+    {
+        "sentence": "thanks to science i'll be studying all weekend, till my body falls apart. last exam  monday. i need my summer .. until .. summerschool ",
+        "label": "negative"
+    },
+    {
+        "sentence": "doesnt look like ill be getting new comics today after all  time to be bored till we go pick up the tuxs #squarespace",
+        "label": "negative"
+    },
+    {
+        "sentence": "doesn't appreciate being lied to ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Aceman808 LOL  Very funny",
+        "label": "positive"
+    },
+    {
+        "sentence": "@poppy_dog You know Ben too?!? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@AKyarnie yeah... ... about that... ... have fun... ... it'd be interesting to see how her writing's changed... ... ",
+        "label": "positive"
+    },
+    {
+        "sentence": " @weselec Slavery jokes?! DIABOLICAL! He *knows* that's the one place we can't go. Time to pull out the wh.. [Link]",
+        "label": "positive"
+    },
+    {
+        "sentence": "just changed my layout. gotta go do laundry and make me some lunch ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I'd love an Iphone just can't afford it right now ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I'm almost glad of the rain. Past few days have been so horrible and muggy ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I lost my voice.... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "ughhhh exams ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Aquaduck waterway tour, Timezone (!!), Hard Rock for dinner (score!), Q1 deck, Conrad Jupiters tomorrow night. Too wet for Dreamworld. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@PrettyPrats What can I say.. Am simply too vella for my own good ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Jah423  I sorry...seriously my intentions was 2 go, but when I got out the shower and sat on my bed...well it was all she wrote...smh",
+        "label": "negative"
+    },
+    {
+        "sentence": "@KimbaKimba You started it!  Can't believe what a jerk Spencer is? Why would anyone marry him???",
+        "label": "positive"
+    },
+    {
+        "sentence": "@patlike Brutal Legend not quite the megaton reveal we were both hoping for from @wossy, eh Pat? ",
+        "label": "negative"
+    },
+    {
+        "sentence": "ciao for now! xoxo ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@KCinWPB I think it just doesn't like underscores, problem fixed as soon as I renamed and re-saved the file. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i dont know what i feel now ",
+        "label": "negative"
+    },
+    {
+        "sentence": "got the cousins birthday bash tonight .. Not feeling too well though  darn this cold!",
+        "label": "negative"
+    },
+    {
+        "sentence": "my stupid msn wont sign in ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Why!! LeBron why would you let D-How Score 20 on you?  Anyway.. Lakers Vs Magic Woohoo,  Bummer..",
+        "label": "negative"
+    },
+    {
+        "sentence": "I'm used to having the house to myself in the mornings before work. Now that Natalie quit her job, I've temporarily lost that luxury ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Sureway i need one. i still dont get outta school till monday   lol",
+        "label": "negative"
+    },
+    {
+        "sentence": "White chocolate mocha for me please ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@KirstenJ77 oh, the cable provider in my country is starhub. the decoder box with recording /built in hard disk is called a hubstation ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@LiorH don't try it again. agreed? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "is lukin 4wards 2 havin 10 weeks off ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@FrankieTheSats @unahealy are you performing there today? if yes, i would love to be there  anyway, love from germany",
+        "label": "negative"
+    },
+    {
+        "sentence": "Studying Spain for exam on friday  what for ???",
+        "label": "negative"
+    },
+    {
+        "sentence": "Just maybe? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I wish I could I got studio again tonight... How about tomorrow night? @amber_boyd or do hav 2 work? ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@LacksleepDNA No, it's like a.. Um msn, but you can video chat with like three other people, it's super cool.  IjusttrieditwithGore&amp;Perry!",
+        "label": "positive"
+    },
+    {
+        "sentence": "@LGM1 I kinda think this advice goes for any business, not just caterers. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Moodlegirl even if they don't twist it ... it's still there for media to produce league tables... and that leads to sink schools.. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "what's a goood movie?   ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@aignVA   Thanks.",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Armin_ASOT  hahahaha you too?! the sims 3 is really gooooood game! ..i love when my sims are painting pictures,like armins ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Hey hey. I'm cleaning boo lol but I'm almost done. My back is KILLING me today...I think I pulled something  mopping doesn't help that ha.",
+        "label": "negative"
+    },
+    {
+        "sentence": "forgot bout this twitter thing ",
+        "label": "positive"
+    },
+    {
+        "sentence": "y0 i tried to DM you but u aint follow bacK ",
+        "label": "negative"
+    },
+    {
+        "sentence": " I got so scared tonight. Love you @kristengraham",
+        "label": "negative"
+    },
+    {
+        "sentence": "Thanks @NickiLaycoax ! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I just got destroyed by a practice test. Hold me ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Went to bed last night just to have the power go out three times in the night!!! Needless to say I slept very little cause it was so hot ",
+        "label": "negative"
+    },
+    {
+        "sentence": "the has gone  walking home, been on the park with Lorna.",
+        "label": "negative"
+    },
+    {
+        "sentence": "hey guess what!  its raining...again ",
+        "label": "negative"
+    },
+    {
+        "sentence": "was going to evansville tonight, but had car trouble  so back home ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Let's celebrate with lobster  yum",
+        "label": "positive"
+    },
+    {
+        "sentence": "@emcrutch I would totally do that if I weren't desperate for a new computer ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@corinator ohh shiiiiit that's gay! we need you there.  change the date then? lol",
+        "label": "negative"
+    },
+    {
+        "sentence": "@nmariew thanks boo  yes im alive but not functioning very well. cant wait for next weekend",
+        "label": "positive"
+    },
+    {
+        "sentence": "I Hate  moving day ",
+        "label": "negative"
+    },
+    {
+        "sentence": " not nice ellie not nice at all !",
+        "label": "negative"
+    },
+    {
+        "sentence": "@queenbmakeup im really wanting to get into nail school but my schedule isnt going to allow it ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@RhondaLove1997 I wanted Adam lambert to win so badly  and you??",
+        "label": "negative"
+    },
+    {
+        "sentence": "I am a little sore today probably bc I party too hard and drink too much ",
+        "label": "negative"
+    },
+    {
+        "sentence": "later I went up to monroe and worked out with friends - TRX, ropes and KBs!!   30sec on/30 off..rope swings &amp; c&amp;ps, windmills, wve aquats",
+        "label": "positive"
+    },
+    {
+        "sentence": "I miss my Daddy ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Jozz_WildChild yey!!! I miss my old cat!!  won't be able to have one for at least another two years, gutted!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@tb78 a wee bit ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@thomasraukamp are you crying deep down inside? I would be  I always assumed they let you keep the gear!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Zac_Efron I dont mean to be suspicious, but is this Zac account for real? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@EvaMarcille OHHHHH MYYY GODDDD THE GAME IS CRACK.. to bad its canceled now..i think ",
+        "label": "negative"
+    },
+    {
+        "sentence": "The fly with me video was amazing !  @jonasbrothers are amazing (:",
+        "label": "positive"
+    },
+    {
+        "sentence": "is a perfectionist and has been still working here and there on her #Debian layouts, but now it's time for /dev/shower &amp; /dev/cup/tea. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Well it appears that the pinkish hue of my forearms would indicate that the UV index was much higher than I anticipated today ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@DavidArchie Such an awesome movie! I've seen it twice.  SQUIRREL!",
+        "label": "positive"
+    },
+    {
+        "sentence": "From the looks of it I can look forward to a great LOST season 5 and an excellent season ending! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Camiluvsflowers i kno i got all excited ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@mycahhhx3 i know man. makes me sad  i am actually named after that legend though! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@EtLaLicorne LISTEN TO ME. YOU DIDN'T LET ME FINISH WHAT I WAS SAYING. JUST LIKE, MAKE A STORY, MAN. Oh fawked up McCanns. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Thanks so much for the support everyone!! @daveambrose @jdamis @alisonbelter @HannahESmith @Atlanta @AdrienneRobles @mpchristoffels ",
+        "label": "positive"
+    },
+    {
+        "sentence": "is waiting to leave this place...only to sit in traffic ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@semipenguin thanks honey. i think i'd rather have the bumpy ride than the headache. ive been having more since the increase in meds ",
+        "label": "negative"
+    },
+    {
+        "sentence": "this new screen is a bit too big.. at least i can update ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@MRSTravel i just googled Hilsville.  i forgot VA was so huge. you're a little farther away than i expected ",
+        "label": "negative"
+    },
+    {
+        "sentence": "[Link]  and so is he  lol",
+        "label": "positive"
+    },
+    {
+        "sentence": "Its so sad that my cat doesn't fight me when I have to give her her inhaler...she knows it makes her better ",
+        "label": "negative"
+    },
+    {
+        "sentence": "My tummy hurts ",
+        "label": "negative"
+    },
+    {
+        "sentence": "morning twits! beautiful day going for a run ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i missss youu ",
+        "label": "negative"
+    },
+    {
+        "sentence": "nobody will visit my site  [Link]",
+        "label": "negative"
+    },
+    {
+        "sentence": "@littlemissscifi. So you're officially an economist then ",
+        "label": "positive"
+    },
+    {
+        "sentence": "This laptop spoils me. I am laying in bed, thoroughly disinterested in leaving the warmth I am currently enjoying. Gotta go get ready... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@ktbeeper Awesome, then hello, Sis!  I twitpic-ed my pancakes. you can search for it later. hahaha",
+        "label": "positive"
+    },
+    {
+        "sentence": "I found out today that I am a legend. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@MandyyJirouxx u got my back ",
+        "label": "positive"
+    },
+    {
+        "sentence": "And more images following, possibly tomorrow  'Night everyone!",
+        "label": "positive"
+    },
+    {
+        "sentence": "@technokitty09 I'll be back Sunday... woke up with a bad back again  No more lifting TV's for me!",
+        "label": "negative"
+    },
+    {
+        "sentence": "I need to do something active everyday, I'm feeeling very very lazy and that's not good ",
+        "label": "negative"
+    },
+    {
+        "sentence": "#Alchemilla show tonight CANCELED. Sad and sorry ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@reginaestacio me too. its depressing. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "missed the #jonaswebcast ",
+        "label": "negative"
+    },
+    {
+        "sentence": "im at home watching lee evans  &lt;3 17 days till the est time ever &lt;3 loves him sooooooo much &lt;3",
+        "label": "positive"
+    },
+    {
+        "sentence": "Richard's nail on his finger randomly broke... no more guitar... bleh ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@OBSKristine Let me know if you need anyone for interviews. I'd love to be a part of it. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@meganpaige it has been forever  I'm glad to hear&lt;3 good night, love. I will call you tomorrow or lobo can bite me! (very lightly)",
+        "label": "negative"
+    },
+    {
+        "sentence": "@paula_abdul_fan tht doesnt work either ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I miss Oswego a lot more than I thought I would.. I hope this summer goes by fast ",
+        "label": "negative"
+    },
+    {
+        "sentence": "So, what I thought was motion sickness seems to be sticking around in a much more sinister way. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@alexisessa But being in a cubicle means seclusion to me!!!! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Hmm does the fact that I'm cold and it's 81 mean I'm getting sick? Plus I'm a little woozie and feel throw uppie  fuck",
+        "label": "negative"
+    },
+    {
+        "sentence": "Going to the airport ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Apparently its Star Wars Day today - so May the 4th be with you  [Link]",
+        "label": "positive"
+    },
+    {
+        "sentence": "@xelisamarie ikr, it sucks  I have orders from like 20 people to bring back atl merch and krispy kreme donuts.",
+        "label": "negative"
+    },
+    {
+        "sentence": "The moral of the story is: Never leave your condoms in your back pocket, leave them in your car ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Happy father's day to my hubby - great daddy to his three little &quot;birds&quot; (as he calls them). Too bad you have to work today! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "hahah !!! DAVID ARCHIE is right ! the song &quot;Who's got your money&quot; by TINA PAROL will really stuck in your head once you heard it  ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Destini41 Oh, why would you do that to yourself? I haven't watched AMC since Maggie left Pine Valley and her true love behind. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Argh migrane hurts!! It's starting back again  noooooo...ok I'm going to bed",
+        "label": "negative"
+    },
+    {
+        "sentence": "@leonardosuarez it's tonight. Last sessions have been really fun! You are very welcome tonight ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i love the smell of bbq in the summer ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@hotdogjake you did awesome at vocals last night. good job there dog! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@RamonAtQUEST i'll find out this thurs! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@KimSherrell can't be at the casting in person, so here's some of my range  happy  sad :-| stern :-o shocked, when do I start? lol",
+        "label": "negative"
+    },
+    {
+        "sentence": "@JRBounce heeeeey!  How are you?",
+        "label": "positive"
+    },
+    {
+        "sentence": "redsox win 8-1!!! even though lester didnt get the perfect game ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@wildfire198 Is that in FCP? I often have problems with it finding the timecode too. It just takes trial and error I'm afraid ",
+        "label": "positive"
+    },
+    {
+        "sentence": "will try to don't get take a sunburn at Roland Garros ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@shannyrpi NEVER! Been doing it all day. Been alone ",
+        "label": "negative"
+    },
+    {
+        "sentence": "[Link] - Scouting for girls concert. with laulau ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@marco_cali Webber is doing so well. Race is a bit boring though.  @rhettroberts",
+        "label": "negative"
+    },
+    {
+        "sentence": "@mileycyrus Have fun miley!! You deserve it!! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@CescaVonCopburg  what happened ??   please come online on svz or write me back !! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "my phone can no longer send pics ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Josh4Q I got massive shit congestion ",
+        "label": "negative"
+    },
+    {
+        "sentence": "this stokos is sooooooo good! grilled chicken sandwich nd fries that im not supposed to b eating  ...1st time n a month tho,no more!!",
+        "label": "negative"
+    },
+    {
+        "sentence": "i. want. to. go. home. i. hate. it. here. aaand the doctor is gonna want to cut foot open and im gonna cry while listening to bryce avary ",
+        "label": "negative"
+    },
+    {
+        "sentence": "yes i am a twilight nerd. and a twilightaholic. call me a freak if you must. shit i'm still proud of it ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@melvolner  I have I phone. No facetime for me I was with hubby gambling, saw the jabbaz at the tables, and some other lucky saw ddub",
+        "label": "negative"
+    },
+    {
+        "sentence": "Really wishes she was more awake.. But getting up at 330am to work is a bit hard ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@wintersplash dunno yet chessica. baka pmunta ako ng binondo eh, dentist shit.  will text you though. hw bout u?",
+        "label": "negative"
+    },
+    {
+        "sentence": "johnny doesn't want to be a &quot;pretty boy&quot; ",
+        "label": "negative"
+    },
+    {
+        "sentence": "last day of school,oh im gonna miss my friends (and bf) ",
+        "label": "negative"
+    },
+    {
+        "sentence": "i love conan ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@ddlovato oh that is such a sad movie! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@WParenthetical @dandyxands ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@mmmmwaistcoats I'd get it now but my current laptop cant even handle YouTube  ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@iboughtamac Now, be clever and post that sign on a small chest or something and see if anyone comments on it. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Cellobella They don't do them in my size  How r u?",
+        "label": "positive"
+    },
+    {
+        "sentence": "ready to go eat and pay some bills  Hey Nancy lol hmm i might be liking twitter..need more followers lol",
+        "label": "negative"
+    },
+    {
+        "sentence": "@HiddenErin find him and let us know where he is ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@aplusk apparently citizens of Brunei don't have to pay taxes. sadly the only way to become a citizen of Brunei is to be born there ",
+        "label": "negative"
+    },
+    {
+        "sentence": "wants to be down the grassmarket sunning it up with a cold one ",
+        "label": "positive"
+    },
+    {
+        "sentence": "so tired! why the weather is so hot! i wanna swim! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "at the mall w. my girls  funniest bus mishs ever!!",
+        "label": "positive"
+    },
+    {
+        "sentence": "Marley won't watch the French Open unless it's in HD, which it's not...   But my latest political ad is: [Link]",
+        "label": "negative"
+    },
+    {
+        "sentence": "sleepy stomache but i still watch dvd ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Babies are cute...when they aren't yours and you give them back. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@MisterRo I would happily send you my copy except I don't believe in sharing bad books with good people. That's mean. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "My little cousin Mica may have Leukemia. (Don't care if it's spelled wrong.) He's only five. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@heatherinsd I'd make a joke about t-shirts but...  ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i am watching grease  &lt;3",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Maria_Michelle aw poor doggy  well I hope it gets better! miss you girl! are you coming to shadowbox with us on friday?",
+        "label": "negative"
+    },
+    {
+        "sentence": "@StephenMulhern hey,are you on facebook?if so add me plz coz u rock  im amy diane walker,with a picture of ant n dec,am easy to find  xx",
+        "label": "positive"
+    },
+    {
+        "sentence": "@llauren_ having a very lazy day, playing xbox and drinking tea ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@becsendt Oh dear...keep your fingers crossed ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@Prynne12 There is. It's called life.  We just tend to wander further and get ourselves into debt while playing.",
+        "label": "positive"
+    },
+    {
+        "sentence": "still at work  and been coughing all day ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@1stvamp In Thailand. Not too sure how it happened. I wasn't mugged, but everything disappeared from my bag at a bar. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Had a busy day watch some Nascar then went to see my oldest niece dance tonight. She rock the house on her dancing. I'm such a proud aunt ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@justinyost  ha ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@hollyhalvorsen i'lll goo ! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@jessako i can't wait to see the finished product ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@StephenHahn the facial hair is simply a result of gravity ... i only got facial hair after losing it from the top of my head ",
+        "label": "positive"
+    },
+    {
+        "sentence": "missing my daily dose of Scrabble on Facebook ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Wishing @maggie5565 an awesome Monday! Find more bubble wrap yet? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "I wish I could do that too, Kristin  ... bored... kids are eating now... silence looool Or not.... just the way I like it ",
+        "label": "positive"
+    },
+    {
+        "sentence": "good morning world ",
+        "label": "positive"
+    },
+    {
+        "sentence": "G'night twitterverse. Feeling very sorry for myself. ",
+        "label": "negative"
+    },
+    {
+        "sentence": "I do not want to be inside  - [Link]",
+        "label": "negative"
+    },
+    {
+        "sentence": "  just gonna smile...cuz it is what it is..and im not sure what more they could want..",
+        "label": "positive"
+    },
+    {
+        "sentence": "ugh so annoyed wit the rents... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@MicaDsGirl I can't send you a DM, but I'd love to have it! ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Crud! I don't have a hat for golfing! I hope my Navy buddy will loan me 1. It'll probably have some sort of phallic representation on it! ",
+        "label": "negative"
+    },
+    {
+        "sentence": "made a summer time playlist on the blog  [Link] yay summer! #musicmonday",
+        "label": "positive"
+    },
+    {
+        "sentence": "missin my wifey already.... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@UrbanInformer what up man . how u livin ? ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Oh God The Iron Giant makes me so sad ",
+        "label": "negative"
+    },
+    {
+        "sentence": "idk but I feel very sleepy today....  sucks huh.. anyway I'm soon on my way to Syracuse, NY for the rest of the day....",
+        "label": "negative"
+    },
+    {
+        "sentence": "Beautiful Friday today. Too bad I'll be stuck inside for most of it ",
+        "label": "negative"
+    },
+    {
+        "sentence": "New Exclusive E3:09 Teaser for Mass_Effect 2 is up on gametrailers.(Definitely a must watch) [Link] (Shephard isn't dead) ",
+        "label": "positive"
+    },
+    {
+        "sentence": "[Link] Hello! It seems you are a nice man... Nice pics  I would like to meet you ))) What do you think about it? I  ...",
+        "label": "positive"
+    },
+    {
+        "sentence": "off to work. wont get home til 6:30ish. i miss my bed ",
+        "label": "negative"
+    },
+    {
+        "sentence": "Is awake, uni times, bad times ",
+        "label": "negative"
+    },
+    {
+        "sentence": "My Dad chucked away my Taylor Swift album by accident and I didn't get chance to even put it on ITunes  Anyone wanna send me it?!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@fatelvis04 I wish you were too.    Ha!",
+        "label": "negative"
+    },
+    {
+        "sentence": "@DefyGravity81 damn B, espanol and francais? you are one talented lady ",
+        "label": "positive"
+    },
+    {
+        "sentence": "This one girl will not stop staring at me! I dont have any friends with me to do a booger check  Ill just chalk it up to her being rude.",
+        "label": "negative"
+    },
+    {
+        "sentence": "@mela713 I can't stay awake (at work) ",
+        "label": "negative"
+    },
+    {
+        "sentence": "i haaate staying up late... ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@kazdreamer Thanks! You too ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i think its pathetic how some companies (ie the one i work for) treat their employees. there was no need to do what they did  i love gemma",
+        "label": "negative"
+    },
+    {
+        "sentence": "Makin plans to chill with dustin before he goes bye bye ",
+        "label": "negative"
+    },
+    {
+        "sentence": "@Rookbeats that just made me really sad...  I want to throw him from a moving plane.",
+        "label": "negative"
+    },
+    {
+        "sentence": "yay school is now over. Freedom at last. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "i have officially hit the wall, totally nonfunctionalproductive at work ",
+        "label": "negative"
+    },
+    {
+        "sentence": "singing heartless by the fray ",
+        "label": "positive"
+    },
+    {
+        "sentence": "@taylorjus Thats in the Lord's hands... The people He knows need to hear it, will hear it. He always makes a way. ",
+        "label": "positive"
+    },
+    {
+        "sentence": "Wondering what the weather is going to do... we have a work event scheduled tonight. Outdoors.  ",
+        "label": "negative"
+    }
+]

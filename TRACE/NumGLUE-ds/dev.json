@@ -1,0 +1,658 @@
+[
+  {
+    "sentence": "How much does 8 moles of Calcium bromide weigh",
+    "label": "1600"
+  },
+  {
+    "sentence": "Find the amount of H2O formed on combining 3 moles of NH4Cl and 3 moles of KOH",
+    "label": "54"
+  },
+  {
+    "sentence": "What is the molecular weight of a compound having 1 Ba and 2 I",
+    "label": "391"
+  },
+  {
+    "sentence": "Find the amount of NH4I that is required to react with 3 moles of KOH to form 3 moles of NH3, 3 moles of KI and 3 moles of H2O",
+    "label": "435"
+  },
+  {
+    "sentence": "What is the molecular weight of a compound having 1 Ca and 2 H",
+    "label": "42"
+  },
+  {
+    "sentence": "How much does 10 moles of H2CrO4 weigh",
+    "label": "1180"
+  },
+  {
+    "sentence": "How many moles of C2H6 are required to react with 2 moles of Cl2 to form 2 moles of C2H5Cl along with 2 moles of HCl",
+    "label": "2"
+  },
+  {
+    "sentence": "Find the mass percentage of S in Aluminum sulfide",
+    "label": "64"
+  },
+  {
+    "sentence": "Find the number of moles of 1,2-dichloroethane formed on combining 3 moles of Ethane and 6 moles of Chlorine",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the mass percentage of Cl in Bleach",
+    "label": "47.3"
+  },
+  {
+    "sentence": "How many moles of Acetic acid are required to react with 1 mole of Sodium hydroxide to form 1 mole of Sodium Acetate  along with 1 mole of Water",
+    "label": "1"
+  },
+  {
+    "sentence": "Find the amount of CH3COOH that is required to react with 1 mole of NaOH to form 1 mole of NaCH3COO along with 1 mole of H2O",
+    "label": "60"
+  },
+  {
+    "sentence": "How many moles of NaOH are required to react with 2 moles of H2SO4 to form 2 moles of NaHSO4 along with 2 moles of H2O",
+    "label": "2"
+  },
+  {
+    "sentence": "Find the number of moles of Sodium chloride formed on combining 3 moles of Sodium hydroxide and 3 moles of Hydrochrolic acid",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the number of moles of NaCl formed on combining 1 mole of NH4Cl and 1 mole of NaOH",
+    "label": "1"
+  },
+  {
+    "sentence": "Find the number of moles of H2CO3 formed on combining 2 moles of CO2 and 2 moles of H2O",
+    "label": "2"
+  },
+  {
+    "sentence": "What is the molecular weight of 6 moles of C4H8O2",
+    "label": "528"
+  },
+  {
+    "sentence": "Find the number of moles of NaCl formed on combining 3 moles of NH4Cl and 3 moles of NaOH",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the amount of Water formed on combining 1 mole of Ethanol and 1 mole of Oxygen",
+    "label": "18"
+  },
+  {
+    "sentence": "Find the amount of Water that is required to react with 1 mole of Calcium oxide to form 1 mole of Calcium hydroxide",
+    "label": "18"
+  },
+  {
+    "sentence": "Find molecular weight of NH4Cl",
+    "label": "53"
+  },
+  {
+    "sentence": "How much does 9 moles of Chromic acid weigh",
+    "label": "1062"
+  },
+  {
+    "sentence": "Find molecular weight of C3H6O",
+    "label": "58"
+  },
+  {
+    "sentence": "Calculate molecular weight of Benzene",
+    "label": "78"
+  },
+  {
+    "sentence": "Find the number of moles of NaClO formed on combining 6 moles of NaOH and 3 moles of Cl2",
+    "label": "3"
+  },
+  {
+    "sentence": "Find molecular weight of BaBr2",
+    "label": "297"
+  },
+  {
+    "sentence": "What is the molecular weight of a compound having 1 Carbon and 1 Oxygen",
+    "label": "28"
+  },
+  {
+    "sentence": "What is the molecular weight of 10 moles of Aluminum fluoride",
+    "label": "840"
+  },
+  {
+    "sentence": "A boy needs to cover a distance of 8640 meters in 36 minutes. Find his average speed in meters per second.",
+    "label": "4"
+  },
+  {
+    "sentence": "Find the amount of H2O formed on combining 6 moles of HCl and 3 moles of CaCO3",
+    "label": "54"
+  },
+  {
+    "sentence": "How many moles of Fe are required to react with 3 moles of H2SO4 to form 3 moles of FeSO4 along with 3 moles of H2",
+    "label": "3"
+  },
+  {
+    "sentence": "Find molecular weight of Al2O3",
+    "label": "102"
+  },
+  {
+    "sentence": "How much does 3 moles of Aluminum bromide weigh",
+    "label": "801"
+  },
+  {
+    "sentence": "Calculate molecular weight of Calcium carbonate",
+    "label": "100"
+  },
+  {
+    "sentence": "A boy needs to cover a distance of 9720 meters in 54 minutes. Find his average speed in meters per second.",
+    "label": "3"
+  },
+  {
+    "sentence": "How much does 5 moles of Ammonium bromide weigh",
+    "label": "490"
+  },
+  {
+    "sentence": "Find molecular weight of AlBr3",
+    "label": "267"
+  },
+  {
+    "sentence": "Find the number of moles of NaCl formed on combining 3 moles of HCl and 3 moles of NaHCO3",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the number of moles of Hydrochrolic acid formed on combining 1 mole of Ethane and 1 mole of Chlorine",
+    "label": "1"
+  },
+  {
+    "sentence": "Find the number of moles of Carbonic acid  formed on combining 3 moles of Carbon dioxide and 3 moles of Water",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the amount of NH4Cl that is required to react with 2 moles of KOH to form 2 moles of NH3, 2 moles of H2O and 2 moles of KCl",
+    "label": "106"
+  },
+  {
+    "sentence": "Find the mass percentage of I in CaI2",
+    "label": "86.39"
+  },
+  {
+    "sentence": "Find the mass percentage of N in Ammonium iodide",
+    "label": "9.66"
+  },
+  {
+    "sentence": "How many moles of Sodium chloride are required to react with 1 mole of Potassium Nitrate to form 1 mole of Sodium nitrate along with 1 mole of Potassium chloride",
+    "label": "1"
+  },
+  {
+    "sentence": "How many moles of Lithium nitride are required to react with 3 moles of Water to form 3 moles of Lithium hydroxide along with 1 mole of Ammonia",
+    "label": "1"
+  },
+  {
+    "sentence": "Find the number of moles of CO2 formed on combining 2 moles of NaHCO3 and 2 moles of HC2H3O2",
+    "label": "2"
+  },
+  {
+    "sentence": "Find molecular weight of Ca(OH)2",
+    "label": "74"
+  },
+  {
+    "sentence": "How many moles of Cl2 are required to react with 2 moles of CH4 to form 2 moles of CHCl3 along with 6 moles of HCl",
+    "label": "6"
+  },
+  {
+    "sentence": "Find the mass percentage of Br in Barium bromide",
+    "label": "53.87"
+  },
+  {
+    "sentence": "How many moles of Bromine are required to react with 3 moles of Methane to form 3 moles of Bromomethane along with 3 moles of Hydrogen bromide",
+    "label": "3"
+  },
+  {
+    "sentence": "Calculate molecular weight of Bleach",
+    "label": "74"
+  },
+  {
+    "sentence": "What is the molecular weight of 5 moles of Ammonium chloride",
+    "label": "265"
+  },
+  {
+    "sentence": "Find the mass percentage of Cl in Chlorous acid",
+    "label": "51.47"
+  },
+  {
+    "sentence": "Find the mass percentage of O in Calcium carbonate",
+    "label": "48"
+  },
+  {
+    "sentence": "Find the mass percentage of H in C4H8O2",
+    "label": "9.09"
+  },
+  {
+    "sentence": "A train covered 80 m at an average speed of 10 m/s. What is the total duration of the journey?",
+    "label": "8"
+  },
+  {
+    "sentence": "How many moles of NaOH are required to react with 1 mole of H2SO4 to form 1 mole of NaHSO4 along with 1 mole of H2O",
+    "label": "1"
+  },
+  {
+    "sentence": "How many moles of NH3 are required to react with 1 mole of H2SO4 to form 1 mole of (NH4)2SO4",
+    "label": "2"
+  },
+  {
+    "sentence": "Find the mass percentage of C in C7H6O2",
+    "label": "68.85"
+  },
+  {
+    "sentence": "Find the mass percentage of C in C6H8O6",
+    "label": "40.91"
+  },
+  {
+    "sentence": "Find the mass percentage of H in Ammonia",
+    "label": "22.22"
+  },
+  {
+    "sentence": "How many moles of HCl are required to react with 1 mole of CaCO3 to form 1 mole of CaCl2, 1 mole of CO2 and 1 mole of H2O",
+    "label": "2"
+  },
+  {
+    "sentence": "Find the number of moles of Ammonia formed on combining 1 mole of Ammonium chloride and 1 mole of Sodium hydroxide",
+    "label": "1"
+  },
+  {
+    "sentence": "Find molecular weight of Ba(OH)2",
+    "label": "171"
+  },
+  {
+    "sentence": "How many moles of H2O are required to react with 2 moles of Be2C to form 4 moles of Be(OH)2 along with 2 moles of CH4",
+    "label": "8"
+  },
+  {
+    "sentence": "Find molecular weight of BaF2",
+    "label": "175"
+  },
+  {
+    "sentence": "Find the number of moles of H2O formed on combining 3 moles of KOH and 3 moles of NH4I",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the mass percentage of H in C6H8O6",
+    "label": "4.55"
+  },
+  {
+    "sentence": "What is the molecular weight of a compound having 1 N and 4 H",
+    "label": "18"
+  },
+  {
+    "sentence": "Find the number of moles of Potassium chloride formed on combining 2 moles of Hydrochrolic acid and 2 moles of Potassium hydroxide",
+    "label": "2"
+  },
+  {
+    "sentence": "Find molecular weight of CO",
+    "label": "28"
+  },
+  {
+    "sentence": "Find the amount of H2O that is required to react with 1 mole of SO3 to form 1 mole of H2SO4",
+    "label": "18"
+  },
+  {
+    "sentence": "Calculate molecular weight of Ascorbic acid",
+    "label": "176"
+  },
+  {
+    "sentence": "Find the mass percentage of Ca in Calcium carbonate",
+    "label": "40"
+  },
+  {
+    "sentence": "Find the number of moles of Water formed on combining 2 moles of Ammonium nitrate  and 2 moles of Sodium hydroxide",
+    "label": "2"
+  },
+  {
+    "sentence": "How much does 6 moles of HBrO3 weigh",
+    "label": "774"
+  },
+  {
+    "sentence": "Calculate molecular weight of Dinitrogen trioxide",
+    "label": "76"
+  },
+  {
+    "sentence": "Calculate molecular weight of Aluminum bromide",
+    "label": "267"
+  },
+  {
+    "sentence": "How much does 4 moles of Al2S3 weigh",
+    "label": "600"
+  },
+  {
+    "sentence": "How many moles of KOH are required to react with 3 moles of NH4Cl to form 3 moles of NH3, 3 moles of H2O and 3 moles of KCl",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the amount of Water formed on combining 3 moles of Sodium hydroxide and 3 moles of Hydrochrolic acid",
+    "label": "54"
+  },
+  {
+    "sentence": "Find the number of moles of Acetic acid formed on combining 3 moles of Ethanol and 3 moles of Oxygen",
+    "label": "3"
+  },
+  {
+    "sentence": "How many moles of Sodium bicarbonate are required to react with 3 moles of Nitric acid to form 3 moles of Sodium nitrate, 3 moles of Carbon dioxide and 3 moles of Water",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the amount of Water formed on combining 4 moles of Sodium hydroxide and 2 moles of Chlorine",
+    "label": "36"
+  },
+  {
+    "sentence": "A bike covers 912 meters in 19 seconds. If car's speed is one fourth of the car. Find the distance covered by the bike in 4 seconds",
+    "label": "48"
+  },
+  {
+    "sentence": "A train travelled 42 m in 6 seconds. Find the average speed of the train.",
+    "label": "7"
+  },
+  {
+    "sentence": "Find the mass percentage of O in Calcium oxide",
+    "label": "28.57"
+  },
+  {
+    "sentence": "How many moles of HCl are required to react with 1 mole of NaOH to form 1 mole of NaCl along with 1 mole of H2O",
+    "label": "1"
+  },
+  {
+    "sentence": "Find the number of moles of LiOH formed on combining 2 moles of Li3N and 6 moles of H2O",
+    "label": "6"
+  },
+  {
+    "sentence": "Find the number of moles of Ethane formed on combining 3 moles of Acetylene and 6 moles of Hydrogen",
+    "label": "3"
+  },
+  {
+    "sentence": "What is the molecular weight of a compound having 1 Ba and 2 F",
+    "label": "175"
+  },
+  {
+    "sentence": "Find the mass percentage of Al in Al2S3",
+    "label": "36"
+  },
+  {
+    "sentence": "Calculate molecular weight of Iron oxide",
+    "label": "160"
+  },
+  {
+    "sentence": "What is the molecular weight of 8 moles of Dinitrogen monoxide",
+    "label": "352"
+  },
+  {
+    "sentence": "How many moles of Chlorine are required to react with 3 moles of Ethane to form 3 moles of Chloroethane along with 3 moles of Hydrochrolic acid",
+    "label": "3"
+  },
+  {
+    "sentence": "A bike covers 1224 meters in 17 seconds. If car's speed is one fourth of the car. Find the distance covered by the bike in 4 seconds",
+    "label": "72"
+  },
+  {
+    "sentence": "How much does 9 moles of CO weigh",
+    "label": "252"
+  },
+  {
+    "sentence": "Find the number of moles of KHSO4 formed on combining 2 moles of KOH and 2 moles of H2SO4",
+    "label": "2"
+  },
+  {
+    "sentence": "Find the mass percentage of O in Butanoic acid",
+    "label": "36.36"
+  },
+  {
+    "sentence": "Find the mass percentage of Al in Al2S3",
+    "label": "36"
+  },
+  {
+    "sentence": "How many moles of Ethane are required to react with 6 moles of Chlorine to form 3 moles of 1,2-dichloroethane along with 6 moles of Hydrochrolic acid",
+    "label": "3"
+  },
+  {
+    "sentence": "How many moles of HCl are required to react with 1 mole of NaHCO3 to form 1 mole of H2O, 1 mole of CO2 and 1 mole of NaCl",
+    "label": "1"
+  },
+  {
+    "sentence": "Find the number of moles of CHCl3 formed on combining 3 moles of CH4 and 9 moles of Cl2",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the number of moles of CO2 formed on combining 1 mole of HCl and 1 mole of NaHCO3",
+    "label": "1"
+  },
+  {
+    "sentence": "Find molecular weight of NaClO",
+    "label": "74"
+  },
+  {
+    "sentence": "Find the mass percentage of Al in AlI3",
+    "label": "6.62"
+  },
+  {
+    "sentence": "A bike travelled 21 m in 7 seconds. Find the average speed of the bike.",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the mass percentage of O in Aluminum carbonate",
+    "label": "61.54"
+  },
+  {
+    "sentence": "Find the amount of Water formed on combining 1 mole of Hydrochrolic acid and 1 mole of Sodium bicarbonate",
+    "label": "18"
+  },
+  {
+    "sentence": "Find the amount of Ammonium chloride that is required to react with 1 mole of Potassium hydroxide to form 1 mole of Ammonia, 1 mole of Water and 1 mole of Potassium chloride",
+    "label": "53"
+  },
+  {
+    "sentence": "How much does 8 moles of CaBr2 weigh",
+    "label": "1600"
+  },
+  {
+    "sentence": "Find the mass percentage of C in C3H6O",
+    "label": "62.07"
+  },
+  {
+    "sentence": "How many moles of Chlorine are required to react with 2 moles of Methane to form 2 moles of Tetrachloromethane along with 8 moles of Hydrochrolic acid",
+    "label": "8"
+  },
+  {
+    "sentence": "Find the mass percentage of Fe in Fe2O3",
+    "label": "70"
+  },
+  {
+    "sentence": "Find molecular weight of C6H8O7",
+    "label": "192"
+  },
+  {
+    "sentence": "What is the molecular weight of a compound having 1 Calcium, 2 Oxygen, and 2 Hydrogen",
+    "label": "74"
+  },
+  {
+    "sentence": "Find the number of moles of H2 formed on combining 2 moles of C2H6 and 4 moles of O2",
+    "label": "6"
+  },
+  {
+    "sentence": "How many moles of Methane are required to react with 2 moles of Tetrachloromethane to form 4 moles of Dichloromethane",
+    "label": "2"
+  },
+  {
+    "sentence": "Find the amount of Water formed on combining 1 mole of Carbon dioxide and 2 moles of Ammonia",
+    "label": "18"
+  },
+  {
+    "sentence": "Find the mass percentage of Al in Aluminum sulfide",
+    "label": "36"
+  },
+  {
+    "sentence": "How many moles of Ammonia are required to react with 3 moles of Hydrochrolic acid to form 3 moles of Ammonium chloride",
+    "label": "3"
+  },
+  {
+    "sentence": "How many moles of NaOH are required to react with 1 mole of Cl2 to form 1 mole of NaClO, 1 mole of NaCl and 1 mole of H2O",
+    "label": "2"
+  },
+  {
+    "sentence": "What is the molecular weight of a compound having 1 Calcium and 1 Oxygen",
+    "label": "56"
+  },
+  {
+    "sentence": "How many moles of Methane are required to react with 12 moles of Chlorine to form 3 moles of Tetrachloromethane along with 12 moles of Hydrochrolic acid",
+    "label": "3"
+  },
+  {
+    "sentence": "What is the molecular weight of 3 moles of CaI2",
+    "label": "882"
+  },
+  {
+    "sentence": "Find the amount of Water formed on combining 2 moles of Hydrochrolic acid and 2 moles of Sodium bicarbonate",
+    "label": "36"
+  },
+  {
+    "sentence": "Find the number of moles of Hydrogen bromide formed on combining 3 moles of Methane and 3 moles of Bromine",
+    "label": "3"
+  },
+  {
+    "sentence": "Find the number of moles of HCl formed on combining 3 moles of C2H6 and 6 moles of Cl2",
+    "label": "6"
+  },
+  {
+    "sentence": "Find the mass percentage of F in Barium fluoride",
+    "label": "21.71"
+  },
+  {
+    "sentence": "How many moles of Hydrogen are required to react with 1 mole of Carbon to form 1 mole of Methane",
+    "label": "2"
+  },
+  {
+    "sentence": "How much does 8 moles of C4H1O weigh",
+    "label": "520"
+  },
+  {
+    "sentence": "Find molecular weight of Fe2O3",
+    "label": "160"
+  },
+  {
+    "sentence": "Find the mass percentage of O in Acetone",
+    "label": "27.59"
+  },
+  {
+    "sentence": "How many moles of Methane are required to react with 2 moles of Benzene to form 2 moles of Toluene along with 2 moles of Hydrogen",
+    "label": "2"
+  },
+  {
+    "sentence": "Find the mass percentage of C in C6H8O7",
+    "label": "37.5"
+  },
+  {
+    "sentence": "How many moles of H2SO4 are required to react with 1 mole of Mg to form 1 mole of MgSO4 along with 1 mole of H2",
+    "label": "1"
+  },
+  {
+    "sentence": "A bike covered 48 m at an average speed of 8 m/s. What is the total duration of the journey?",
+    "label": "6"
+  },
+  {
+    "sentence": "Find the mass percentage of O in Calcium hydroxide",
+    "label": "43.24"
+  },
+  {
+    "sentence": "Find the mass percentage of H in C6H8O7",
+    "label": "4.17"
+  },
+  {
+    "sentence": "How much does 8 moles of Carbon tetrachloride weigh",
+    "label": "1216"
+  },
+  {
+    "sentence": "Find the mass percentage of Al in Al(OH)3",
+    "label": "34.62"
+  },
+  {
+    "sentence": "How much does 10 moles of Ammonium chloride weigh",
+    "label": "530"
+  },
+  {
+    "sentence": "Find the number of moles of Sodium chloride formed on combining 2 moles of Sodium hydroxide and 2 moles of Hydrochrolic acid",
+    "label": "2"
+  },
+  {
+    "sentence": "What is the molecular weight of 7 moles of Aluminum phosphate",
+    "label": "854"
+  },
+  {
+    "sentence": "How many moles of NH3 are required to react with 1 mole of HCl to form 1 mole of NH4Cl",
+    "label": "1"
+  },
+  {
+    "sentence": "Find the mass percentage of O in C6H8O7",
+    "label": "58.33"
+  },
+  {
+    "sentence": "What is the molecular weight of a compound having 1 N, 4 H, and 1 Cl",
+    "label": "53"
+  },
+  {
+    "sentence": "How many moles of CH4 are required to react with 2 moles of O2 to form 1 mole of CO2 along with 2 moles of H2O",
+    "label": "1"
+  },
+  {
+    "sentence": "A bike covers 912 meters in 19 seconds. If car's speed is one fourth of the car. Find the distance covered by the bike in 8 seconds",
+    "label": "96"
+  },
+  {
+    "sentence": "Find the number of moles of Water formed on combining 1 mole of Ammonium chloride and 1 mole of Sodium hydroxide",
+    "label": "1"
+  },
+  {
+    "sentence": "Find the mass percentage of P in AlPO4",
+    "label": "25.41"
+  },
+  {
+    "sentence": "What is the molecular weight of 10 moles of Iron oxide",
+    "label": "1600"
+  },
+  {
+    "sentence": "How much does 8 moles of Butane weigh",
+    "label": "520"
+  },
+  {
+    "sentence": "How much does 8 moles of Aluminum phosphate weigh",
+    "label": "976"
+  },
+  {
+    "sentence": "Find the number of moles of Ethane formed on combining 2 moles of Hydrogen and 2 moles of Ethene",
+    "label": "2"
+  },
+  {
+    "sentence": "Find the mass percentage of O in K2Cr2O7",
+    "label": "37.84"
+  },
+  {
+    "sentence": "A boy needs to cover a distance of 1800 meters in 30 minutes. Find his average speed in meters per second.",
+    "label": "1"
+  },
+  {
+    "sentence": "How many moles of Cl2 are required to react with 3 moles of CH4 to form 3 moles of CH2Cl2 along with 6 moles of HCl",
+    "label": "6"
+  },
+  {
+    "sentence": "A bike travelled 70 m in 10 seconds. Find the average speed of the bike.",
+    "label": "7"
+  },
+  {
+    "sentence": "Find the mass percentage of O in KBrO3",
+    "label": "28.57"
+  },
+  {
+    "sentence": "Find the mass percentage of Ba in Ba(OH)2",
+    "label": "80.12"
+  },
+  {
+    "sentence": "Find the mass percentage of O in H2CO3",
+    "label": "77.42"
+  },
+  {
+    "sentence": "A bike covered 48 m at an average speed of 8 m/s. What is the total duration of the journey?",
+    "label": "6"
+  },
+  {
+    "sentence": "Find the amount of H2O formed on combining 2 moles of NaHSO3 and 2 moles of HCl",
+    "label": "36"
+  }
+]

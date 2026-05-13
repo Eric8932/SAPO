@@ -1,0 +1,22 @@
+[
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task195_sentiment140_classification"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task360_spolin_yesand_response_generation"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task611_mutual_multi_turn_dialogue"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task002_quoref_answer_generation"
+    },
+    {
+        "sampling strategy": "full",
+        "dataset_name": "task224_scruples_anecdotes_ethical_judgment"
+    }
+]

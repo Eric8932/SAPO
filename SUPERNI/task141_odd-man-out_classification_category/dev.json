@@ -1,0 +1,2602 @@
+[
+    {
+        "sentence": "Category: baby animals \nWords: fawn, hatchling, kid, lust, calf",
+        "label": "lust"
+    },
+    {
+        "sentence": "Category: food \nWords: hot dog, frank, blunt, entree, provision",
+        "label": "blunt"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: jail time, prime, arrest, there, fine",
+        "label": "there"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: just, ok, honorable, fair, sunny",
+        "label": "sunny"
+    },
+    {
+        "sentence": "Category: weather \nWords: texture, clime, make the grade, fair, mild",
+        "label": "texture"
+    },
+    {
+        "sentence": "Category: construction \nWords: steam roller, digger, crane, derrick, tackle",
+        "label": "derrick"
+    },
+    {
+        "sentence": "Category: construction \nWords: hoist, concrete pourer, excavator, crane, goose",
+        "label": "goose"
+    },
+    {
+        "sentence": "Category: outdoor sport activity \nWords: hunting, bat, trap, fish, camp",
+        "label": "bat"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: fair, make the grade, trustworthy, alright, just",
+        "label": "make the grade"
+    },
+    {
+        "sentence": "Category: boats \nWords: sail, deck, fold, bow, galley",
+        "label": "fold"
+    },
+    {
+        "sentence": "Category: temperature \nWords: cold, icy, chill, cool, ethical",
+        "label": "ethical"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: attractive, neat, pretty, jail time, fine",
+        "label": "jail time"
+    },
+    {
+        "sentence": "Category: poker \nWords: pack, suits, draw, deck, corner",
+        "label": "corner"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: trustworthy, decent, fair, tone, ok",
+        "label": "tone"
+    },
+    {
+        "sentence": "Category: weather \nWords: deal, raining, stormy, fair, even",
+        "label": "even"
+    },
+    {
+        "sentence": "Category: physical property \nWords: carbs, chunky, fat, obese, skinny",
+        "label": "carbs"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: dance hall, cinema, club, team, hamburger",
+        "label": "hamburger"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: plunge, winter, climb, fall, stoop",
+        "label": "winter"
+    },
+    {
+        "sentence": "Category: corporate \nWords: unyielding, synergy, sustainability, united, firm",
+        "label": "unyielding"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: matter of fact, honest, sausage, stern, frank",
+        "label": "sausage"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: combustion, hire, fire, let go, recruit",
+        "label": "combustion"
+    },
+    {
+        "sentence": "Category: weather \nWords: raining, stormy, cold, fair, tone",
+        "label": "tone"
+    },
+    {
+        "sentence": "Category: animal \nWords: camp, cow, iguana, sea turtle, fish",
+        "label": "camp"
+    },
+    {
+        "sentence": "Category: window material \nWords: dish, glass, panel, acrylic, spyhole",
+        "label": "dish"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: even, fair, dishonest, cool, milky",
+        "label": "dishonest"
+    },
+    {
+        "sentence": "Category: bird \nWords: digger, swallow, swift, crane, goose",
+        "label": "digger"
+    },
+    {
+        "sentence": "Category: weather \nWords: fair, raining, trustworthy, endure, 70",
+        "label": "trustworthy"
+    },
+    {
+        "sentence": "Category: accomodation \nWords: even, flat, mansion, paved, cabin",
+        "label": "paved"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fine, level, well, beautiful, high quality",
+        "label": "well"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: acceptable, fine, calm, pretty, relaxed",
+        "label": "pretty"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, milky, sunny, tone, pale",
+        "label": "sunny"
+    },
+    {
+        "sentence": "Category: poker \nWords: hearts, suits, glove, board, deck",
+        "label": "glove"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: flyaway, pretty, money, wispy, fine",
+        "label": "pretty"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: schedule, file, organize, space, order office supplies",
+        "label": "space"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: level, decent, ok, trustworthy, fair",
+        "label": "level"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: well, windy, even, fair, level",
+        "label": "windy"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: unlicensed, invent, lie, fudge, cookies",
+        "label": "cookies"
+    },
+    {
+        "sentence": "Category: guitar part \nWords: inlays, string, fret, emotional, chord",
+        "label": "emotional"
+    },
+    {
+        "sentence": "Category: computers \nWords: space, download, support, file, format",
+        "label": "support"
+    },
+    {
+        "sentence": "Category: emotional display \nWords: fawn, antling, lust, suppressed, love",
+        "label": "antling"
+    },
+    {
+        "sentence": "Category: ocean \nWords: brine, do tests, sea, jetstream, current",
+        "label": "do tests"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: ant, train, walk, jog, fly",
+        "label": "ant"
+    },
+    {
+        "sentence": "Category: corporate \nWords: alignment, private, firm, ceo, solid",
+        "label": "solid"
+    },
+    {
+        "sentence": "Category: direction \nWords: down, right, below, descending, emotional",
+        "label": "emotional"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: hot dog, matter of fact, honesty, bold, frank",
+        "label": "hot dog"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: entree, honest, loyalty, frank, fortitude",
+        "label": "entree"
+    },
+    {
+        "sentence": "Category: military rank \nWords: sargent, universal, general, admiral, private",
+        "label": "universal"
+    },
+    {
+        "sentence": "Category: animal \nWords: bat, tiger, cow, fish, kayak",
+        "label": "kayak"
+    },
+    {
+        "sentence": "Category: measurement unit \nWords: foot, pound, ounce, shin, centimeter",
+        "label": "shin"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: fix, chocolate cake, fudge, lie, smuggled",
+        "label": "chocolate cake"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: canvas, check, apron, corner, deck",
+        "label": "check"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: replace, unwarranted, pie, fudge, unlicensed",
+        "label": "pie"
+    },
+    {
+        "sentence": "Category: activity \nWords: misuse, danish, fritter, dally, whittle",
+        "label": "danish"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: cool, tone, fair, variety, just",
+        "label": "just"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, texture, light, flaxen, tangle",
+        "label": "tangle"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: stoop, fall, cold, run, swim",
+        "label": "cold"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: fib, fudge, falsehood, invent, cake",
+        "label": "cake"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: fudge, tart, chocolate cake, falsehood, cupcake",
+        "label": "falsehood"
+    },
+    {
+        "sentence": "Category: physical property \nWords: heavy, fat, skinny, calories, ugly",
+        "label": "calories"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: well, decent, dull, comfortable, fine",
+        "label": "dull"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: make the grade, even, fair, color, cool",
+        "label": "make the grade"
+    },
+    {
+        "sentence": "Category: physical property \nWords: ugly, protein, large, heavy, fat",
+        "label": "protein"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: cookies, replace, chocolate cake, tart, fudge",
+        "label": "replace"
+    },
+    {
+        "sentence": "Category: weather \nWords: fair, stormy, deal, loyal, luke",
+        "label": "loyal"
+    },
+    {
+        "sentence": "Category: boats \nWords: fight, head, dock, deck, gunwale",
+        "label": "fight"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: honorable, fair, variety, tone, flaxen",
+        "label": "honorable"
+    },
+    {
+        "sentence": "Category: boats \nWords: galley, rudder, deck, jab, bow",
+        "label": "jab"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: club, bacon, grilled cheese, discothek, blt",
+        "label": "discothek"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: mad, classy, fine, handsome, detailed",
+        "label": "mad"
+    },
+    {
+        "sentence": "Category: computers \nWords: download, software, ram, errands, file",
+        "label": "errands"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: medium, decent, fair, light, variety",
+        "label": "decent"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: truffles, lie, falsehood, wrongful, fudge",
+        "label": "truffles"
+    },
+    {
+        "sentence": "Category: guitar part \nWords: amp, emotionalities, output cord, fret, pick",
+        "label": "emotionalities"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: mad, content, relaxed, fine, ticket",
+        "label": "ticket"
+    },
+    {
+        "sentence": "Category: type of rigidity \nWords: solid, sustainability, firm, resistant, inflexible",
+        "label": "sustainability"
+    },
+    {
+        "sentence": "Category: location (proximity) \nWords: beside, close, neighboring, finished for the day, adjacent",
+        "label": "finished for the day"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: fine, jail, prison, comfortable, flyaway",
+        "label": "comfortable"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, well, even, alright, color",
+        "label": "alright"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: beetle, fly, soar, bus, car",
+        "label": "beetle"
+    },
+    {
+        "sentence": "Category: animal \nWords: bee, grasshopper, walk, fly, waggle",
+        "label": "walk"
+    },
+    {
+        "sentence": "Category: card games \nWords: poker, blackjack, gin, spades, whisky",
+        "label": "whisky"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: brownies, fudge, molasses, pie, unwarranted",
+        "label": "unwarranted"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: burger, picnic, open-faced, club, doorstep",
+        "label": "picnic"
+    },
+    {
+        "sentence": "Category: physical property \nWords: absorption, skinny, ugly, fat, sugar",
+        "label": "sugar"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, ok, cool, texture, ghostly",
+        "label": "ok"
+    },
+    {
+        "sentence": "Category: corporate \nWords: firm, combined, amalgamated, solid, synergy",
+        "label": "solid"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: french toast, clan, submarine, club, burger",
+        "label": "clan"
+    },
+    {
+        "sentence": "Category: measurement unit \nWords: foot, meter, milimeter, shin, centimeter",
+        "label": "shin"
+    },
+    {
+        "sentence": "Category: bird \nWords: goose, crane, upraise, ostrich, egret",
+        "label": "upraise"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: prison, exquisite, detailed, fine, high quality",
+        "label": "prison"
+    },
+    {
+        "sentence": "Category: weather \nWords: fair, stormy, raining, balanced, endure",
+        "label": "balanced"
+    },
+    {
+        "sentence": "Category: personal characteristic \nWords: relaxing, optimist, cool, classy, relaxed",
+        "label": "relaxing"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: loyal, sunny, fair, balanced, impartial",
+        "label": "sunny"
+    },
+    {
+        "sentence": "Category: computers \nWords: folder, image, file, prepare, keys",
+        "label": "prepare"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: squat, sheep, duck, fall, dodge",
+        "label": "sheep"
+    },
+    {
+        "sentence": "Category: window material \nWords: glass, acrylic, colander, vinyl, panel",
+        "label": "colander"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: jail time, fine, prison, detailed, jail",
+        "label": "detailed"
+    },
+    {
+        "sentence": "Category: military rank \nWords: commander, common, captain, sargent, general",
+        "label": "common"
+    },
+    {
+        "sentence": "Category: boats \nWords: crew, deck, gunwale, bridge, blind",
+        "label": "blind"
+    },
+    {
+        "sentence": "Category: direction \nWords: down, forward, unhappy, ground, falling",
+        "label": "unhappy"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: organize, file, make coffee, image, correspondence",
+        "label": "image"
+    },
+    {
+        "sentence": "Category: bird \nWords: duck, crane, concrete pourer, goose, neck",
+        "label": "concrete pourer"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: club, french toast, community, grilled cheese, blt",
+        "label": "community"
+    },
+    {
+        "sentence": "Category: weather \nWords: fair, make the grade, just, luke, warm",
+        "label": "just"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: team, group, convention, club, submarine",
+        "label": "submarine"
+    },
+    {
+        "sentence": "Category: bird \nWords: crane, swallow, egret, windlass, ostrich",
+        "label": "windlass"
+    },
+    {
+        "sentence": "Category: animal \nWords: dangle, fish, glide, fly, cockroach",
+        "label": "glide"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: unjust, tangle, decent, equitable, fair",
+        "label": "tangle"
+    },
+    {
+        "sentence": "Category: animals \nWords: duck, goose, dog, cat, jog",
+        "label": "jog"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: prime, custody, bright, fine, prison",
+        "label": "bright"
+    },
+    {
+        "sentence": "Category: animal \nWords: fish, dog, goat, kayak, bat",
+        "label": "kayak"
+    },
+    {
+        "sentence": "Category: fried food \nWords: misuse, fritter, cake, pastry, sweet roll",
+        "label": "misuse"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: submarine, club, cinema, bacon, roll",
+        "label": "cinema"
+    },
+    {
+        "sentence": "Category: ocean \nWords: current, course, detestings, moon, sea",
+        "label": "detestings"
+    },
+    {
+        "sentence": "Category: bird \nWords: ostrich, digger, sandpiper, crane, goose",
+        "label": "digger"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: level, prison, fine, suspension, firstrate",
+        "label": "level"
+    },
+    {
+        "sentence": "Category: widespread \nWords: universal, popular, boring, admiral, general",
+        "label": "admiral"
+    },
+    {
+        "sentence": "Category: direction \nWords: emotional state, below, down, right, south",
+        "label": "emotional state"
+    },
+    {
+        "sentence": "Category: animal \nWords: tiger, horse, fish, hunting, dog",
+        "label": "hunting"
+    },
+    {
+        "sentence": "Category: outdoor sport activity \nWords: hunting, fish, sea turtle, hiking, camp",
+        "label": "sea turtle"
+    },
+    {
+        "sentence": "Category: military rank \nWords: admiral, popular, fighter, general, lieutenant",
+        "label": "popular"
+    },
+    {
+        "sentence": "Category: bird \nWords: parrot, crane, egret, swift, excavator",
+        "label": "excavator"
+    },
+    {
+        "sentence": "Category: widespread \nWords: plain, private, standard, general, typical",
+        "label": "private"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: let go, instruct, sack, fire, earth",
+        "label": "earth"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: answer, answer calls, space, file, schedule",
+        "label": "space"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: fair, just, unjust, stormy, dishonest",
+        "label": "stormy"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: attractive, fine, firstrate, ticket, money",
+        "label": "attractive"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: fair, color, unprejudiced, fine, decent",
+        "label": "color"
+    },
+    {
+        "sentence": "Category: corporate \nWords: unyielding, concerted, firm, combined, united",
+        "label": "unyielding"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: content, activity, fearful, file, thing",
+        "label": "fearful"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fine, attractive, dull, there, firstrate",
+        "label": "firstrate"
+    },
+    {
+        "sentence": "Category: guitar part \nWords: neck, fret, jack, pick, angry",
+        "label": "angry"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: blocking, corner, deck, fight, hearts",
+        "label": "hearts"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, deal, well, light, color",
+        "label": "deal"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: detailed, fine, handsome, happy, hot",
+        "label": "happy"
+    },
+    {
+        "sentence": "Category: fried food \nWords: dumpling, danish, spend, blueberry, fritter",
+        "label": "spend"
+    },
+    {
+        "sentence": "Category: kitchenware \nWords: cup, spoon, handle, knifer, glass",
+        "label": "handle"
+    },
+    {
+        "sentence": "Category: animal \nWords: fish, mice, sea turtle, shark, swim",
+        "label": "swim"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: organize, type, folder, make coffee, file",
+        "label": "folder"
+    },
+    {
+        "sentence": "Category: food \nWords: meat, integrity, grub, frank, weenie",
+        "label": "integrity"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: classy, alright, detailed, fine, bright",
+        "label": "alright"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: eagle, flutter, fly, swim, train",
+        "label": "eagle"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: ticket, content, ok, fine, acceptable",
+        "label": "ticket"
+    },
+    {
+        "sentence": "Category: fried food \nWords: dumpling, whittle, cake, dunker, fritter",
+        "label": "whittle"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: impartial, trustworthy, level, fair, equitable",
+        "label": "level"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: happy, bright, well, alright, fine",
+        "label": "bright"
+    },
+    {
+        "sentence": "Category: weather \nWords: fair, well, make the grade, luke, mild",
+        "label": "well"
+    },
+    {
+        "sentence": "Category: widespread \nWords: boring, cadet, basic, general, normal",
+        "label": "cadet"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: level, deck, glove, knockout, stern",
+        "label": "stern"
+    },
+    {
+        "sentence": "Category: animal \nWords: cow, horse, fish, hiking, goat",
+        "label": "hiking"
+    },
+    {
+        "sentence": "Category: weather \nWords: make the grade, raining, fair, luke, honorable",
+        "label": "honorable"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: comfortable, well, fine, alright, bright",
+        "label": "bright"
+    },
+    {
+        "sentence": "Category: emotional display \nWords: pester, calf, fawn, expression, social",
+        "label": "calf"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: frank, provision, brash, courage, integrity",
+        "label": "provision"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: brownies, truffles, fudge, invent, molasses",
+        "label": "invent"
+    },
+    {
+        "sentence": "Category: animal \nWords: fly, run, leap, bats, flap",
+        "label": "flap"
+    },
+    {
+        "sentence": "Category: bird \nWords: crane, tackle, parrot, mallet, neck",
+        "label": "tackle"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: loveful, down, emotional state, remorseful, downward",
+        "label": "downward"
+    },
+    {
+        "sentence": "Category: computers \nWords: keys, image, fax, file, firewall",
+        "label": "fax"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: fall, plunge, jump, tumble, leaves",
+        "label": "leaves"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: train, glide, jog, cockroach, fly",
+        "label": "cockroach"
+    },
+    {
+        "sentence": "Category: location (proximity) \nWords: closest, busy, close, bordering, on top of",
+        "label": "busy"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: tangle, decent, balanced, trustworthy, fair",
+        "label": "tangle"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, light, cold, tone, ghostly",
+        "label": "cold"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: honorable, alright, fair, dishonest, endure",
+        "label": "endure"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: luke, fair, size, light, well",
+        "label": "luke"
+    },
+    {
+        "sentence": "Category: window material \nWords: frame, lead, dish, handle, glass",
+        "label": "dish"
+    },
+    {
+        "sentence": "Category: animal \nWords: fish, whale, kayak, stingray, horse",
+        "label": "kayak"
+    },
+    {
+        "sentence": "Category: poker \nWords: fold, check, dock, hearts, deck",
+        "label": "dock"
+    },
+    {
+        "sentence": "Category: geographical property \nWords: level, plane, flat, lined, house",
+        "label": "house"
+    },
+    {
+        "sentence": "Category: boats \nWords: box, deck, rudder, sail, stern",
+        "label": "box"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: custody, annoyed, money, wispy, fine",
+        "label": "annoyed"
+    },
+    {
+        "sentence": "Category: construction \nWords: dump truck, swift, crane, upraise, windlass",
+        "label": "swift"
+    },
+    {
+        "sentence": "Category: bird \nWords: duck, crane, hummingbird, digger, swallow",
+        "label": "digger"
+    },
+    {
+        "sentence": "Category: animals \nWords: dog, goose, dodge, duck, cat",
+        "label": "dodge"
+    },
+    {
+        "sentence": "Category: computers \nWords: firewall, software, schedule appointments, text, file",
+        "label": "schedule appointments"
+    },
+    {
+        "sentence": "Category: nutritional value \nWords: heavy, fat, heavy, protein, salt",
+        "label": "heavy"
+    },
+    {
+        "sentence": "Category: nutritional value \nWords: calories, calcium, large, fat, iron",
+        "label": "large"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: roll, club, meeting, convention, place",
+        "label": "roll"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: prepare, firewall, correspondence, organize, file",
+        "label": "firewall"
+    },
+    {
+        "sentence": "Category: temperature \nWords: icy, optimist, warm, freezing, cool",
+        "label": "optimist"
+    },
+    {
+        "sentence": "Category: animal \nWords: hamster, bat, camp, iguana, fish",
+        "label": "camp"
+    },
+    {
+        "sentence": "Category: accomodation \nWords: condominium, duplex, studio, flat, level",
+        "label": "level"
+    },
+    {
+        "sentence": "Category: animal \nWords: fish, mice, dolphin, hunting, tiger",
+        "label": "hunting"
+    },
+    {
+        "sentence": "Category: geographical property \nWords: lined, flat, smooshed, paved, plain",
+        "label": "paved"
+    },
+    {
+        "sentence": "Category: direction \nWords: left, remorseful, sliding, down, downward",
+        "label": "remorseful"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: program, jealous, content, substance, file",
+        "label": "jealous"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fine, neat, bright, penalty, attractive",
+        "label": "penalty"
+    },
+    {
+        "sentence": "Category: corporate \nWords: ceo, synergy, firm, common, tough",
+        "label": "tough"
+    },
+    {
+        "sentence": "Category: guitar part \nWords: fret, string, bored, inlays, pick",
+        "label": "bored"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: inferno, recruit, fire, pay, replace",
+        "label": "inferno"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: discothek, club, picnic, lettuce, group",
+        "label": "lettuce"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: hardware, file, schedule appointments, sort mail, make coffee",
+        "label": "hardware"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: well, honorable, sunny, fair, dishonest",
+        "label": "sunny"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: angry, amp, fret, emotional upsets, frustrated",
+        "label": "amp"
+    },
+    {
+        "sentence": "Category: physical property \nWords: fat, brittleness, bulky, absorption, carbs",
+        "label": "carbs"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: annoyed, acceptable, exquisite, detached, fine",
+        "label": "exquisite"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: rudder, ring, tko, deck, apron",
+        "label": "rudder"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: hire, flame, pay, fire, ban",
+        "label": "flame"
+    },
+    {
+        "sentence": "Category: construction \nWords: ostrich, davit, crane, steam roller, upraise",
+        "label": "ostrich"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: roll, open-faced, community, club, submarine",
+        "label": "community"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: jail, arrest, acceptable, fine, firstrate",
+        "label": "acceptable"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: dull, annoyed, classy, fine, attractive",
+        "label": "annoyed"
+    },
+    {
+        "sentence": "Category: outdoor sport activity \nWords: hunt, fish, swim, raft, dog",
+        "label": "dog"
+    },
+    {
+        "sentence": "Category: bird \nWords: neck, crane, mallet, derrick, hummingbird",
+        "label": "derrick"
+    },
+    {
+        "sentence": "Category: bird \nWords: davit, dump truck, goose, crane, sandpiper",
+        "label": "dump truck"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: fall, dodge, swim, duck, sheep",
+        "label": "sheep"
+    },
+    {
+        "sentence": "Category: weather \nWords: luke, fair, mild, 70, color",
+        "label": "color"
+    },
+    {
+        "sentence": "Category: ocean \nWords: main, drink, flow, late, current",
+        "label": "late"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: dishonest, equitable, medium, loyal, fair",
+        "label": "medium"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: jog, walk, swim, fly, flutter",
+        "label": "swim"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: bow, duck, lion, get down, stoop",
+        "label": "lion"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: fine, exquisite, mad, calm, comfortable",
+        "label": "exquisite"
+    },
+    {
+        "sentence": "Category: construction \nWords: tackle, steam roller, crane, upraise, davit",
+        "label": "davit"
+    },
+    {
+        "sentence": "Category: animal \nWords: car, bird, bats, fly, cockroach",
+        "label": "car"
+    },
+    {
+        "sentence": "Category: weather \nWords: 70, fair, warm, ok, stormy",
+        "label": "ok"
+    },
+    {
+        "sentence": "Category: guitar part \nWords: bored, board, fret, jack, pick",
+        "label": "bored"
+    },
+    {
+        "sentence": "Category: ocean \nWords: postponed, sea, drink, course, current",
+        "label": "postponed"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: eagle, car, glide, fly, flutter",
+        "label": "eagle"
+    },
+    {
+        "sentence": "Category: elements \nWords: burn, scold, heat, fire, water",
+        "label": "scold"
+    },
+    {
+        "sentence": "Category: store status \nWords: close, shut, not open, running., right there",
+        "label": "right there"
+    },
+    {
+        "sentence": "Category: physical property \nWords: angular momentum, fat, calcium, brittleness, ugly",
+        "label": "calcium"
+    },
+    {
+        "sentence": "Category: activity \nWords: misuse, fritter, seperate, pastry, goodbye",
+        "label": "pastry"
+    },
+    {
+        "sentence": "Category: weather \nWords: fair, unprejudiced, raining, windy, endure",
+        "label": "unprejudiced"
+    },
+    {
+        "sentence": "Category: military rank \nWords: general, average, captain, private, admiral",
+        "label": "average"
+    },
+    {
+        "sentence": "Category: physical property \nWords: angular momentum, absorption, ugly, fiber, fat",
+        "label": "fiber"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: alright, ok, unjust, fair, light",
+        "label": "light"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: draw, canvas, tko, caution, deck",
+        "label": "draw"
+    },
+    {
+        "sentence": "Category: poker \nWords: pack, call, deck, check, ring",
+        "label": "ring"
+    },
+    {
+        "sentence": "Category: baby animals \nWords: lust, kitten, deer, bambi, fawn",
+        "label": "lust"
+    },
+    {
+        "sentence": "Category: baby animals \nWords: flatter, woods, calf, deer, fawn",
+        "label": "flatter"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: type, space, make coffee, file, schedule",
+        "label": "space"
+    },
+    {
+        "sentence": "Category: date status \nWords: blue, current, data sets, delayed, postponed",
+        "label": "blue"
+    },
+    {
+        "sentence": "Category: weather \nWords: even, cold, stormy, fair, deal",
+        "label": "even"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: excited, content, merchandise, substance, program",
+        "label": "excited"
+    },
+    {
+        "sentence": "Category: store status \nWords: running., close, right there, shut down, gated",
+        "label": "right there"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: falsehood, fudge, truffles, mangle, smuggled",
+        "label": "truffles"
+    },
+    {
+        "sentence": "Category: animal \nWords: bats, fly, glide, dangle, eagle",
+        "label": "glide"
+    },
+    {
+        "sentence": "Category: measurement unit \nWords: centimeter, kilometer, foot, ounce, heel",
+        "label": "heel"
+    },
+    {
+        "sentence": "Category: animal \nWords: jog, walk, fly, run, cockroach",
+        "label": "jog"
+    },
+    {
+        "sentence": "Category: weather \nWords: brisk, unprejudiced, fair, endure, clime",
+        "label": "unprejudiced"
+    },
+    {
+        "sentence": "Category: food \nWords: goodies, sausage, frank, bold, entree",
+        "label": "bold"
+    },
+    {
+        "sentence": "Category: baby animals \nWords: hatchling, bambi, love, fawn, woods",
+        "label": "love"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: clan, submarine, roll, club, grilled cheese",
+        "label": "clan"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fine, level, pretty, mad, detailed",
+        "label": "mad"
+    },
+    {
+        "sentence": "Category: poker \nWords: lifeline, blind, deck, joker, cards",
+        "label": "lifeline"
+    },
+    {
+        "sentence": "Category: window material \nWords: spyhole, fiberglass, glass, knifer, metal",
+        "label": "knifer"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: level, ok, there, handsome, fine",
+        "label": "ok"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: content, item, angry, specialty, clothing",
+        "label": "angry"
+    },
+    {
+        "sentence": "Category: weather \nWords: sunny, unprejudiced, raining, fair, warm",
+        "label": "unprejudiced"
+    },
+    {
+        "sentence": "Category: fried food \nWords: fritter, croquet, patty, dumpling, seperate",
+        "label": "seperate"
+    },
+    {
+        "sentence": "Category: weather \nWords: windy, sunny, fair, ok, luke",
+        "label": "ok"
+    },
+    {
+        "sentence": "Category: weather \nWords: stormy, make the grade, sunny, texture, fair",
+        "label": "texture"
+    },
+    {
+        "sentence": "Category: type of rigidity \nWords: unyielding, solid, inflexible, firm, amalgamated",
+        "label": "amalgamated"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: medium, fair, light, level, sunny",
+        "label": "sunny"
+    },
+    {
+        "sentence": "Category: date status \nWords: detestings, data sets, prompt, course, current",
+        "label": "course"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: equitable, ok, fair, unjust, light",
+        "label": "light"
+    },
+    {
+        "sentence": "Category: food \nWords: wienerwurst, frank, bold, vittles, provision",
+        "label": "bold"
+    },
+    {
+        "sentence": "Category: animal \nWords: canyoning, cow, shark, fish, mice",
+        "label": "canyoning"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: cold, fair, level, variety, light",
+        "label": "cold"
+    },
+    {
+        "sentence": "Category: emotional display \nWords: deer, culture, fawn, follow, suppressed",
+        "label": "deer"
+    },
+    {
+        "sentence": "Category: corporate \nWords: firm, united, shareholders, taut, common",
+        "label": "taut"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: fudge, chocolate cake, cake, unlicensed, rich",
+        "label": "unlicensed"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: let go, blaze, recruit, sack, fire",
+        "label": "blaze"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: unwarranted, truffles, heavy, cookies, fudge",
+        "label": "unwarranted"
+    },
+    {
+        "sentence": "Category: date status \nWords: current, prompt, delayed, blue, late",
+        "label": "blue"
+    },
+    {
+        "sentence": "Category: weather \nWords: windy, make the grade, warm, dishonest, fair",
+        "label": "dishonest"
+    },
+    {
+        "sentence": "Category: emotional display \nWords: culture, cajole, doe, lust, fawn",
+        "label": "doe"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: hearts, deck, apron, box, glove",
+        "label": "hearts"
+    },
+    {
+        "sentence": "Category: personal characteristic \nWords: warm, cool, assured, ethical, funny",
+        "label": "warm"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: club, meeting, group, doorstep, clan",
+        "label": "doorstep"
+    },
+    {
+        "sentence": "Category: animal \nWords: glide, fly, ant, leap, grasshopper",
+        "label": "glide"
+    },
+    {
+        "sentence": "Category: weather \nWords: endure, fair, flaxen, windy, stormy",
+        "label": "flaxen"
+    },
+    {
+        "sentence": "Category: activity \nWords: squander, goodbye, fried, spend, fritter",
+        "label": "fried"
+    },
+    {
+        "sentence": "Category: alcoholic drinks \nWords: whisky, canasta, vodka, rum, gin",
+        "label": "canasta"
+    },
+    {
+        "sentence": "Category: weather \nWords: sunny, fair, deal, make the grade, even",
+        "label": "even"
+    },
+    {
+        "sentence": "Category: direction \nWords: down, lower, left, ground, sad",
+        "label": "sad"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: merchandise, happy, thing, content, service",
+        "label": "happy"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: alert, mad, fine, comfortable, penalty",
+        "label": "penalty"
+    },
+    {
+        "sentence": "Category: boats \nWords: lifeline, gunwale, deck, sail, suits",
+        "label": "suits"
+    },
+    {
+        "sentence": "Category: weather \nWords: mild, fair, color, warm, tangle",
+        "label": "color"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: decent, unjust, texture, just, fair",
+        "label": "texture"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: bright, detached, comfortable, relaxed, fine",
+        "label": "bright"
+    },
+    {
+        "sentence": "Category: date status \nWords: prompt, current, do tests, flow, dastards",
+        "label": "flow"
+    },
+    {
+        "sentence": "Category: weather \nWords: luke, windy, make the grade, unprejudiced, fair",
+        "label": "unprejudiced"
+    },
+    {
+        "sentence": "Category: window material \nWords: metal, spoon, woodwork, glass, wood",
+        "label": "spoon"
+    },
+    {
+        "sentence": "Category: outdoor sport activity \nWords: fish, canoe, hunting, hiking, iguana",
+        "label": "iguana"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: thing, activity, disappointed, content, substance",
+        "label": "disappointed"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: software, schedule appointments, support, schedule, file",
+        "label": "software"
+    },
+    {
+        "sentence": "Category: physical property \nWords: skinny, fat, chunky, obese, big",
+        "label": "big"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: fix, falsification, smear, heavy, fudge",
+        "label": "heavy"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: down, emotional upsets, melancholy, ashamed, ground",
+        "label": "ground"
+    },
+    {
+        "sentence": "Category: bird \nWords: parrot, digger, sandpiper, flamingo, crane",
+        "label": "digger"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: deck, hull, fight, apron, tko",
+        "label": "hull"
+    },
+    {
+        "sentence": "Category: accomodation \nWords: flat, townhome, duplex, elevation, condominium",
+        "label": "elevation"
+    },
+    {
+        "sentence": "Category: date status \nWords: current, prompt, moon, postponed, belated",
+        "label": "moon"
+    },
+    {
+        "sentence": "Category: nutritional value \nWords: fat, sugars, sugar, iron, brittleness",
+        "label": "brittleness"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, well, medium, level, cold",
+        "label": "cold"
+    },
+    {
+        "sentence": "Category: boats \nWords: bridge, sail, blind, deck, gunwale",
+        "label": "blind"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: wispy, money, fine, level, suspension",
+        "label": "level"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: spider, fly, train, jog, car",
+        "label": "spider"
+    },
+    {
+        "sentence": "Category: poker \nWords: joker, check, suits, deck, canvas",
+        "label": "canvas"
+    },
+    {
+        "sentence": "Category: construction \nWords: windlass, crane, hoist, pelican, davit",
+        "label": "pelican"
+    },
+    {
+        "sentence": "Category: corporate \nWords: united, shareholders, firm, stiff, concerted",
+        "label": "stiff"
+    },
+    {
+        "sentence": "Category: alcoholic drinks \nWords: tequila, wine, gin, hearts, vodka",
+        "label": "hearts"
+    },
+    {
+        "sentence": "Category: bird \nWords: derrick, crane, heron, hummingbird, excavator",
+        "label": "excavator"
+    },
+    {
+        "sentence": "Category: animals \nWords: duck, dog, horse, elephant, get down",
+        "label": "get down"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: flyaway, fine, jail time, prime, attractive",
+        "label": "attractive"
+    },
+    {
+        "sentence": "Category: personal characteristic \nWords: relaxed, warm, unflappalbe, classy, cool",
+        "label": "warm"
+    },
+    {
+        "sentence": "Category: weather \nWords: sunny, fair, fine, make the grade, mild",
+        "label": "fine"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: deck, jab, canvas, blocking, bow",
+        "label": "bow"
+    },
+    {
+        "sentence": "Category: fried food \nWords: doughnut, waste away, fritter, dumpling, pastry",
+        "label": "waste away"
+    },
+    {
+        "sentence": "Category: computers \nWords: file, type, hardware, format, keys",
+        "label": "type"
+    },
+    {
+        "sentence": "Category: geographical property \nWords: lined, elevation, flat, paved, cabin",
+        "label": "cabin"
+    },
+    {
+        "sentence": "Category: body part \nWords: eye, head, kilometer, foot, heel",
+        "label": "kilometer"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fine, well, handsome, bright, high quality",
+        "label": "well"
+    },
+    {
+        "sentence": "Category: body part \nWords: arm, hand, foot, leg, centimeter",
+        "label": "centimeter"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: ban, empower, water, fire, hire",
+        "label": "water"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: annoyed, wispy, ok, fine, comfortable",
+        "label": "wispy"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: honorable, tangle, fair, fine, unjust",
+        "label": "tangle"
+    },
+    {
+        "sentence": "Category: accomodation \nWords: hotel, level, flat, even, lined",
+        "label": "lined"
+    },
+    {
+        "sentence": "Category: poker \nWords: knockout, deck, cards, check, suits",
+        "label": "knockout"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: dishonest, fair, unprejudiced, texture, equitable",
+        "label": "texture"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: cake, fudge, rich, invent, cream",
+        "label": "invent"
+    },
+    {
+        "sentence": "Category: physical property \nWords: fat, area, ugly, capacitance, calcium",
+        "label": "calcium"
+    },
+    {
+        "sentence": "Category: bird \nWords: tackle, egret, dump truck, ostrich, crane",
+        "label": "dump truck"
+    },
+    {
+        "sentence": "Category: animal \nWords: mice, bat, dolphin, canyoning, fish",
+        "label": "canyoning"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: bee, swim, fly, car, walk",
+        "label": "bee"
+    },
+    {
+        "sentence": "Category: measurement unit \nWords: foot, kilometer, ounce, ear, mile",
+        "label": "ear"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: level, canvas, punch, deck, sail",
+        "label": "sail"
+    },
+    {
+        "sentence": "Category: animal \nWords: bee, eagle, beetle, fly, walk",
+        "label": "walk"
+    },
+    {
+        "sentence": "Category: bird \nWords: crane, concrete pourer, heron, sandpiper, duck",
+        "label": "concrete pourer"
+    },
+    {
+        "sentence": "Category: ocean \nWords: detestings, whirlpool, jetstream, brine, current",
+        "label": "detestings"
+    },
+    {
+        "sentence": "Category: kitchenware \nWords: dish, panel, cup, bowl, glass",
+        "label": "panel"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: burger, team, place, club, discothek",
+        "label": "burger"
+    },
+    {
+        "sentence": "Category: bird \nWords: parrot, sandpiper, crane, hoist, heron",
+        "label": "hoist"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: suspension, arrest, classy, custody, fine",
+        "label": "classy"
+    },
+    {
+        "sentence": "Category: boats \nWords: hull, galley, deck, lifeline, tko",
+        "label": "tko"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: ashamed, down, emotional upsets, disgusted, ground",
+        "label": "ground"
+    },
+    {
+        "sentence": "Category: activity \nWords: divide, fritter, dessert, whittle, spend",
+        "label": "dessert"
+    },
+    {
+        "sentence": "Category: date status \nWords: early, whirlpool, do tests, detestings, current",
+        "label": "whirlpool"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: honorable, fair, pale, texture, cool",
+        "label": "honorable"
+    },
+    {
+        "sentence": "Category: animal \nWords: cat, kayak, fish, tiger, goat",
+        "label": "kayak"
+    },
+    {
+        "sentence": "Category: military rank \nWords: cadet, general, commander, private, average",
+        "label": "average"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: clothing, content, service, substance, ecstatic",
+        "label": "ecstatic"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: food, happy, disappointed, sad, content",
+        "label": "food"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: content, shop, thing, happy, program",
+        "label": "happy"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: community, club, outing, meeting, burger",
+        "label": "burger"
+    },
+    {
+        "sentence": "Category: animal \nWords: waggle, glide, leap, bird, fly",
+        "label": "glide"
+    },
+    {
+        "sentence": "Category: guitar part \nWords: fret, neck, sad, jack, chord",
+        "label": "sad"
+    },
+    {
+        "sentence": "Category: card games \nWords: gin, rum, war, blackjack, hearts",
+        "label": "rum"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: decent, alert, content, dull, fine",
+        "label": "dull"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: relaxed, fine, high quality, detailed, attractive",
+        "label": "relaxed"
+    },
+    {
+        "sentence": "Category: elements \nWords: fire, burn, ice, air, hire",
+        "label": "hire"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: bold, loyalty, hot dog, concise, frank",
+        "label": "hot dog"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: honest, integrity, frank, wiener, precise",
+        "label": "wiener"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: brownie, cake, fudge, banned, molasses",
+        "label": "banned"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: melancholy, emotional state, sliding, down, disgusted",
+        "label": "sliding"
+    },
+    {
+        "sentence": "Category: military rank \nWords: general, sergeant, normal, soldier, commander",
+        "label": "normal"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: variety, well, fair, medium, endure",
+        "label": "endure"
+    },
+    {
+        "sentence": "Category: guitar part \nWords: strap lock, fingerpick, fret, emotional, truss rod",
+        "label": "emotional"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: jump, fall, leaves, roll, swim",
+        "label": "leaves"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: fire, recruit, ban, praise, blaze",
+        "label": "blaze"
+    },
+    {
+        "sentence": "Category: bird \nWords: windlass, hummingbird, neck, crane, duck",
+        "label": "windlass"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: fib, molasses, pie, cake, fudge",
+        "label": "fib"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: fret, angry, jack, nervous, emotionalities",
+        "label": "jack"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: promote, ice, retire, ban, fire",
+        "label": "ice"
+    },
+    {
+        "sentence": "Category: outdoor sport activity \nWords: fish, trap, hiking, kayak, sea turtle",
+        "label": "sea turtle"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: loosen, fudge, cake, unwarranted, unlicensed",
+        "label": "cake"
+    },
+    {
+        "sentence": "Category: store status \nWords: out of service, close, gated, nearer, shut",
+        "label": "nearer"
+    },
+    {
+        "sentence": "Category: bird \nWords: crane, neck, swift, goose, digger",
+        "label": "digger"
+    },
+    {
+        "sentence": "Category: weather \nWords: luke, fair, stormy, windy, equitable",
+        "label": "equitable"
+    },
+    {
+        "sentence": "Category: animal \nWords: raft, dolphin, stingray, fish, horse",
+        "label": "raft"
+    },
+    {
+        "sentence": "Category: construction \nWords: dump truck, windlass, crane, parrot, winch",
+        "label": "parrot"
+    },
+    {
+        "sentence": "Category: food \nWords: weenie, wiener, meat, matter of fact, frank",
+        "label": "matter of fact"
+    },
+    {
+        "sentence": "Category: body part \nWords: heel, shin, pound, finger, foot",
+        "label": "pound"
+    },
+    {
+        "sentence": "Category: elements \nWords: recruit, fire, burn, blaze, cool",
+        "label": "recruit"
+    },
+    {
+        "sentence": "Category: date status \nWords: prompt, water, current, dastards, detestings",
+        "label": "water"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: alert, fine, relaxed, pretty, mad",
+        "label": "pretty"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: relaxed, content, fine, suspension, mad",
+        "label": "suspension"
+    },
+    {
+        "sentence": "Category: corporate \nWords: rigged, corporation, firm, ceo, alignment",
+        "label": "rigged"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: fine, ticket, arrest, wispy, calm",
+        "label": "calm"
+    },
+    {
+        "sentence": "Category: boats \nWords: gunwale, bridge, apron, deck, galley",
+        "label": "apron"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: size, equitable, fair, alright, fine",
+        "label": "size"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: hearing, there, beautiful, fine, attractive",
+        "label": "hearing"
+    },
+    {
+        "sentence": "Category: bird \nWords: dump truck, hoist, crane, ostrich, goose",
+        "label": "dump truck"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: tangle, fair, impartial, dishonest, balanced",
+        "label": "tangle"
+    },
+    {
+        "sentence": "Category: date status \nWords: postponed, prompt, delayed, current, drink",
+        "label": "drink"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: suspension, flyaway, happy, jail time, fine",
+        "label": "happy"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fine, money, high quality, dull, there",
+        "label": "money"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: firstrate, happy, fine, ok, well",
+        "label": "firstrate"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: ok, equitable, fair, loyal, well",
+        "label": "well"
+    },
+    {
+        "sentence": "Category: personal characteristic \nWords: cool, icy, calm, persistent, unruffled",
+        "label": "icy"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: flaxen, pale, unprejudiced, fair, milky",
+        "label": "unprejudiced"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: recruit, fire, earth, sack, instruct",
+        "label": "earth"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: dagwood, blt, submarine, community, club",
+        "label": "community"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: probation, suspension, jail, fine, attractive",
+        "label": "attractive"
+    },
+    {
+        "sentence": "Category: fried food \nWords: skin, pie, seperate, dunker, fritter",
+        "label": "seperate"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: exquisite, fine, acceptable, comfortable, mad",
+        "label": "exquisite"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: glove, blocking, punch, deck, sail",
+        "label": "sail"
+    },
+    {
+        "sentence": "Category: direction \nWords: miserable, left, south, down, right",
+        "label": "miserable"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: correspondence, file, hardware, sort mail, order office supplies",
+        "label": "hardware"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: air, fire, hire, ban, promote",
+        "label": "air"
+    },
+    {
+        "sentence": "Category: animal \nWords: jump, soar, fly, eagle, leap",
+        "label": "soar"
+    },
+    {
+        "sentence": "Category: food \nWords: weenie, precise, vittles, frank, goodies",
+        "label": "precise"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: pretty, probation, neat, fine, level",
+        "label": "probation"
+    },
+    {
+        "sentence": "Category: widespread \nWords: regular, typical, general, cadet, ordinary",
+        "label": "cadet"
+    },
+    {
+        "sentence": "Category: ocean \nWords: moon, current, water, prompt, sea",
+        "label": "prompt"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: penalty, fine, decent, alright, content",
+        "label": "penalty"
+    },
+    {
+        "sentence": "Category: location (proximity) \nWords: not open, beside, close, neighboring, nearer",
+        "label": "not open"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: walk, wave, car, fly, bee",
+        "label": "bee"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: fine, probation, acceptable, hearing, ticket",
+        "label": "acceptable"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: duck, geese, get down, bend, push",
+        "label": "geese"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: milky, fair, flaxen, size, well",
+        "label": "well"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: milky, even, texture, fair, loyal",
+        "label": "loyal"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: scold, remove, inferno, fire, pay",
+        "label": "inferno"
+    },
+    {
+        "sentence": "Category: animal \nWords: fly, wave, pounce, grasshopper, leap",
+        "label": "wave"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: hull, deck, caution, punch, corner",
+        "label": "hull"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: fearful, content, thing, tools, substance",
+        "label": "fearful"
+    },
+    {
+        "sentence": "Category: outdoor sport activity \nWords: hunting, fish, kayak, goat, raft",
+        "label": "goat"
+    },
+    {
+        "sentence": "Category: animal \nWords: iguana, dolphin, climbing, fish, horse",
+        "label": "climbing"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: flyaway, hearing, jail, fine, well",
+        "label": "well"
+    },
+    {
+        "sentence": "Category: body part \nWords: hand, finger, foot, knee, centimeter",
+        "label": "centimeter"
+    },
+    {
+        "sentence": "Category: weather \nWords: sunny, clime, make the grade, fair, size",
+        "label": "size"
+    },
+    {
+        "sentence": "Category: corporate \nWords: firm, inflexible, sustainability, streamline, corporation",
+        "label": "inflexible"
+    },
+    {
+        "sentence": "Category: outdoor sport activity \nWords: wrestle, fish, iguana, hiking, hunt",
+        "label": "iguana"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: panicked, activity, program, specialty, content",
+        "label": "panicked"
+    },
+    {
+        "sentence": "Category: date status \nWords: data sets, tide, late, detestings, current",
+        "label": "tide"
+    },
+    {
+        "sentence": "Category: window material \nWords: lead, panel, glass, cup, spyhole",
+        "label": "cup"
+    },
+    {
+        "sentence": "Category: emotional display \nWords: paw, suppressed, cub, love, fawn",
+        "label": "cub"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: mad, beautiful, comfortable, fine, relaxed",
+        "label": "beautiful"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: lie, molasses, invent, fudge, banned",
+        "label": "molasses"
+    },
+    {
+        "sentence": "Category: animal \nWords: dangle, wave, fly, cockroach, run",
+        "label": "wave"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: drive, bee, fly, wave, bus",
+        "label": "bee"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: burn, promote, instruct, fire, ban",
+        "label": "burn"
+    },
+    {
+        "sentence": "Category: poker \nWords: deck, queen, rudder, call, hearts",
+        "label": "rudder"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: ashamed, right, sad, down, emotional state",
+        "label": "right"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: invent, fudge, replace, pie, fib",
+        "label": "pie"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: flap, glide, fly, swim, drive",
+        "label": "swim"
+    },
+    {
+        "sentence": "Category: geographical property \nWords: flat, smooshed, mansion, smooth, hill",
+        "label": "mansion"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: precise, integrity, frank, cheese, brash",
+        "label": "cheese"
+    },
+    {
+        "sentence": "Category: weather \nWords: stormy, deal, trustworthy, raining, fair",
+        "label": "trustworthy"
+    },
+    {
+        "sentence": "Category: accomodation \nWords: flat, studio, duplex, valley, mansion",
+        "label": "valley"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: retire, heat, fire, instruct, recruit",
+        "label": "heat"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: classy, arrest, there, beautiful, fine",
+        "label": "arrest"
+    },
+    {
+        "sentence": "Category: window material \nWords: cup, vinyl, panel, glass, coating",
+        "label": "cup"
+    },
+    {
+        "sentence": "Category: animals \nWords: ostrich, sheep, duck, horse, swim",
+        "label": "swim"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: cow, duck, push, squat, crouch",
+        "label": "cow"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: high quality, exquisite, ok, fine, attractive",
+        "label": "ok"
+    },
+    {
+        "sentence": "Category: fried food \nWords: fritter, croquet, goodbye, pastry, apple",
+        "label": "goodbye"
+    },
+    {
+        "sentence": "Category: widespread \nWords: normal, average, ubiquitous, general, captain",
+        "label": "captain"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: bacon, community, club, hero, lettuce",
+        "label": "community"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: falsehood, fudge, cookies, truffles, tart",
+        "label": "falsehood"
+    },
+    {
+        "sentence": "Category: animals \nWords: duck, lion, squat, geese, ostrich",
+        "label": "squat"
+    },
+    {
+        "sentence": "Category: baby animals \nWords: bambi, cub, doe, lust, fawn",
+        "label": "lust"
+    },
+    {
+        "sentence": "Category: kitchenware \nWords: bowl, glass, coating, knife, knifer",
+        "label": "coating"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: custody, jail time, exquisite, fine, wispy",
+        "label": "exquisite"
+    },
+    {
+        "sentence": "Category: weather \nWords: just, warm, sunny, fair, raining",
+        "label": "just"
+    },
+    {
+        "sentence": "Category: weather \nWords: pale, fair, deal, 70, warm",
+        "label": "pale"
+    },
+    {
+        "sentence": "Category: card games \nWords: brandy, pinochle, uno, poker, gin",
+        "label": "brandy"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: merchandise, substance, specialty, content, angry",
+        "label": "angry"
+    },
+    {
+        "sentence": "Category: kitchenware \nWords: glass, knife, plate, spatula, handle",
+        "label": "handle"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: board, emotional upsets, fret, emotional supports, emotional state",
+        "label": "board"
+    },
+    {
+        "sentence": "Category: boats \nWords: deck, hearts, crew, bow, head",
+        "label": "hearts"
+    },
+    {
+        "sentence": "Category: weather \nWords: milky, stormy, sunny, raining, fair",
+        "label": "milky"
+    },
+    {
+        "sentence": "Category: bird \nWords: sandpiper, derrick, heron, crane, hoist",
+        "label": "derrick"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: hoagie, bacon, outing, club, open-faced",
+        "label": "outing"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: firstrate, suspension, probation, there, fine",
+        "label": "there"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: probation, fine, mad, detached, calm",
+        "label": "probation"
+    },
+    {
+        "sentence": "Category: direction \nWords: lower, backward, down, falling, shameful",
+        "label": "shameful"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: club, french toast, community, roll, hero",
+        "label": "community"
+    },
+    {
+        "sentence": "Category: window material \nWords: coating, bowl, spyhole, lead, glass",
+        "label": "bowl"
+    },
+    {
+        "sentence": "Category: direction \nWords: south, downward, flat, down, emotional state",
+        "label": "emotional state"
+    },
+    {
+        "sentence": "Category: baby animals \nWords: love, cub, fawn, hatchling, calf",
+        "label": "love"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: fudge, brownie, chocolate cake, fix, tart",
+        "label": "fix"
+    },
+    {
+        "sentence": "Category: corporate \nWords: firm, shareholders, common, alignment, taut",
+        "label": "taut"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: club, open-faced, convention, doorstep, roll",
+        "label": "convention"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: brisk, size, light, fair, cool",
+        "label": "brisk"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, pale, texture, brisk, level",
+        "label": "brisk"
+    },
+    {
+        "sentence": "Category: emotional display \nWords: cajole, hatchling, lust, social, fawn",
+        "label": "hatchling"
+    },
+    {
+        "sentence": "Category: store status \nWords: close, running., slow, busy, near",
+        "label": "near"
+    },
+    {
+        "sentence": "Category: outdoor sport activity \nWords: fish, hike, hunting, row, dog",
+        "label": "dog"
+    },
+    {
+        "sentence": "Category: store status \nWords: not open, gated, close, shut down, touching",
+        "label": "touching"
+    },
+    {
+        "sentence": "Category: geographical property \nWords: smooshed, apartment, mountain, level, flat",
+        "label": "apartment"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: fine, money, arrest, alert, penalty",
+        "label": "alert"
+    },
+    {
+        "sentence": "Category: computers \nWords: motherboard, folder, hardware, file, schedule appointments",
+        "label": "schedule appointments"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: fret, emotional supports, crying, frustrated, amp",
+        "label": "amp"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: group, dance hall, clan, club, dagwood",
+        "label": "dagwood"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: impartial, fair, just, tone, unprejudiced",
+        "label": "tone"
+    },
+    {
+        "sentence": "Category: bird \nWords: crane, goose, hummingbird, davit, steam roller",
+        "label": "steam roller"
+    },
+    {
+        "sentence": "Category: widespread \nWords: admiral, general, typical, common, boring",
+        "label": "admiral"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fine, level, neat, there, wispy",
+        "label": "wispy"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, pale, windy, flaxen, cool",
+        "label": "windy"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: blt, bar, dagwood, hoagie, club",
+        "label": "bar"
+    },
+    {
+        "sentence": "Category: temperature \nWords: cool, chill, funny, cold, mild",
+        "label": "funny"
+    },
+    {
+        "sentence": "Category: personal characteristic \nWords: freezing, calm, positive, cool, popular",
+        "label": "freezing"
+    },
+    {
+        "sentence": "Category: fried food \nWords: fritter, waste away, blueberry, doughnut, pastry",
+        "label": "waste away"
+    },
+    {
+        "sentence": "Category: animal \nWords: fly, run, glide, grasshopper, dive",
+        "label": "glide"
+    },
+    {
+        "sentence": "Category: weather \nWords: even, tangle, mild, fair, 70",
+        "label": "even"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: deck, blocking, punch, draw, box",
+        "label": "draw"
+    },
+    {
+        "sentence": "Category: window material \nWords: panel, glass, translucent fabric, dish, plastic",
+        "label": "dish"
+    },
+    {
+        "sentence": "Category: animal \nWords: cockroach, leap, drive, swim, fly",
+        "label": "drive"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: ticket, fine, hearing, probation, classy",
+        "label": "classy"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: brownie, fudge, wrongful, mangle, loosen",
+        "label": "brownie"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: well, alert, content, custody, fine",
+        "label": "custody"
+    },
+    {
+        "sentence": "Category: geographical property \nWords: lined, mountain, flat, cabin, elevation",
+        "label": "cabin"
+    },
+    {
+        "sentence": "Category: boats \nWords: joker, rudder, dock, deck, sail",
+        "label": "joker"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: club, open-faced, bacon, french toast, dance hall",
+        "label": "dance hall"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: suspension, mad, fine, firstrate, flyaway",
+        "label": "mad"
+    },
+    {
+        "sentence": "Category: geographical property \nWords: condominium, flat, valley, even, hill",
+        "label": "condominium"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: pale, ghostly, tone, make the grade, fair",
+        "label": "make the grade"
+    },
+    {
+        "sentence": "Category: widespread \nWords: average, popular, general, common, major",
+        "label": "major"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, pale, even, size, unjust",
+        "label": "unjust"
+    },
+    {
+        "sentence": "Category: widespread \nWords: general, popular, admiral, ordinary, typical",
+        "label": "admiral"
+    },
+    {
+        "sentence": "Category: direction \nWords: ground, down, up, emotional, south",
+        "label": "emotional"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: fire, blaze, scold, empower, ban",
+        "label": "blaze"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: emotional supports, pick, anxious, frustrated, fret",
+        "label": "pick"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: frank, brash, precise, cheese, harsh",
+        "label": "cheese"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: format, sort mail, make coffee, order office supplies, file",
+        "label": "format"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: relaxed, exquisite, fine, comfortable, detached",
+        "label": "exquisite"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: acceptable, mad, fine, comfortable, probation",
+        "label": "probation"
+    },
+    {
+        "sentence": "Category: baby animals \nWords: culture, fawn, kid, calf, woods",
+        "label": "culture"
+    },
+    {
+        "sentence": "Category: baby animals \nWords: cub, kid, cajole, fawn, doe",
+        "label": "cajole"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: prison, prime, classy, arrest, fine",
+        "label": "classy"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: hoagie, blt, submarine, group, club",
+        "label": "group"
+    },
+    {
+        "sentence": "Category: kitchenware \nWords: knifer, knive, glass, woodwork, knife",
+        "label": "woodwork"
+    },
+    {
+        "sentence": "Category: shady activities \nWords: wrongful, fudge, unwarranted, fix, cake",
+        "label": "cake"
+    },
+    {
+        "sentence": "Category: animal \nWords: fly, car, bird, bee, bats",
+        "label": "car"
+    },
+    {
+        "sentence": "Category: direction \nWords: unhappy, backward, flat, down, up",
+        "label": "unhappy"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: fire, praise, promote, let go, ice",
+        "label": "ice"
+    },
+    {
+        "sentence": "Category: accomodation \nWords: squashed, condominium, flat, even, level",
+        "label": "even"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: opposite of up, emotional supports, down, kind, disgusted",
+        "label": "opposite of up"
+    },
+    {
+        "sentence": "Category: emotional display \nWords: fawn, follow, expression, colt, paw",
+        "label": "colt"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: even, equitable, unprejudiced, fair, impartial",
+        "label": "even"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: team, clan, bar, club, hoagie",
+        "label": "hoagie"
+    },
+    {
+        "sentence": "Category: accomodation \nWords: flat, squashed, even, smooth, studio",
+        "label": "smooth"
+    },
+    {
+        "sentence": "Category: widespread \nWords: general, common, normal, boring, fighter",
+        "label": "fighter"
+    },
+    {
+        "sentence": "Category: outdoor sport activity \nWords: kayak, mice, fish, climbing, swim",
+        "label": "mice"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: scold, replace, empower, fire, heat",
+        "label": "heat"
+    },
+    {
+        "sentence": "Category: ocean \nWords: jetstream, signal, moon, late, current",
+        "label": "late"
+    },
+    {
+        "sentence": "Category: animal \nWords: fly, bike, bee, cockroach, waggle",
+        "label": "bike"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: level, handsome, fine, hearing, detailed",
+        "label": "hearing"
+    },
+    {
+        "sentence": "Category: military rank \nWords: general, fighter, normal, major, lieutenant",
+        "label": "normal"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: blocking, crew, jab, deck, glove",
+        "label": "crew"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: stormy, fair, fine, impartial, trustworthy",
+        "label": "stormy"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: bike, flap, waggle, fly, soar",
+        "label": "waggle"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: nervous, bored, emotional supports, chord, fret",
+        "label": "chord"
+    },
+    {
+        "sentence": "Category: employment activity \nWords: let go, hire, fire, scold, water",
+        "label": "water"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: fair, dishonest, variety, flaxen, even",
+        "label": "dishonest"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: support, file, program, order office supplies, reception",
+        "label": "program"
+    },
+    {
+        "sentence": "Category: construction \nWords: winch, crane, tackle, windlass, digger",
+        "label": "tackle"
+    },
+    {
+        "sentence": "Category: computers \nWords: keys, file, text, format, organize",
+        "label": "organize"
+    },
+    {
+        "sentence": "Category: type of rigidity \nWords: firm, private, solid, tough, stiff",
+        "label": "private"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: pack, ring, deck, box, glove",
+        "label": "pack"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: blunt, provision, honesty, bold, frank",
+        "label": "provision"
+    },
+    {
+        "sentence": "Category: fried food \nWords: dunker, blueberry, cake, seperate, fritter",
+        "label": "seperate"
+    },
+    {
+        "sentence": "Category: emotional display \nWords: expression, identity, paw, calf, fawn",
+        "label": "calf"
+    },
+    {
+        "sentence": "Category: kitchenware \nWords: knife, dish, metal, glass, knifer",
+        "label": "metal"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: happy, service, content, program, books",
+        "label": "happy"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: down, kind, disgusted, shameful, forward",
+        "label": "forward"
+    },
+    {
+        "sentence": "Category: weather \nWords: endure, tangle, fair, luke, decent",
+        "label": "decent"
+    },
+    {
+        "sentence": "Category: fried food \nWords: dumpling, patty, danish, waste, fritter",
+        "label": "waste"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: prison, fine, jail, dull, jail time",
+        "label": "dull"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: truss rod, fret, nervous, worried, emotional supports",
+        "label": "truss rod"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: unprejudiced, milky, size, cool, fair",
+        "label": "unprejudiced"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: drive, wave, swim, fly, bee",
+        "label": "bee"
+    },
+    {
+        "sentence": "Category: card games \nWords: pinochle, gin, vodka, hearts, spades",
+        "label": "vodka"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: prison, penalty, fine, jail, detailed",
+        "label": "detailed"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: just, windy, balanced, fine, fair",
+        "label": "windy"
+    },
+    {
+        "sentence": "Category: physical property \nWords: chunky, vitamin c, thin, absorption, fat",
+        "label": "vitamin c"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: alright, fine, money, well, relaxed",
+        "label": "money"
+    },
+    {
+        "sentence": "Category: poker \nWords: cards, hearts, deck, chips, knockout",
+        "label": "knockout"
+    },
+    {
+        "sentence": "Category: elements \nWords: let go, ground, ice, air, fire",
+        "label": "let go"
+    },
+    {
+        "sentence": "Category: season \nWords: swim, leaves, fall, hiems, spring",
+        "label": "swim"
+    },
+    {
+        "sentence": "Category: store status \nWords: close, open, neighboring, shut, running.",
+        "label": "neighboring"
+    },
+    {
+        "sentence": "Category: bird \nWords: winch, duck, winch, crane, swallow",
+        "label": "winch"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: burger, community, clan, dance hall, club",
+        "label": "burger"
+    },
+    {
+        "sentence": "Category: boxing terminology \nWords: knockout, punch, lifeline, level, deck",
+        "label": "lifeline"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: joyful, fearful, content, happy, books",
+        "label": "books"
+    },
+    {
+        "sentence": "Category: animal \nWords: swim, fly, glide, beetle, pounce",
+        "label": "glide"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: jail time, custody, alert, fine, prime",
+        "label": "alert"
+    },
+    {
+        "sentence": "Category: food \nWords: bun, frank, wiener, cheese, precise",
+        "label": "precise"
+    },
+    {
+        "sentence": "Category: boats \nWords: galley, deck, punch, rudder, sail",
+        "label": "punch"
+    },
+    {
+        "sentence": "Category: ocean \nWords: wave, current, water, belated, jetstream",
+        "label": "belated"
+    },
+    {
+        "sentence": "Category: geographical property \nWords: mansion, elevation, even, smooshed, flat",
+        "label": "mansion"
+    },
+    {
+        "sentence": "Category: corporate \nWords: corporation, stiff, firm, amalgamated, alignment",
+        "label": "stiff"
+    },
+    {
+        "sentence": "Category: widespread \nWords: common, general, major, ordinary, universal",
+        "label": "major"
+    },
+    {
+        "sentence": "Category: physical property \nWords: fat, chunky, area, bulky, calcium",
+        "label": "calcium"
+    },
+    {
+        "sentence": "Category: boats \nWords: hull, box, rudder, gunwale, deck",
+        "label": "box"
+    },
+    {
+        "sentence": "Category: military rank \nWords: general, major, private, average, sargent",
+        "label": "average"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: below, shameful, unhappy, down, disgusted",
+        "label": "below"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: milky, even, fair, clime, pale",
+        "label": "clime"
+    },
+    {
+        "sentence": "Category: guitar part \nWords: fret, strap lock, output cord, angry, headstock",
+        "label": "angry"
+    },
+    {
+        "sentence": "Category: personal characteristic \nWords: scorching, cool, confident, unruffled, positive",
+        "label": "scorching"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: errands, fax, file, type, ram",
+        "label": "ram"
+    },
+    {
+        "sentence": "Category: widespread \nWords: lieutenant, typical, universal, general, ordinary",
+        "label": "lieutenant"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: push, lion, crouch, duck, sprint",
+        "label": "lion"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: high quality, handsome, annoyed, fine, exquisite",
+        "label": "annoyed"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: provision, fortitude, frank, brash, honest",
+        "label": "provision"
+    },
+    {
+        "sentence": "Category: personal characteristic \nWords: optimist, funny, cool, relaxed, hot",
+        "label": "hot"
+    },
+    {
+        "sentence": "Category: food \nWords: frank, fortitude, goodies, cheese, bun",
+        "label": "fortitude"
+    },
+    {
+        "sentence": "Category: computers \nWords: software, sort mail, folder, file, keys",
+        "label": "sort mail"
+    },
+    {
+        "sentence": "Category: military rank \nWords: lieutenant, soldier, major, plain, general",
+        "label": "plain"
+    },
+    {
+        "sentence": "Category: bird \nWords: heron, digger, hoist, crane, parrot",
+        "label": "digger"
+    },
+    {
+        "sentence": "Category: fried food \nWords: pastry, patty, waste, pie, fritter",
+        "label": "waste"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: calm, level, pretty, fine, classy",
+        "label": "calm"
+    },
+    {
+        "sentence": "Category: physical property \nWords: big boned, fat, skinny, vitamin c, chunky",
+        "label": "vitamin c"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: nervous, item, content, sad, joyful",
+        "label": "item"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: content, file, clothing, substance, happy",
+        "label": "happy"
+    },
+    {
+        "sentence": "Category: physical activity \nWords: summer, fall, tumble, trip, roll",
+        "label": "summer"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: merchandise, panicked, content, books, food",
+        "label": "panicked"
+    },
+    {
+        "sentence": "Category: boats \nWords: deck, knockout, bow, sail, rudder",
+        "label": "knockout"
+    },
+    {
+        "sentence": "Category: elements \nWords: blaze, heat, ice, scold, fire",
+        "label": "scold"
+    },
+    {
+        "sentence": "Category: direction \nWords: down, flat, miserable, right, below",
+        "label": "miserable"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: decent, fine, suspension, wispy, penalty",
+        "label": "decent"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: attractive, fine, penalty, high quality, detailed",
+        "label": "penalty"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: convention, club, discothek, hamburger, dance hall",
+        "label": "hamburger"
+    },
+    {
+        "sentence": "Category: body part \nWords: foot, ear, heel, eye, yard",
+        "label": "yard"
+    },
+    {
+        "sentence": "Category: animal \nWords: run, bats, fly, flutter, spider",
+        "label": "flutter"
+    },
+    {
+        "sentence": "Category: animal \nWords: bike, fish, jump, eagle, fly",
+        "label": "bike"
+    },
+    {
+        "sentence": "Category: physical property \nWords: pasty, fat, absorption, fiber, chunky",
+        "label": "fiber"
+    },
+    {
+        "sentence": "Category: body part \nWords: foot, pound, eye, heel, elbow",
+        "label": "pound"
+    },
+    {
+        "sentence": "Category: weather \nWords: sunny, tangle, pale, cold, fair",
+        "label": "pale"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: unprejudiced, texture, fair, impartial, well",
+        "label": "texture"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: specialty, service, happy, file, content",
+        "label": "happy"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: medium, equitable, even, flaxen, fair",
+        "label": "equitable"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: integrity, frank, loyalty, hot dog, precise",
+        "label": "hot dog"
+    },
+    {
+        "sentence": "Category: card games \nWords: gin, slapjack, spider, wine, blackjack",
+        "label": "wine"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: stern, frank, harsh, matter of fact, goodies",
+        "label": "goodies"
+    },
+    {
+        "sentence": "Category: secretary duty \nWords: motherboard, schedule appointments, schedule, file, type",
+        "label": "motherboard"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: drive, train, bird, fly, bike",
+        "label": "bird"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: classy, relaxed, mad, decent, fine",
+        "label": "classy"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: tools, content, books, panicked, file",
+        "label": "panicked"
+    },
+    {
+        "sentence": "Category: police punishment \nWords: wispy, fine, flyaway, prime, high quality",
+        "label": "high quality"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: chocolate, falsehood, fudge, pie, pudding",
+        "label": "falsehood"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: fortitude, honesty, meat, frank, brash",
+        "label": "meat"
+    },
+    {
+        "sentence": "Category: aesthetic characteristic \nWords: annoyed, fine, there, exquisite, neat",
+        "label": "annoyed"
+    },
+    {
+        "sentence": "Category: computers \nWords: image, support, file, space, hardware",
+        "label": "support"
+    },
+    {
+        "sentence": "Category: consumer product \nWords: content, jealous, file, merchandise, thing",
+        "label": "jealous"
+    },
+    {
+        "sentence": "Category: computers \nWords: sort mail, software, file, format, motherboard",
+        "label": "sort mail"
+    },
+    {
+        "sentence": "Category: direction \nWords: right, backward, down, kind, opposite of up",
+        "label": "kind"
+    },
+    {
+        "sentence": "Category: moral characteristic \nWords: blunt, hot dog, fortitude, frank, loyalty",
+        "label": "hot dog"
+    },
+    {
+        "sentence": "Category: weather \nWords: fair, clime, mild, warm, well",
+        "label": "well"
+    },
+    {
+        "sentence": "Category: social gathering \nWords: group, place, community, hoagie, club",
+        "label": "hoagie"
+    },
+    {
+        "sentence": "Category: mode of transportation \nWords: bee, swim, soar, fly, wave",
+        "label": "bee"
+    },
+    {
+        "sentence": "Category: emotional status \nWords: content, disappointed, clothing, excited, panicked",
+        "label": "clothing"
+    },
+    {
+        "sentence": "Category: chocolate food \nWords: pie, fudge, wrongful, rich, pudding",
+        "label": "wrongful"
+    },
+    {
+        "sentence": "Category: type of sandwich \nWords: club, grilled cheese, picnic, lettuce, hero",
+        "label": "picnic"
+    },
+    {
+        "sentence": "Category: food \nWords: frank, loyalty, cheese, weenie, goodies",
+        "label": "loyalty"
+    },
+    {
+        "sentence": "Category: emotional display \nWords: fawn, hatchling, love, pester, swoon",
+        "label": "hatchling"
+    }
+]
