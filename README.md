@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-    `Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning`
+    Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning
     <br><br>
     <b>ICML 2026</b>
     <br><br>
