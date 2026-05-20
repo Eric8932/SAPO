@@ -102,21 +102,7 @@ python3 src/run_evaluation.py \
 * `--outputs_dir`: The directory containing the training outputs (e.g., subfolders like `1-taskXXX`, `2-taskXXX`).
 * `--initial_metric_file`: The JSON file containing the model's initial performance.
 
-## 📚 Citations
 
-If you find this work useful, please kindly star the repo and and cite the paper below. For questions, contact wenhangshi@ruc.edu.cn, or open an issue. Thank you!
-
-```bibtex
-@misc{shi2025lossgaingatedrefinement,
-      title={No Loss, No Gain: Gated Refinement and Adaptive Compression for Prompt Optimization}, 
-      author={Wenhang Shi and Yiren Chen and Shuqing Bian and Xinyi Zhang and Kai Tang and Pengfei Hu and Zhe Zhao and Wei Lu and Xiaoyong Du},
-      year={2025},
-      eprint={2509.23387},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2509.23387}, 
-}
-```
 
 
 ## 💐 Acknowledgments
