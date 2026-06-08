@@ -102,7 +102,17 @@ python3 src/run_evaluation.py \
 * `--outputs_dir`: The directory containing the training outputs (e.g., subfolders like `1-taskXXX`, `2-taskXXX`).
 * `--initial_metric_file`: The JSON file containing the model's initial performance.
 
+## 📖 Citation
+If you find this work useful, please kindly star the repo and and cite the paper below. For questions, contact wenhangshi@ruc.edu.cn, or open an issue. Thank you!
 
+```bibtex
+@article{shi2026training,
+  title={Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning},
+  author={Shi, Wenhang and Chen, Yiren and Bian, Shuqing and Zhao, Zhe and Dong, Jinhao and Hu, Pengfei and Lu, Wei and Du, Xiaoyong},
+  journal={arXiv preprint arXiv:2606.01967},
+  year={2026}
+}
+```
 
 
 ## 💐 Acknowledgments
